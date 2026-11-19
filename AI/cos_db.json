@@ -1,0 +1,5137 @@
+[
+  {
+    "cn": [
+      "蒂法·洛克哈特",
+      "蒂法",
+      "Tifa Lockhart",
+      "ティファ・ロックハート"
+    ],
+    "char": "tifa lockhart",
+    "series": "final fantasy",
+    "seriesCN": "最终幻想",
+    "appearance": [
+      "dark brown hair",
+      "very long hair",
+      "hair tied near the ends",
+      "dolphin-tail hair ends",
+      "swept bangs",
+      "red eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "武蔵",
+      "musashi",
+      "武藏"
+    ],
+    "char": "musashi",
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "appearance": [
+      "dark purple hair",
+      "very long hair",
+      "long sidelocks",
+      "brown eyes",
+      "fox ears",
+      "multiple fox tails",
+      "whisker-like facial markings"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "yunyun",
+      "芸芸",
+      "ゆんゆん"
+    ],
+    "char": "yunyun",
+    "series": "kono subarashii sekai ni shukufuku wo!",
+    "seriesCN": "為美好的世界獻上祝福",
+    "appearance": [
+      "dark brown hair",
+      "long hair",
+      "low twintails",
+      "crimson eyes",
+      "long side bangs",
+      "red ribbons fastening twintails"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "rapi",
+      "拉毗"
+    ],
+    "char": "rapi",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "brown hair",
+      "light brown hair",
+      "long hair",
+      "bangs",
+      "sidelocks",
+      "orange eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "menoly mallia",
+      "メノリ・マリア",
+      "Menoly",
+      "梅諾莉·瑪莉亞",
+      "梅諾莉"
+    ],
+    "char": "menoly mallia",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "blonde hair",
+      "short hair",
+      "slicked hair",
+      "short right eye fringe",
+      "green eyes",
+      "hollow mask covering right eye",
+      "teeth along lower edge of hollow mask"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "okusora ayane",
+      "奧空綾音",
+      "綾音",
+      "アヤネ"
+    ],
+    "char": "hanekawa ayane",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "black bob cut",
+      "bangs",
+      "braided hair headband",
+      "amber eyes",
+      "pointy elf ears",
+      "red glasses",
+      "white butterfly hairpin with red center",
+      "halo with red crosshair motif"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "roboco-san",
+      "ロボ子さん",
+      "蘿蔔子",
+      "蘿蔔子さん",
+      "萝卜子",
+      "roboco"
+    ],
+    "char": "roboco-san",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "brown hair",
+      "shoulder-length hair",
+      "blunt bangs",
+      "yellow eyes",
+      "glasses",
+      "triangular hair ornament",
+      "mechanical arms"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "vi",
+      "菲艾"
+    ],
+    "char": "vi",
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "appearance": [
+      "pink hair",
+      "short hair",
+      "asymmetrical choppy haircut",
+      "spiky hair",
+      "grey eyes",
+      "eyebrow scar",
+      "ear piercings",
+      "VI tattoo on cheek",
+      "arm tattoos"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kanzaki ranko",
+      "神崎蘭子",
+      "蘭子"
+    ],
+    "char": "kanzaki ranko",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "appearance": [
+      "silver grey hair",
+      "very long hair",
+      "twin drill ponytails",
+      "spiral curled ends",
+      "blunt bangs",
+      "long sidelocks",
+      "red eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "森久保乃乃"
+    ],
+    "char": "morikubo nono",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "appearance": [
+      "light brown hair",
+      "medium hair",
+      "wavy hair",
+      "large curled sidelocks",
+      "swept bangs",
+      "hair between eyes",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "tsukumo sana",
+      "sana",
+      "九十九佐命",
+      "佐命"
+    ],
+    "char": "sana",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "ivory blonde hair",
+      "very long hair",
+      "twintails",
+      "blunt bangs",
+      "golden eyes",
+      "dark tan skin",
+      "spiral limiter antenna",
+      "planet-shaped hair ornaments"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "毒蛇",
+      "viper"
+    ],
+    "char": "viper",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "light brown hair",
+      "very long hair",
+      "blunt bangs",
+      "long sidelocks",
+      "hair intakes",
+      "pink-red eyes",
+      "mole under eye",
+      "pink horn-shaped hairclips"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "時乃空",
+      "空",
+      "tokino sora",
+      "ときのそら"
+    ],
+    "char": "tokino sora",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "brown hair",
+      "long straight hair",
+      "double-parted bangs",
+      "long sidelocks",
+      "brown eyes",
+      "star-shaped hairclip",
+      "diamond-shaped hairclip"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "大神澪",
+      "澪",
+      "ookami mio",
+      "大神ミオ"
+    ],
+    "char": "ookami mio",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "red streaked hair",
+      "wolf ears",
+      "wolf tail",
+      "golden-brown eyes",
+      "yellow lemon-wedge hairclip with white cross"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "wiz",
+      "維茲",
+      "ウィズ"
+    ],
+    "char": "wiz",
+    "series": "kono subarashii sekai ni shukufuku wo!",
+    "seriesCN": "為美好的世界獻上祝福",
+    "appearance": [
+      "brown hair",
+      "long wavy hair",
+      "curled hair ends",
+      "long front sidelocks",
+      "brown eyes",
+      "fringe covering right eye",
+      "single curved ahoge"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "mualani",
+      "瑪拉妮"
+    ],
+    "char": "mualani",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "white hair",
+      "light blue hair ends",
+      "high ponytail",
+      "blue streak in ponytail",
+      "two thin braids under hair",
+      "blue to orange-red gradient eyes",
+      "fish-shaped pupils",
+      "tan skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "nefertari vivi",
+      "ビビ",
+      "ネフェルタリ",
+      "娜菲魯塔利·薇薇",
+      "薇薇"
+    ],
+    "char": "nefertari vivi",
+    "series": "one piece",
+    "seriesCN": "航海王",
+    "appearance": [
+      "light blue hair",
+      "long hair",
+      "wavy hair",
+      "long ponytail",
+      "two long face-framing sidelocks",
+      "brown eyes",
+      "parted bangs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "紫咲诗音",
+      "shion",
+      "紫咲詩音",
+      "詩音"
+    ],
+    "char": "shion",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "silver-grey hair",
+      "long hair",
+      "single side bun",
+      "outward-curled hair ends",
+      "blunt bangs",
+      "amber-to-green gradient eyes",
+      "lime green geometric hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "索达",
+      "soda",
+      "ソーダ"
+    ],
+    "char": "soda",
+    "series": "nikke",
+    "seriesCN": "胜利女神：妮姬",
+    "appearance": [
+      "green hair",
+      "long hair",
+      "double bun",
+      "antenna hair",
+      "hairclip",
+      "purple eyes",
+      "pink eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "星街彗星",
+      "彗星",
+      "hoshimachi suisei",
+      "星街すいせい"
+    ],
+    "char": "hoshimachi suisei",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "light blue hair",
+      "medium hair",
+      "right side ponytail",
+      "long side bangs",
+      "icy blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "不知火芙蕾雅",
+      "芙蕾雅",
+      "shiranui flare",
+      "不知火フレア"
+    ],
+    "char": "shiranui flare",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "blonde hair",
+      "long hair",
+      "high ponytail",
+      "white-streaked bangs",
+      "long sidelocks",
+      "reddish-orange eyes",
+      "pointy elf ears",
+      "tan skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "恰斯卡",
+      "chaska",
+      "chasca"
+    ],
+    "char": "chaska",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "burgundy hair",
+      "mid-back length hair",
+      "small side braid",
+      "purple gradient bangs",
+      "bangs covering left eye",
+      "sky blue eyes",
+      "pointed ears",
+      "long maroon eyelashes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "miwa kasumi",
+      "三輪霞",
+      "miwa"
+    ],
+    "char": "miwa kasumi",
+    "series": "jujutsu kaisen",
+    "seriesCN": "咒術迴戰",
+    "appearance": [
+      "light blue hair",
+      "shoulder-length hair",
+      "straight hair",
+      "asymmetrical side-swept bangs",
+      "long sidelocks",
+      "dark blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "瑪莉·蘿絲",
+      "玛莉·萝丝",
+      "マリー・ローズ",
+      "marie rose",
+      "marie_rose"
+    ],
+    "char": "marie_rose",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "light blonde hair",
+      "very long hair",
+      "low twintails",
+      "straight blunt bangs",
+      "long sidelocks",
+      "dark blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "escoffier",
+      "爱可菲"
+    ],
+    "char": "escoffier",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "light ginger hair",
+      "hip-length hair",
+      "curly hair",
+      "bluish cyan eyes",
+      "pink heart-outlined pupils",
+      "wavy hair ends"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "miss fortune",
+      "好運姐"
+    ],
+    "char": "miss fortune",
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "appearance": [
+      "scarlet-red hair",
+      "very long wavy hair",
+      "long curled sidelocks",
+      "side-swept bangs",
+      "green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "amau ako",
+      "亞子",
+      "ako",
+      "天雨亞子",
+      "天雨亚子"
+    ],
+    "char": "amau ako",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "soft blue hair",
+      "shoulder-length wavy hair",
+      "low twintails",
+      "side-swept bangs",
+      "two longer face-framing sidelocks",
+      "single ahoge",
+      "ice blue eyes",
+      "light grey crescent halo with small circle"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "usada pekora",
+      "pekora",
+      "兔田佩克拉",
+      "佩克拉"
+    ],
+    "char": "usada pekora",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "blue and white two-tone hair",
+      "long hair",
+      "braided twintails",
+      "blunt bangs",
+      "rabbit ears",
+      "purple-orange gradient eyes",
+      "rabbit-shaped pupils",
+      "carrot hair ornaments"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "artoria pendragon",
+      "阿爾托莉雅",
+      "Saber",
+      "阿爾托利亞"
+    ],
+    "char": "artoria pendragon",
+    "series": "fate stay night",
+    "seriesCN": "Fate",
+    "appearance": [
+      "golden blonde hair",
+      "long hair tied in a braided bun",
+      "braided crown around the bun",
+      "forehead bangs",
+      "long cheek-framing sidelocks",
+      "green eyes",
+      "single ahoge"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "艾爾瑪",
+      "エルマ",
+      "elma"
+    ],
+    "char": "elma",
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "appearance": [
+      "short black hair",
+      "purple gradient hair tips",
+      "blue eyes",
+      "long spiral unicorn-like horn",
+      "blue to turquoise dragon tail"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "nezuko kamado",
+      "竈門禰豆子"
+    ],
+    "char": "nezuko kamado",
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "appearance": [
+      "long black hair",
+      "flame orange gradient hair ends",
+      "wavy hair with crimped ridges",
+      "left side-swept bangs",
+      "pale pink eyes with deeper pink centers",
+      "long eyelashes",
+      "sharp fangs",
+      "pink nails fading to red orange tips"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "牛牧朱莉",
+      "朱莉",
+      "ushimaki juri",
+      "juri"
+    ],
+    "char": "juri",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "pink hair",
+      "very long straight hair tied behind",
+      "large buffalo horns",
+      "long pointed elf ears",
+      "emerald green eyes",
+      "blue star-cluster halo"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "海蓮娜",
+      "海莲娜",
+      "エレナ",
+      "helena"
+    ],
+    "char": "helena",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "blonde hair",
+      "very long hair",
+      "low ponytail",
+      "segmented center-part bangs",
+      "long sidelocks",
+      "blue-green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "soifon",
+      "砕蜂",
+      "ソイフォン",
+      "sui-feng",
+      "soi fon",
+      "碎蜂"
+    ],
+    "char": "soifon",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "short hair",
+      "two long braids",
+      "very long thin braids",
+      "gold rings on braids",
+      "gray eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "卯之花烈",
+      "卯之花",
+      "unohana retsu",
+      "卯ノ花 烈"
+    ],
+    "char": "unohana retsu",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "large braid",
+      "bangs",
+      "blue eyes",
+      "scar between collarbones"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ashe",
+      "艾希"
+    ],
+    "char": "ashe",
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "appearance": [
+      "silver-white hair",
+      "very long flowing hair",
+      "long side-swept bangs",
+      "light blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "克莉絲蒂",
+      "克莉丝蒂",
+      "クリスティ",
+      "christie"
+    ],
+    "char": "christie",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "white hair",
+      "short layered hair",
+      "slightly spiky hair",
+      "side-swept bangs",
+      "grey eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "白銀諾艾爾",
+      "諾艾爾",
+      "shirogane noel",
+      "白銀ノエル"
+    ],
+    "char": "shirogane noel",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "silver-grey hair",
+      "shoulder-length wavy hair",
+      "half-up braided hair",
+      "double-parted bangs",
+      "hair between eyes",
+      "green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "izumi sagiri",
+      "紗霧",
+      "サグiri"
+    ],
+    "char": "izumi sagiri",
+    "series": "eromanga sensei",
+    "seriesCN": "情色漫畫老師",
+    "appearance": [
+      "long silver white hair",
+      "straight forehead bangs",
+      "side sidelocks tied into loose low pigtails",
+      "pink bows at low sidelock ties",
+      "two small pink hairclips above temples",
+      "clear blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "haineko",
+      "灰猫",
+      "灰貓"
+    ],
+    "char": "haineko",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "maroon hair",
+      "chin-length hair",
+      "two cat-ear-shaped hair tufts",
+      "long face-framing bangs",
+      "turquoise eyes",
+      "olive-colored skin",
+      "long pink tail",
+      "pink fur on forearms and legs",
+      "white fur tuft around neck",
+      "claw-like fingernails"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "朽木緋真",
+      "緋真",
+      "kuchiki hisana",
+      "朽木 緋真"
+    ],
+    "char": "kuchiki hisana",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "short hair",
+      "long frayed fringe across face",
+      "hair between eyes",
+      "purple eyes with bluish tint"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "露科亞",
+      "lucoa",
+      "quetzalcoatl"
+    ],
+    "char": "quetzalcoatl",
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "appearance": [
+      "very long blonde hair",
+      "wavy hair",
+      "turquoise and green gradient hair ends",
+      "heterochromia",
+      "left blue eye with yellow center and green slit pupil",
+      "right green eye with black center and yellow slit pupil"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "lilynette gingerbuck",
+      "lilynette gingerback",
+      "リリネット・ジンジャーバック",
+      "Lilynette",
+      "莉莉涅特·金傑巴克",
+      "莉莉涅特"
+    ],
+    "char": "lilynette gingerbuck",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "light green hair",
+      "light pink right eye",
+      "hollow mask",
+      "two horns",
+      "cut left horn",
+      "mask over left eye",
+      "flame mark over left eye socket"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "森美聲",
+      "美聲",
+      "mori calliope",
+      "森カリオペ"
+    ],
+    "char": "mori calliope",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "pink hair",
+      "long straight hair",
+      "blunt bangs",
+      "long sidelocks",
+      "pink-red eyes",
+      "skull-shaped hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "玛丽安",
+      "marian",
+      "マリアン"
+    ],
+    "char": "marian",
+    "series": "nikke",
+    "seriesCN": "胜利女神：妮姬",
+    "appearance": [
+      "brown hair",
+      "long hair",
+      "hair over shoulder",
+      "bangs",
+      "purple eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "prinz eugen",
+      "欧根亲王",
+      "プリンツ・オイゲン",
+      "歐根親王"
+    ],
+    "char": "prinz eugen",
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "appearance": [
+      "silver-white hair",
+      "long hair",
+      "two side up",
+      "small red hair streak",
+      "orange eyes",
+      "mole on right breast"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "李素裳",
+      "素裳hi3",
+      "sushang hi3",
+      "sushang",
+      "素裳"
+    ],
+    "char": "sushang",
+    "series": "honkai impact",
+    "seriesCN": "崩壞3rd",
+    "appearance": [
+      "dark brown hair",
+      "very long twintails",
+      "blue gradient hair ends",
+      "blunt bangs",
+      "indigo to pale orange gradient irises",
+      "red pupils",
+      "blue flower hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "amami haruka",
+      "天海春香",
+      "春香"
+    ],
+    "char": "amami haruka",
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "appearance": [
+      "brown hair",
+      "short hair",
+      "straight hair",
+      "blunt bangs",
+      "short sidelocks",
+      "brown eyes",
+      "twin red ribbon hair bows"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "modernia",
+      "摩登妮雅"
+    ],
+    "char": "modernia",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "grey hair",
+      "long hair",
+      "sidelocks",
+      "red eyes",
+      "mechanical tail",
+      "head bandages"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "小林",
+      "kobayashi"
+    ],
+    "char": "kobayashi",
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "appearance": [
+      "salmon pink hair",
+      "shoulder-length hair",
+      "thin low ponytail",
+      "short sidelocks",
+      "short bangs",
+      "auburn brown eyes",
+      "oval gold-rimmed glasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ozora subaru",
+      "大空昴",
+      "subaru",
+      "すばる",
+      "oozora subaru",
+      "大空スバル",
+      "昴"
+    ],
+    "char": "ozora subaru",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "dark brown hair",
+      "short hair",
+      "messy hair",
+      "ahoge",
+      "aqua eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "miura azusa",
+      "三浦梓",
+      "梓"
+    ],
+    "char": "miura azusa",
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "appearance": [
+      "dark blue hair",
+      "short hair",
+      "straight bob haircut",
+      "parted bangs",
+      "curved sidelocks",
+      "ahoge",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "yadomaru lisa",
+      "yadoumaru lisa",
+      "矢胴丸リサ",
+      "莉莎",
+      "Lisa",
+      "矢胴丸麗莎"
+    ],
+    "char": "yadomaru lisa",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "bangs",
+      "braided ponytail",
+      "turquoise eyes",
+      "red oval glasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "jewelry bonney",
+      "ジュエリー・ボニー",
+      "珠寶·波妮",
+      "波妮"
+    ],
+    "char": "jewelry bonney",
+    "series": "one piece",
+    "seriesCN": "航海王",
+    "appearance": [
+      "light pink hair",
+      "long hair",
+      "straight hair",
+      "long parted bangs",
+      "brown eyes",
+      "gold anti-eyebrow piercing below right eye"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "hikifune kirio",
+      "曳舟桐生",
+      "桐生",
+      "Kirio Hikifune"
+    ],
+    "char": "hikifune kirio",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "purple hair",
+      "long hair",
+      "hair curls at ends",
+      "bangs",
+      "green eyes",
+      "red swirl markings under eyes",
+      "hair bun",
+      "black lipstick"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "伊勢七緒",
+      "七緒",
+      "ise nanao",
+      "伊勢 七緒"
+    ],
+    "char": "ise nanao",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "hair pinned back",
+      "flat bangs",
+      "bangs to the right",
+      "blue-violet eyes",
+      "oval glasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "嫣",
+      "yan"
+    ],
+    "char": "yan",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "brown hair",
+      "very long hair",
+      "twin braids",
+      "hair rings",
+      "blunt bangs",
+      "red eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "小美人鱼妮姬",
+      "little mermaid"
+    ],
+    "char": "little mermaid",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "black hair",
+      "dark blue hair",
+      "aqua hair",
+      "colored inner hair",
+      "multicolored hair",
+      "absurdly long hair",
+      "twintails",
+      "yellow eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "北條加蓮"
+    ],
+    "char": "hojo karen",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "appearance": [
+      "light brown hair",
+      "long hair",
+      "wavy hair",
+      "swept bangs",
+      "hair between eyes",
+      "long sidelocks",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "omaru polka",
+      "polka",
+      "尾丸波爾卡",
+      "波爾卡"
+    ],
+    "char": "omaru polka",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "blonde hair",
+      "medium-long hair",
+      "pink and black hair streaks",
+      "single side braid",
+      "parted bangs",
+      "propeller-shaped ahoge",
+      "purple eyes",
+      "symbol-shaped pupils",
+      "card-suit marks under eyes",
+      "fennec fox ears",
+      "fennec fox tail"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "break perona",
+      "perona",
+      "ペローナ",
+      "ghost princess",
+      "佩羅娜"
+    ],
+    "char": "break perona",
+    "series": "one piece",
+    "seriesCN": "航海王",
+    "appearance": [
+      "light pink hair",
+      "waist-length hair",
+      "twintails",
+      "blunt bangs",
+      "large round black eyes",
+      "asymmetric lower eyelashes",
+      "thick black eyeliner",
+      "black and white flower hairpins"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "natsume iroha",
+      "伊吕波",
+      "イロハ",
+      "铜花伊吕波",
+      "iroha",
+      "伊呂波",
+      "棗伊呂波"
+    ],
+    "char": "natsume iroha",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "waist-length reddish purple hair",
+      "bushy messy wavy hair",
+      "face-framing bangs",
+      "dull indigo eyes",
+      "vertical slit pupils",
+      "indigo-blue ring halo with four spikes and upper rhombus"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "tamayo",
+      "珠世"
+    ],
+    "char": "tamayo",
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "appearance": [
+      "long dark brown hair",
+      "center-parted bangs",
+      "large low braided hair bun",
+      "floral tama-kanzashi hairpin",
+      "lavender to dark purple gradient irises",
+      "pupilless eyes",
+      "long pointed fingernails"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "可可",
+      "cocoa"
+    ],
+    "char": "cocoa",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "pink hair",
+      "red hair",
+      "long hair",
+      "twintails",
+      "sidelocks",
+      "hair between eyes",
+      "yellow eyes",
+      "brown eyes",
+      "hair bow"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "blanc",
+      "布蘭"
+    ],
+    "char": "blanc",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "white hair",
+      "very long hair",
+      "blunt bangs",
+      "long sidelocks",
+      "orange-yellow eyes",
+      "heart-shaped facial tattoo"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ichikawa hinana",
+      "市川雛菜",
+      "雛菜"
+    ],
+    "char": "ichikawa hinana",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "light brown hair",
+      "long wavy hair",
+      "single side hair bun",
+      "side-swept bangs",
+      "long curled sidelocks",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "chris",
+      "克里斯",
+      "クリス"
+    ],
+    "char": "chris",
+    "series": "kono subarashii sekai ni shukufuku wo!",
+    "seriesCN": "為美好的世界獻上祝福",
+    "appearance": [
+      "silver hair",
+      "short tousled hair",
+      "unruly ahoge",
+      "violet eyes",
+      "small scar on right cheek",
+      "side-swept bangs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kirara",
+      "綺良良"
+    ],
+    "char": "kirara",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "pale ash blonde hair",
+      "tufted hair",
+      "high ponytail",
+      "long central ahoge",
+      "green eyes",
+      "two two-toned cat tails",
+      "cat paws"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "卡齊娜",
+      "kachina"
+    ],
+    "char": "kachina",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "dirty blonde hair",
+      "dark brown gradient hair ends",
+      "side braids",
+      "light blue eyes with brown upper irises",
+      "large brown pika ears",
+      "short light brown tail",
+      "small eyebrows"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "mel",
+      "夜空梅露",
+      "梅露"
+    ],
+    "char": "mel",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "blonde hair",
+      "short hair",
+      "ahoge",
+      "blunt bangs",
+      "long sidelocks",
+      "amber eyes",
+      "bat-shaped hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "chisato nishikigi",
+      "锦木千束"
+    ],
+    "char": "chisato nishikigi",
+    "series": "lycoris recoil",
+    "seriesCN": "莉可丽丝",
+    "appearance": [
+      "light blonde hair",
+      "short bob cut",
+      "uneven bangs",
+      "red eyes",
+      "red hair ribbon bow on left side of head"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "futami mami",
+      "雙海真美",
+      "真美"
+    ],
+    "char": "futami mami",
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "appearance": [
+      "brown hair",
+      "medium hair",
+      "left side ponytail",
+      "blunt bangs",
+      "hair between eyes",
+      "brown eyes",
+      "hair curled outward at ends"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "hu tao",
+      "hutao",
+      "胡桃"
+    ],
+    "char": "hu tao",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "dark brown hair",
+      "long hair",
+      "crimson gradient hair ends",
+      "low twintails",
+      "scarlet eyes",
+      "white plum blossom-shaped pupils",
+      "red outer eye corners"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "多莉",
+      "dori"
+    ],
+    "char": "dori",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "short pink hair",
+      "curled sidelocks",
+      "golden brown eyes",
+      "small red-tinted glasses",
+      "gold diamond-shaped eyeglass frames"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "雛森桃",
+      "雛森",
+      "hinamori momo",
+      "雛森 桃"
+    ],
+    "char": "hinamori momo",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "hair bun",
+      "bangs",
+      "sidelocks",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "murasaki shion",
+      "紫咲詩音",
+      "詩音",
+      "紫咲シオン",
+      "shion",
+      "紫咲诗音"
+    ],
+    "char": "murasaki shion",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "silver-grey hair",
+      "long hair",
+      "single side bun",
+      "outward-curled hair ends",
+      "blunt bangs",
+      "amber-to-green gradient eyes",
+      "lime green geometric hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "hachimiya meguru",
+      "八宮巡",
+      "巡"
+    ],
+    "char": "hachimiya meguru",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "blonde hair",
+      "long hair",
+      "low twintails",
+      "side-swept bangs",
+      "long sidelocks",
+      "bright blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "cyan sung-sun",
+      "シアン・スンスン",
+      "Sung-Sun",
+      "西恩·孫孫",
+      "孫孫"
+    ],
+    "char": "cyan sung-sun",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "olive green hair",
+      "long hair",
+      "bangs",
+      "lavender eyes",
+      "long eyelashes",
+      "three pink dots under right eye",
+      "mask hair clips"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "宝钟玛琳",
+      "marine",
+      "寶鐘瑪琳",
+      "瑪琳"
+    ],
+    "char": "marine",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "crimson red hair",
+      "long twintails",
+      "side-swept bangs",
+      "heterochromia",
+      "red left eye",
+      "golden right eye"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "loly aivirrne",
+      "ロリ・アイヴァーン",
+      "Loly",
+      "蘿莉·艾凡",
+      "蘿莉"
+    ],
+    "char": "loly aivirrne",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "two low pigtails",
+      "pink right eye",
+      "hollow mask over left eye",
+      "teeth along lower edge of hollow mask",
+      "mask fragment attached near left pigtail"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ninomae ina'nis",
+      "ina",
+      "一伊那爾栖",
+      "伊那",
+      "イナ"
+    ],
+    "char": "ninomae ina'nis",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "purple hair",
+      "very long hair",
+      "yellow-orange gradient hair tips",
+      "tentacle-shaped sidelocks",
+      "blunt bangs",
+      "bluish-purple eyes",
+      "pointy ears",
+      "white low wings",
+      "mole under eye",
+      "golden halo"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "yuzuki choco",
+      "癒月ちょこ",
+      "癒月巧可",
+      "巧可",
+      "choco"
+    ],
+    "char": "yuzuki choco",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "blonde hair",
+      "long hair",
+      "wavy hair ends",
+      "pink hair ends",
+      "turquoise blue eyes",
+      "two curved black demon horns",
+      "black bat wings",
+      "thin devil tail",
+      "heart-shaped bat tattoo on chest"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "nakiri ayame",
+      "ayame",
+      "百鬼綾目",
+      "綾目"
+    ],
+    "char": "nakiri ayame",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "white hair",
+      "pink-tinted hair",
+      "long loose hair",
+      "long side locks",
+      "reddish-pink eyes",
+      "two short white oni horns",
+      "bell hair ornaments"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "elaina",
+      "艾蓮娜",
+      "イレイナ"
+    ],
+    "char": "elaina",
+    "series": "majo no tabitabi",
+    "seriesCN": "魔女之旅",
+    "appearance": [
+      "ashen silver hair",
+      "very long straight hair",
+      "crossed bangs",
+      "single side braid",
+      "long cheek-framing sidelocks",
+      "small ahoge",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "妮可",
+      "ニコ",
+      "nico"
+    ],
+    "char": "nico",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "light blue hair",
+      "short bob cut",
+      "asymmetrical bangs",
+      "long sidelocks",
+      "green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "才川理子",
+      "saikawa",
+      "riko saikawa"
+    ],
+    "char": "riko saikawa",
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "appearance": [
+      "brown hair",
+      "shoulder-length hair",
+      "wavy hair",
+      "long left-side bangs",
+      "sidelocks",
+      "dark green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "布瑪",
+      "ブルマ",
+      "bulma"
+    ],
+    "char": "bulma",
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "appearance": [
+      "turquoise-blue hair",
+      "shoulder-length hair",
+      "straight hair",
+      "blunt bangs",
+      "hair framing cheeks",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "riven",
+      "銳雯"
+    ],
+    "char": "riven",
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "appearance": [
+      "platinum-white hair",
+      "short hair",
+      "asymmetrical bangs",
+      "folded ponytail",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kuromi serika",
+      "芹香",
+      "セリカ",
+      "黑見芹香"
+    ],
+    "char": "kuromi serika",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "navy blue hair",
+      "very long twintails reaching legs",
+      "dark blue cat ears",
+      "reddish pink eyes",
+      "long vertical pink pupils",
+      "small fang",
+      "red crosshair halo with outer arrows"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "白上吹雪",
+      "吹雪",
+      "shirakami fubuki",
+      "白上フブキ"
+    ],
+    "char": "shirakami fubuki",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "white hair",
+      "long hair",
+      "low ponytail",
+      "side braid",
+      "double-parted bangs",
+      "hair between eyes",
+      "long sidelocks",
+      "ahoge",
+      "aqua eyes",
+      "white fox ears",
+      "black-tipped fox ears",
+      "left fox ear piercing",
+      "white fox tail",
+      "black-tipped fox tail",
+      "pentagram marking on fox tail"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "露菲",
+      "rupee"
+    ],
+    "char": "rupee",
+    "series": "nikke",
+    "seriesCN": "胜利女神：妮姬",
+    "appearance": [
+      "blonde hair",
+      "long hair",
+      "ponytail",
+      "bangs",
+      "sidelocks",
+      "green eyes",
+      "fang"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "emilou apacci",
+      "エミルー・アパッチ",
+      "Apacci",
+      "艾蜜露·阿帕奇",
+      "阿帕奇"
+    ],
+    "char": "emilou apacci",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "jaw-length hair",
+      "heterochromia",
+      "ice blue right eye",
+      "amber left eye",
+      "blue outline around left eye",
+      "horn mask fragment"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "citlali g",
+      "茜特菈莉",
+      "citlali"
+    ],
+    "char": "citlali g",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "long pastel purple hair",
+      "pastel pink gradient hair",
+      "dark purple hair tips",
+      "deep blue to light blue gradient eyes",
+      "subtle pink pupils",
+      "very long hair"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "videl",
+      "維黛兒",
+      "碧兒"
+    ],
+    "char": "videl",
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "appearance": [
+      "black hair",
+      "low twintails",
+      "straight hair",
+      "side bangs",
+      "five short strands over forehead",
+      "light blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "red hood",
+      "redhood",
+      "紅帽"
+    ],
+    "char": "red hood",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "red hair",
+      "very long hair",
+      "hair between eyes",
+      "sidelocks",
+      "ahoge",
+      "yellow eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "yuyu yayahara",
+      "八々原熊如",
+      "Yuyu",
+      "八八原熊如"
+    ],
+    "char": "yuyu yayahara",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "dark brown skin",
+      "long blond hair",
+      "darker hair tips",
+      "large ponytail",
+      "beaded hair band",
+      "long bangs",
+      "light-colored eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "shinobu kocho",
+      "胡蝶忍"
+    ],
+    "char": "shinobu kocho",
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "appearance": [
+      "raven black hair",
+      "dark purple gradient hair ends",
+      "wavy hair",
+      "flat yakai-maki hair bun",
+      "center-parted curtain bangs",
+      "chin-length sidelocks",
+      "purple gradient eyes",
+      "pupilless eyes",
+      "white butterfly hair ornament with pale purple border and turquoise spots"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "nanakusa nichika",
+      "七草日花",
+      "日花"
+    ],
+    "char": "nanakusa nichika",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "olive-green hair",
+      "short bob cut",
+      "straight hair",
+      "long side-swept bangs",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "sode no shirayuki",
+      "袖白雪"
+    ],
+    "char": "sode no shirayuki",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "pale lavender hair",
+      "waist-length hair",
+      "long bun",
+      "strand between eyes",
+      "icy blue eyes",
+      "blue star hair clip"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "dorothy",
+      "多蘿西"
+    ],
+    "char": "dorothy",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "pink hair",
+      "long hair",
+      "side braid",
+      "hair bun",
+      "purple eyes",
+      "pink eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "tier harribel",
+      "ティア・ハリベル",
+      "哈莉貝兒",
+      "Harribel",
+      "Halibel",
+      "蒂雅·哈莉貝兒"
+    ],
+    "char": "tier harribel",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "olive skin",
+      "aqua green eyes",
+      "thick eyelashes",
+      "golden blonde hair",
+      "short hair",
+      "messy hair",
+      "three braided locks"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "sakuragi mano",
+      "櫻木真乃",
+      "真乃"
+    ],
+    "char": "sakuragi mano",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "strawberry-blonde hair",
+      "shoulder-length hair",
+      "straight hair",
+      "flared hair ends",
+      "side-swept bangs",
+      "long sidelocks",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "hayasaka ai",
+      "早坂愛",
+      "早坂",
+      "hayasaka"
+    ],
+    "char": "hayasaka ai",
+    "series": "kaguya-sama wa kokurasetai",
+    "seriesCN": "輝夜姬想讓人告白",
+    "appearance": [
+      "blonde hair",
+      "medium length hair",
+      "left-side ponytail",
+      "side-swept bangs",
+      "face-framing sidelocks",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kasuga mirai",
+      "春日未來",
+      "未來"
+    ],
+    "char": "kasuga mirai",
+    "series": "idolmaster million live",
+    "seriesCN": "偶像大師百萬直播",
+    "appearance": [
+      "brown hair",
+      "medium hair",
+      "side ponytail",
+      "blunt bangs",
+      "hair between eyes",
+      "short sidelocks",
+      "brown eyes",
+      "pink hairclip"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "柴郡",
+      "チェシャー",
+      "cheshire"
+    ],
+    "char": "cheshire",
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "appearance": [
+      "dark grey hair",
+      "blue-highlighted hair",
+      "long hair",
+      "blue eyes",
+      "catlike mouth"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "瑪蓮妮亞",
+      "malenia"
+    ],
+    "char": "malenia",
+    "series": "elden ring",
+    "seriesCN": "艾爾登法環",
+    "appearance": [
+      "long flowing red hair",
+      "wavy hair",
+      "blinded scarred eyes",
+      "rot-scarred skin",
+      "cracked skin",
+      "prosthetic right arm"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "黃泉",
+      "acheron"
+    ],
+    "char": "acheron",
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "appearance": [
+      "dark purple hair",
+      "very long hair",
+      "thigh-length hair",
+      "bangs covering left eye",
+      "two white streaks in bangs",
+      "bright violet eyes",
+      "pink iris highlights",
+      "diamond-shaped pupils",
+      "black white and purple hairpiece"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "戌神沁音",
+      "沁音",
+      "inugami korone",
+      "戌神ころね"
+    ],
+    "char": "inugami korone",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "brown hair",
+      "long hair",
+      "low twin braids",
+      "double-parted bangs",
+      "hair between eyes",
+      "brown eyes",
+      "dog ears",
+      "dog tail",
+      "fangs",
+      "bone-shaped hairclips"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "米拉",
+      "ミラ",
+      "mila"
+    ],
+    "char": "mila",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "dark red hair",
+      "black hair underlayer",
+      "two-tone hair",
+      "shoulder-length hair",
+      "spiky layered hair",
+      "messy bangs",
+      "light brown eyes",
+      "freckles"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "liter",
+      "麗塔"
+    ],
+    "char": "liter",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "blonde hair",
+      "short hair",
+      "messy hair",
+      "bangs",
+      "yellow eyes",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "志波空鶴",
+      "空鶴",
+      "shiba kuukaku",
+      "志波 空鶴"
+    ],
+    "char": "shiba kuukaku",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "messy hair",
+      "parted black hair",
+      "green eyes",
+      "tattoo on left arm",
+      "missing right arm"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kikuchi makoto",
+      "菊地真",
+      "真"
+    ],
+    "char": "kikuchi makoto",
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "appearance": [
+      "black hair",
+      "short hair",
+      "spiky hair",
+      "two uneven ahoge",
+      "choppy bangs",
+      "hair between eyes",
+      "grey eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "帕瓦",
+      "パワー",
+      "power"
+    ],
+    "char": "power",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "strawberry blonde hair",
+      "long hair",
+      "side-swept bangs",
+      "red and yellow eyes",
+      "cross-shaped pupils",
+      "two short light red horns",
+      "sharp fangs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "夜",
+      "yoru",
+      "戰車惡魔"
+    ],
+    "char": "yoru",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "black hair",
+      "mid-back long hair",
+      "loose straight hair",
+      "blunt bangs",
+      "long sidelocks",
+      "ringed eyes",
+      "scars across bridge of nose and left cheek",
+      "scar below left eye"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "三鹰朝",
+      "三鷹朝",
+      "asa mitaka",
+      "朝"
+    ],
+    "char": "asa mitaka",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "black hair",
+      "mid-back length hair",
+      "low twintails",
+      "dark blue eyes",
+      "straight bangs",
+      "thick eyebrows"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "法米",
+      "fami",
+      "飢餓惡魔"
+    ],
+    "char": "fami",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "muted grayish pink hair",
+      "neck-length hair",
+      "blunt bangs",
+      "pink eyes",
+      "multiple concentric iris rings",
+      "multiple facial moles"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "蕾塞",
+      "reze"
+    ],
+    "char": "reze",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "dark purple hair",
+      "shoulder-length hair",
+      "small back hair bun",
+      "loose side bangs",
+      "hair between eyes",
+      "sidelocks",
+      "emerald green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "vinsmoke reiju",
+      "reiju",
+      "文斯莫克蕾玖"
+    ],
+    "char": "vinsmoke reiju",
+    "series": "one piece",
+    "seriesCN": "",
+    "appearance": [
+      "light pink hair",
+      "shoulder-length hair",
+      "hair covering right eye",
+      "upturned curled hair tips",
+      "purple eyes",
+      "symmetrical spiral eyebrows",
+      "number six tattoos on both thighs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "朽木露琪亞",
+      "露琪亞",
+      "kuchiki rukia",
+      "ルキア"
+    ],
+    "char": "kuchiki rukia",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "shoulder-length hair",
+      "straight hair",
+      "hair between eyes",
+      "bangs",
+      "purple eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "爱丽丝·盖恩斯巴勒",
+      "Aerith Gainsborough",
+      "エアリス・ゲインズブール"
+    ],
+    "char": "aerith gainsborough",
+    "series": "final fantasy",
+    "seriesCN": "最终幻想",
+    "appearance": [
+      "light brown hair",
+      "very long braided ponytail",
+      "segmented forehead bangs",
+      "long cheek-framing curled sidelocks",
+      "emerald green eyes",
+      "pink hair ribbon containing a white materia orb"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "多拉",
+      "dolla"
+    ],
+    "char": "dolla",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "purple hair",
+      "long hair",
+      "ponytail",
+      "bangs",
+      "sidelocks",
+      "purple eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "yoshino dal",
+      "四糸乃",
+      "yoshino",
+      "ヨシノ"
+    ],
+    "char": "yoshino dal",
+    "series": "date a live",
+    "seriesCN": "約會大作戰",
+    "appearance": [
+      "light blue hair",
+      "very long wavy hair",
+      "curled hair ends",
+      "uneven forehead bangs",
+      "two long face-framing sidelocks",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ame-chan",
+      "妹妹",
+      "needy girl"
+    ],
+    "char": "ame-chan",
+    "series": "needy streamer overload",
+    "seriesCN": "需要過度的超絕可愛女孩子",
+    "appearance": [
+      "black hair",
+      "medium hair",
+      "messy twintails",
+      "asymmetrical bangs covering left eye",
+      "black eyes",
+      "golden x-shaped hairclip"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "tamura manami",
+      "田村麻奈實",
+      "麻奈實"
+    ],
+    "char": "tamura manami",
+    "series": "ore no imouto ga konna ni kawaii wake ga nai",
+    "seriesCN": "我的妹妹不可能這麼可愛",
+    "appearance": [
+      "dark brown hair",
+      "short straight hair",
+      "short forehead bangs",
+      "face-framing short sidelocks",
+      "light gray eyes",
+      "red-rimmed eyeglasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ichinose asuna",
+      "明日奈",
+      "一之瀨明日奈",
+      "asuna"
+    ],
+    "char": "ichinose asuna",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "beige ash blonde hair",
+      "very long hair reaching legs",
+      "low hair tied with small blue ribbon",
+      "straight forehead bangs",
+      "sharp blue eyes",
+      "double concentric blue dashed halo rings"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "sarugaki hiyori",
+      "猿柿ひよ里",
+      "日世里",
+      "Hiyori",
+      "猿柿日世里"
+    ],
+    "char": "sarugaki hiyori",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "blonde hair",
+      "short spiky pigtails",
+      "three hair clips fixing bangs",
+      "brown eyes",
+      "three freckles beneath each eye",
+      "prominent upper left fang",
+      "tired lines below eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kanao tsuyuri",
+      "栗花落香奈乎"
+    ],
+    "char": "kanao tsuyuri",
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "appearance": [
+      "raven black hair",
+      "medium length hair",
+      "right side ponytail",
+      "dark lilac eyes",
+      "light lilac gradient lower irises",
+      "purple pupil centers",
+      "thick eyelashes",
+      "green butterfly hair ornament with pink edges and white speckles"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "京極紗月",
+      "京极纱月",
+      "京極サツキ",
+      "サツキ",
+      "satsuki",
+      "kyougoku satsuki",
+      "satsuki kyougoku"
+    ],
+    "char": "kyougoku satsuki",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "messy waist-length pink hair",
+      "face-framing long bangs",
+      "yellow eyes",
+      "two red and black hartebeest-like horns",
+      "very short heart-spaded tail",
+      "dark red eight-point star halo with inward spikes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "morino rinze",
+      "杜野凛子",
+      "凛子"
+    ],
+    "char": "morino rinze",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "navy-black hair",
+      "short bob cut",
+      "single side hair bun",
+      "blunt bangs",
+      "long side fringe",
+      "red eyes",
+      "purple flower hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "飞鸟马时",
+      "toki",
+      "飛鳥馬時",
+      "時"
+    ],
+    "char": "toki",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "pale blonde hair",
+      "navy blue streaks in hair",
+      "braided bun hairstyle",
+      "single long forehead hair strand",
+      "blue eyes",
+      "heavy eyelashes with purple eyeliner",
+      "halo of five black segments with blue rims around inner blue circle"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "尤尼",
+      "yuni"
+    ],
+    "char": "yuni",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "pink hair",
+      "long hair",
+      "twintails",
+      "bangs",
+      "sidelocks",
+      "purple eyes",
+      "mole under mouth"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "佐久間真由"
+    ],
+    "char": "sakuma mayu",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "appearance": [
+      "light brown hair",
+      "medium hair",
+      "wavy hair",
+      "blunt bangs",
+      "curled sidelocks",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "瑪麗",
+      "mary",
+      "nikke mary"
+    ],
+    "char": "mary",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "single braid",
+      "bangs",
+      "purple eyes",
+      "usually closed eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "tashigi",
+      "たしぎ",
+      "達斯琪"
+    ],
+    "char": "tashigi",
+    "series": "one piece",
+    "seriesCN": "航海王",
+    "appearance": [
+      "black hair",
+      "chin to shoulder-length straight hair",
+      "blunt bangs",
+      "dark brown eyes",
+      "red rectangular glasses",
+      "short cheek-framing sidelocks"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "紅葉",
+      "红叶",
+      "もみじ",
+      "momiji"
+    ],
+    "char": "momiji",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "black hair",
+      "very long hair",
+      "high ponytail",
+      "long sidelocks",
+      "straight bangs",
+      "amber eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "saijo juri",
+      "西城樹里",
+      "樹里"
+    ],
+    "char": "saijo juri",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "short blonde hair",
+      "layered bob cut",
+      "long side-swept bangs",
+      "long sidelocks",
+      "purple eyes",
+      "angled eyebrows"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kazano hiori",
+      "風野燈織",
+      "燈織"
+    ],
+    "char": "kazano hiori",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "high ponytail",
+      "long face-framing sidelocks",
+      "swept bangs",
+      "violet-grey eyes",
+      "wavy hair ends"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "rei ayanami",
+      "绫波丽",
+      "rei"
+    ],
+    "char": "rei ayanami",
+    "series": "neon genesis evangelion",
+    "seriesCN": "新世纪福音战士",
+    "appearance": [
+      "pale blue hair",
+      "short bob cut",
+      "straight hair",
+      "blunt bangs",
+      "hair between eyes",
+      "short sidelocks",
+      "red eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "城崎美嘉"
+    ],
+    "char": "jougasaki mika",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "appearance": [
+      "pink hair",
+      "shoulder-length hair",
+      "high ponytail",
+      "wavy ponytail",
+      "side-swept bangs",
+      "sidelocks",
+      "yellow eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "昆西",
+      "quency"
+    ],
+    "char": "quency",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "black hair",
+      "pink hair",
+      "multicolored hair",
+      "two-tone hair",
+      "very long hair",
+      "high ponytail",
+      "red eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "choco",
+      "癒月巧可",
+      "巧可"
+    ],
+    "char": "choco",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "blonde hair",
+      "long hair",
+      "wavy hair ends",
+      "pink hair ends",
+      "turquoise blue eyes",
+      "two curved black demon horns",
+      "black bat wings",
+      "thin devil tail",
+      "heart-shaped bat tattoo on chest"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "hirasawa ui",
+      "平澤憂",
+      "憂"
+    ],
+    "char": "hirasawa ui",
+    "series": "k-on!",
+    "seriesCN": "輕音部",
+    "appearance": [
+      "copper brown hair",
+      "short hair with small high ponytail",
+      "straight bangs",
+      "short cheek-framing locks",
+      "light brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "虎徹清音",
+      "清音",
+      "kotetsu kiyone",
+      "虎徹 清音"
+    ],
+    "char": "kotetsu kiyone",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "dark blond hair",
+      "short hair",
+      "messy hair",
+      "bangs",
+      "gray eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "franceska mila rose",
+      "フランチェスカ・ミラ・ローズ",
+      "Mila Rose",
+      "法蘭雀絲卡·米拉蘿絲",
+      "米拉蘿絲"
+    ],
+    "char": "franceska mila rose",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "brown hair",
+      "long hair",
+      "wavy hair",
+      "green eyes",
+      "dark skin",
+      "three-section crown mask"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "android 21",
+      "人造人21號"
+    ],
+    "char": "android 21",
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "appearance": [
+      "auburn hair",
+      "very long wavy hair",
+      "bushy hair",
+      "blunt bangs",
+      "long sidelocks",
+      "blue eyes",
+      "black rectangular glasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "lan yan",
+      "藍硯"
+    ],
+    "char": "lan yan",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "black hair",
+      "calf-length hair",
+      "teal streaked front hair",
+      "side-swept bangs",
+      "black irises with purple periwinkle and green highlights",
+      "silver bird-shaped hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "鹽見周子"
+    ],
+    "char": "shiomi syuko",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "appearance": [
+      "silver hair",
+      "short hair",
+      "straight hair",
+      "asymmetrical side-swept bangs",
+      "hair between eyes",
+      "dark eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "妮爾·圖·歐德修凡克",
+      "妮爾",
+      "nelliel tu odelschwanck",
+      "ネル"
+    ],
+    "char": "nelliel tu odelschwanck",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "green hair",
+      "long wavy hair",
+      "hazel eyes",
+      "large skull hollow mask",
+      "two curved mask horns",
+      "scar between eyes",
+      "crimson line across face",
+      "prominent lower canine teeth",
+      "number 3 tattoo on back"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "mualani g",
+      "玛拉妮"
+    ],
+    "char": "mualani g",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "white hair",
+      "light blue hair ends",
+      "high ponytail",
+      "blue streak in ponytail",
+      "two thin braids under hair",
+      "blue to orange-red gradient eyes",
+      "fish-shaped pupils",
+      "tan skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "arona",
+      "阿洛娜",
+      "アロナ",
+      "阿羅娜"
+    ],
+    "char": "arona",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "short sky blue hair",
+      "pink colored inner hair",
+      "asymmetrical bangs covering left eye",
+      "short braided strand on left side",
+      "blue right eye",
+      "purple left eye",
+      "pupil heterochromia",
+      "default blue circular halo"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "bronya zaychik",
+      "布洛妮婭",
+      "bronya",
+      "布洛妮婭·扎伊切克",
+      "理之律者"
+    ],
+    "char": "bronya zaychik",
+    "series": "honkai impact",
+    "seriesCN": "崩壞3rd",
+    "appearance": [
+      "silver-grey hair",
+      "medium-length hair",
+      "drill twintails",
+      "blunt bangs",
+      "grey eyes",
+      "robotic lower legs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "onikata kayoko",
+      "佳代子",
+      "カヨコ",
+      "鬼方佳代子"
+    ],
+    "char": "onikata kayoko",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "white hair",
+      "black bangs",
+      "black ponytail tied around horns",
+      "two small black horns",
+      "red eyes",
+      "mole on lower neck",
+      "white pointed pentagonal halo with inner inverted pentagon"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "asuma toki",
+      "時",
+      "toki",
+      "飛鳥馬時",
+      "飞鸟马时"
+    ],
+    "char": "asuma toki",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "pale blonde hair",
+      "navy blue streaks in hair",
+      "braided bun hairstyle",
+      "single long forehead hair strand",
+      "blue eyes",
+      "heavy eyelashes with purple eyeliner",
+      "halo of five black segments with blue rims around inner blue circle"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "mitsuri kanroji",
+      "甘露寺蜜璃"
+    ],
+    "char": "mitsuri kanroji",
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "appearance": [
+      "long pink hair",
+      "lime green gradient hair ends",
+      "three thick braids",
+      "five choppy front hair clumps",
+      "lime green bang tips",
+      "light green eyes",
+      "dark green iris centers",
+      "mole under both eyes",
+      "long black eyelashes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "hysilens",
+      "海瑟音"
+    ],
+    "char": "hysilens",
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "appearance": [
+      "black hair",
+      "very long straight hair",
+      "plum gradient hair tips",
+      "light blue inner hair",
+      "fringe bangs",
+      "asymmetrical long sidelocks",
+      "indigo blue and lilac gradient eyes",
+      "white scales on left cheek",
+      "translucent abdomen revealing blue fluid and spine",
+      "two crossed indigo hairpins",
+      "left shell and coral hair ornament",
+      "right silver bone-shaped hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ibuki tsubasa",
+      "伊吹翼",
+      "翼"
+    ],
+    "char": "ibuki tsubasa",
+    "series": "idolmaster million live",
+    "seriesCN": "偶像大師百萬直播",
+    "appearance": [
+      "blonde hair",
+      "short hair",
+      "flipped hair ends",
+      "ahoge",
+      "side-swept bangs",
+      "sidelocks",
+      "pink eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kaga",
+      "加賀",
+      "かが"
+    ],
+    "char": "kaga",
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "appearance": [
+      "white hair",
+      "long hair",
+      "fox ears",
+      "nine white fox tails",
+      "blue eyes",
+      "red eyeshadow"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "天雨亚子",
+      "ako",
+      "天雨亞子",
+      "亞子"
+    ],
+    "char": "ako",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "soft blue hair",
+      "shoulder-length wavy hair",
+      "low twintails",
+      "side-swept bangs",
+      "two longer face-framing sidelocks",
+      "single ahoge",
+      "ice blue eyes",
+      "light grey crescent halo with small circle"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "白雪",
+      "snow white",
+      "snowwhite"
+    ],
+    "char": "snow white",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "white hair",
+      "long hair",
+      "messy hair",
+      "hair between eyes",
+      "yellow eyes",
+      "mechanical arm"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "麗鳳",
+      "丽凤",
+      "レイファン",
+      "leifang"
+    ],
+    "char": "leifang",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "dark brown hair",
+      "long hair",
+      "twin braided hair loops",
+      "blunt bangs",
+      "sidelocks",
+      "dark brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "mayuzumi fuyuko",
+      "黛冬優子",
+      "冬優子"
+    ],
+    "char": "mayuzumi fuyuko",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "black hair",
+      "very long hair",
+      "twintails",
+      "blunt bangs",
+      "face-framing sidelocks",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "shijou takane",
+      "四条貴音",
+      "貴音"
+    ],
+    "char": "shijou takane",
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "appearance": [
+      "silver hair",
+      "very long hair",
+      "wavy hair",
+      "blunt bangs",
+      "long sidelocks",
+      "violet eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "sunaookami shiroko",
+      "白子",
+      "shiroko",
+      "砂狼白子"
+    ],
+    "char": "sunaookami shiroko",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "grey hair",
+      "shoulder-length long bob",
+      "grey wolf ears with protruding white fluff",
+      "cyan inverted cross hairclip under left ear",
+      "visible human ears",
+      "cyan stud on right human ear",
+      "blue eyes",
+      "mismatched slit pupils with white left pupil",
+      "cyan ring halo with four cardinal lines and inner blue circle"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "aikiyo fuuka",
+      "風香",
+      "愛清風香",
+      "fuuka"
+    ],
+    "char": "aikiyo fuuka",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "long straight navy blue hair",
+      "low twintails",
+      "light blue hair tips",
+      "blunt bangs",
+      "goat horns",
+      "red eyes",
+      "red halo shaped like onigiri in diamond with side diamonds"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "雅兒貝德",
+      "アルベド",
+      "albedo"
+    ],
+    "char": "albedo",
+    "series": "overlord",
+    "seriesCN": "OVERLORD",
+    "appearance": [
+      "jet black hair",
+      "very long hair",
+      "straight hair",
+      "golden eyes",
+      "vertical slit pupils",
+      "two thick crooked horns at temples",
+      "black horns",
+      "black feathered wings at waist"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "華生阿米莉亞",
+      "阿米莉亞",
+      "watson amelia",
+      "ワトソン・アメリア"
+    ],
+    "char": "watson amelia",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "light blonde hair",
+      "medium bob cut",
+      "swept bangs",
+      "hair between eyes",
+      "blue eyes",
+      "monocle-shaped hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "tsukioka kogane",
+      "月岡戀雪",
+      "戀雪"
+    ],
+    "char": "tsukioka kogane",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "brown hair",
+      "long wavy hair",
+      "side-swept bangs",
+      "long sidelocks",
+      "brown eyes",
+      "curled hair ends"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "草鹿八千流",
+      "八千流",
+      "kusajishi yachiru",
+      "草鹿やちる"
+    ],
+    "char": "kusajishi yachiru",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "pink hair",
+      "short messy hair",
+      "short bangs",
+      "dark pink eyes",
+      "permanent pink blush marks on cheeks"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "yumemizuki mizuki",
+      "夢見月瑞希",
+      "瑞希",
+      "mizuki"
+    ],
+    "char": "yumemizuki mizuki",
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "appearance": [
+      "light aqua hair",
+      "waist-length hair",
+      "curled hair ends",
+      "double hair buns",
+      "fan-shaped hair ornaments",
+      "purple eyes",
+      "spiral-shaped pupils",
+      "droopy eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "sanshokuin sumireko",
+      "三色院堇子",
+      "堇子"
+    ],
+    "char": "sanshokuin sumireko",
+    "series": "ore wo suki nano wa omae dake ka yo",
+    "seriesCN": "喜歡本大爺的竟然就妳一個？",
+    "appearance": [
+      "black hair",
+      "chest-length hair",
+      "low twin braids",
+      "right side-swept bangs",
+      "light blue eyes",
+      "thick black square-rimmed glasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "貓又小粥",
+      "小粥",
+      "nekomata okayu",
+      "猫又おかゆ"
+    ],
+    "char": "nekomata okayu",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "light purple hair",
+      "medium bob cut",
+      "side-swept bangs",
+      "ahoge",
+      "bright purple eyes",
+      "cat ears",
+      "cat tail"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "泉溪",
+      "權西",
+      "quanxi"
+    ],
+    "char": "quanxi",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "cream blonde hair",
+      "low ponytail",
+      "long side-swept bangs",
+      "hair over right eye",
+      "brown left eye",
+      "black eyepatch over right eye"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "瑪奇瑪",
+      "マキマ",
+      "makima"
+    ],
+    "char": "makima",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "light auburn hair",
+      "long loose braid",
+      "bangs reaching past eyebrows",
+      "long sidelocks",
+      "yellow irises with concentric red rings",
+      "red inner iris rings"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "心",
+      "こころ",
+      "kokoro"
+    ],
+    "char": "kokoro",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "black hair",
+      "waist-length hair",
+      "straight hair",
+      "side-swept bangs",
+      "long sidelocks",
+      "small tied front-side hair section",
+      "deep grey eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "aki",
+      "アキ",
+      "亞基"
+    ],
+    "char": "aki",
+    "series": "street fighter",
+    "seriesCN": "",
+    "appearance": [
+      "white hair",
+      "short hair in a wide circular kasa silhouette",
+      "cardinal red eyes",
+      "mole below lower lip",
+      "long pointed fingernails"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "mogami shizuka",
+      "最上靜香",
+      "靜香"
+    ],
+    "char": "mogami shizuka",
+    "series": "idolmaster million live",
+    "seriesCN": "偶像大師百萬直播",
+    "appearance": [
+      "black hair",
+      "very long hair",
+      "straight hair",
+      "blunt bangs",
+      "long sidelocks",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "noise",
+      "ノイズ",
+      "噪音"
+    ],
+    "char": "noise",
+    "series": "nikke",
+    "seriesCN": "NIKKE",
+    "appearance": [
+      "black hair",
+      "blonde hair",
+      "colored inner hair",
+      "multicolored hair",
+      "high ponytail",
+      "blue eyes",
+      "dark skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "stelle",
+      "星"
+    ],
+    "char": "stelle",
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "appearance": [
+      "ash grey hair",
+      "shoulder-length layered hair",
+      "hair between eyes",
+      "uneven parted bangs",
+      "long sidelocks",
+      "short ahoge",
+      "golden amber eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "海姆",
+      "helm"
+    ],
+    "char": "helm",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "blue hair",
+      "long hair",
+      "braid",
+      "sidelocks",
+      "bangs",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ururu tsumugiya",
+      "紬屋雨",
+      "雨露",
+      "Ururu"
+    ],
+    "char": "ururu tsumugiya",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "purple tinted hair",
+      "long hair",
+      "pigtails",
+      "parted bangs",
+      "two bang strands",
+      "round purple eyes",
+      "blush"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "萝卜子",
+      "roboco",
+      "蘿蔔子",
+      "蘿蔔子さん"
+    ],
+    "char": "roboco",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "brown hair",
+      "shoulder-length hair",
+      "blunt bangs",
+      "yellow eyes",
+      "glasses",
+      "triangular hair ornament",
+      "mechanical arms"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "櫻巫女",
+      "巫女",
+      "sakura miko",
+      "さくらみこ"
+    ],
+    "char": "sakura miko",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "peach-pink hair",
+      "long hair",
+      "small side ponytail",
+      "ahoge",
+      "short straight bangs",
+      "green eyes",
+      "bell hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "honda mio",
+      "本田未央",
+      "未央"
+    ],
+    "char": "honda mio",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "appearance": [
+      "light brown hair",
+      "short hair",
+      "short side ponytail",
+      "ahoge",
+      "blunt bangs",
+      "sidelocks",
+      "amber eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "makinami mari illustrious",
+      "真希波",
+      "真理",
+      "mari"
+    ],
+    "char": "makinami mari illustrious",
+    "series": "neon genesis evangelion",
+    "seriesCN": "新世紀福音戰士",
+    "appearance": [
+      "brown hair",
+      "long low twintails",
+      "side-parted bangs",
+      "teal eyes",
+      "burgundy-rimmed glasses",
+      "indigo headband with white mechanical design"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "tobiume",
+      "飛梅"
+    ],
+    "char": "tobiume",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "brown hair",
+      "long hair",
+      "brown eyes",
+      "cylindrical hair clips",
+      "two long bangs",
+      "tree-like hair clip"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "shirasu azusa",
+      "梓",
+      "アズサ",
+      "白洲梓"
+    ],
+    "char": "shirasu azusa",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "long silver hair",
+      "crossed forehead bangs",
+      "pink to blue gradient eyes",
+      "purple floral hair ornaments",
+      "white feathered wings decorated with flowers",
+      "golden laurel crescent halo"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "takina inoue",
+      "井之上泷奈"
+    ],
+    "char": "takina inoue",
+    "series": "lycoris recoil",
+    "seriesCN": "莉可丽丝",
+    "appearance": [
+      "black hair",
+      "very long straight hair",
+      "straight forehead bangs",
+      "long face-framing sidelocks",
+      "purple eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "nitta minami",
+      "新田美波",
+      "美波"
+    ],
+    "char": "nitta minami",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "appearance": [
+      "brown hair",
+      "very long hair",
+      "straight hair",
+      "blunt bangs",
+      "side-swept bangs",
+      "long sidelocks",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "涅梅",
+      "涅 ネム",
+      "kurotsuchi nemu",
+      "ネム"
+    ],
+    "char": "kurotsuchi nemu",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "long braid",
+      "parted bangs",
+      "sidelocks",
+      "green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "shihouin yoruichi",
+      "四楓院夜一",
+      "夜一",
+      "yoruichi",
+      "yoruichi shihoin"
+    ],
+    "char": "shihouin yoruichi",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "dark skin",
+      "black hair",
+      "waist-length hair",
+      "ponytail",
+      "chin-length bangs",
+      "golden eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "松本亂菊",
+      "亂菊",
+      "matsumoto rangiku",
+      "松本乱菊"
+    ],
+    "char": "matsumoto rangiku",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "blonde hair",
+      "long hair",
+      "wavy hair",
+      "bangs",
+      "sidelocks",
+      "blue eyes",
+      "mole under mouth"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "a2",
+      "yorha a2",
+      "寄葉A2"
+    ],
+    "char": "a2",
+    "series": "nier automata",
+    "seriesCN": "尼爾：自動人形",
+    "appearance": [
+      "yellowish white hair",
+      "very long messy hair",
+      "swept bangs",
+      "cloudy light blue eyes",
+      "mole left of mouth",
+      "exposed black android underlayer patches on arms and legs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "eris boreas greyrat",
+      "艾莉絲",
+      "eris greyrat"
+    ],
+    "char": "eris boreas greyrat",
+    "series": "mushoku tensei",
+    "seriesCN": "無職轉生",
+    "appearance": [
+      "long red hair",
+      "wavy hair",
+      "side-swept bangs",
+      "long sidelocks",
+      "red eyes",
+      "single curved ahoge"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "murokasa akane",
+      "室笠茜",
+      "アカネ",
+      "akane",
+      "茜"
+    ],
+    "char": "murokasa akane",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "long pale blonde hair",
+      "waist-length hair tied behind",
+      "soft gray eyes",
+      "black-framed glasses",
+      "gray crosshair halo inside larger dashed circle"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "井上織姬",
+      "織姬",
+      "inoue orihime",
+      "オリヒメ"
+    ],
+    "char": "inoue orihime",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "burnt orange hair",
+      "long hair",
+      "waist-length hair",
+      "short bangs",
+      "brown eyes",
+      "six-petaled flower hairpins"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "izumi mei",
+      "和泉愛依",
+      "愛依"
+    ],
+    "char": "izumi mei",
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "appearance": [
+      "brown hair",
+      "blonde gradient hair tips",
+      "long wavy hair",
+      "swept bangs",
+      "long sidelocks",
+      "dark brown eyes",
+      "tan skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "shiromi iori",
+      "伊織",
+      "銀鏡伊織",
+      "iori"
+    ],
+    "char": "shiromi iori",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "very long silver hair",
+      "high twintails",
+      "long bangs covering left eye",
+      "long pointed ears",
+      "bright red eyes",
+      "tanned skin",
+      "black pointed devil tail",
+      "purple concentric ring halo"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "futami ami",
+      "雙海亞美",
+      "亞美"
+    ],
+    "char": "futami ami",
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "appearance": [
+      "brown hair",
+      "short hair",
+      "right side ponytail",
+      "ahoge",
+      "blunt bangs",
+      "hair between eyes",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "takanashi kiara",
+      "kiara",
+      "小鳥遊琪亞拉",
+      "キアラ",
+      "琪亞拉"
+    ],
+    "char": "takanashi kiara",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "orange hair",
+      "long hair",
+      "green inner hair gradient",
+      "hair flaps",
+      "swept bangs",
+      "purple eyes",
+      "green feather tufts behind ears"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "anastasia",
+      "安娜斯塔西婭",
+      "アナスタシア",
+      "anastasia imas"
+    ],
+    "char": "anastasia",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "appearance": [
+      "silver hair",
+      "short hair",
+      "straight hair",
+      "blunt bangs",
+      "hair between eyes",
+      "short sidelocks",
+      "light blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "shirahoshi",
+      "しらほし",
+      "白星"
+    ],
+    "char": "shirahoshi",
+    "series": "one piece",
+    "seriesCN": "航海王",
+    "appearance": [
+      "pink hair",
+      "very long flowing hair",
+      "wavy hair",
+      "blue eyes",
+      "pink cheek blush marks",
+      "taiyaki-shaped hair clip",
+      "very long pink mermaid tail",
+      "light red and pink striped tail",
+      "ruffled mermaid waistline"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "東山小紅",
+      "小紅",
+      "higashiyama kobeni",
+      "kobeni"
+    ],
+    "char": "higashiyama kobeni",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "brown hair",
+      "short hair",
+      "small low ponytail",
+      "long right sidelock reaching shoulder",
+      "straight bangs",
+      "brown eyes",
+      "white pupils",
+      "two moles under left eye",
+      "mole below right side of mouth",
+      "mole on left cheek",
+      "two red hair clips on left"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "娜美",
+      "nami"
+    ],
+    "char": "nami",
+    "series": "one piece",
+    "seriesCN": "海賊王",
+    "appearance": [
+      "orange hair",
+      "long hair",
+      "wavy hair",
+      "brown eyes",
+      "blue pinwheel-and-tangerine tattoo on left shoulder"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "小鳥遊星野",
+      "星野",
+      "takanashi hoshino",
+      "hoshino"
+    ],
+    "char": "takanashi hoshino",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "pink hair",
+      "very long hair reaching legs",
+      "prominent single ahoge",
+      "heterochromia",
+      "sky blue left eye",
+      "golden orange right eye",
+      "small fang",
+      "two whale-shaped hairpins",
+      "pink eye-shaped curved halo"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "aragaki ayase",
+      "新垣綾瀬",
+      "綾瀬"
+    ],
+    "char": "aragaki ayase",
+    "series": "ore no imouto ga konna ni kawaii wake ga nai",
+    "seriesCN": "我的妹妹不可能這麼可愛",
+    "appearance": [
+      "dark navy blue hair",
+      "very long straight hair",
+      "center-parted bangs",
+      "short central forelock between eyes",
+      "two long cheek-framing sidelocks",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "sorasaki hina",
+      "日奈",
+      "hina",
+      "空崎日奈"
+    ],
+    "char": "sorasaki hina",
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "appearance": [
+      "knee-length wavy white hair",
+      "long sidelocks",
+      "dark black horns with glowing purple cracks",
+      "purple devil eyes",
+      "long black bat wings emerging from waist",
+      "golden monocle-shaped hair ornament",
+      "black jagged circular halo with purple inner ring"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "aoi kanzaki",
+      "神崎葵"
+    ],
+    "char": "aoi kanzaki",
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "appearance": [
+      "straight black hair",
+      "twintails",
+      "center-parted fringe",
+      "dark blue to light blue gradient eyes",
+      "white rectangular pupils",
+      "arched dark eyebrows",
+      "two white butterfly hair ornaments with blue edging and turquoise dots"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "無量塔姬子",
+      "姬子hi3",
+      "himeko hi3",
+      "himeko"
+    ],
+    "char": "himeko",
+    "series": "honkai impact",
+    "seriesCN": "崩壞3rd",
+    "appearance": [
+      "red hair",
+      "long wavy hair",
+      "messy updo",
+      "parted bangs",
+      "long sidelocks",
+      "amber eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "尤菲·如月",
+      "Yuffie Kisaragi",
+      "ユフィ・キサラギ"
+    ],
+    "char": "yuffie kisaragi",
+    "series": "final fantasy",
+    "seriesCN": "最终幻想",
+    "appearance": [
+      "dark brown hair",
+      "short spiky hair",
+      "asymmetrical bangs",
+      "choppy sidelocks",
+      "hair between eyes",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "noir",
+      "諾瓦"
+    ],
+    "char": "noir",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "brown hair",
+      "very long hair",
+      "orange eyes",
+      "brown eyes",
+      "dark skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "kotetsu isane",
+      "虎徹勇音",
+      "勇音",
+      "Isane"
+    ],
+    "char": "kotetsu isane",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "silver hair",
+      "short messy hair",
+      "shoulder-length right sidelocks",
+      "two thin braids beside right cheek",
+      "two thin braids at back of head",
+      "gray eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "gawr gura",
+      "噶嗚古拉",
+      "古拉",
+      "gura",
+      "がうる・ぐら",
+      "噶嗚·古拉"
+    ],
+    "char": "gawr gura",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "silver-grey hair",
+      "blue-streaked hair",
+      "medium hair",
+      "two side up",
+      "blunt bangs",
+      "blue eyes",
+      "shark tail",
+      "sharp teeth",
+      "shark-shaped hair ornaments"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "masaki kurosaki",
+      "黒崎真咲",
+      "真咲",
+      "Masaki",
+      "黑崎真咲"
+    ],
+    "char": "masaki kurosaki",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "light brown hair",
+      "long wavy hair",
+      "hair tied in back knot",
+      "chin-length front bangs",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "yozora mel",
+      "夜空メル",
+      "夜空梅露",
+      "梅露",
+      "mel"
+    ],
+    "char": "yozora mel",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "blonde hair",
+      "short hair",
+      "ahoge",
+      "blunt bangs",
+      "long sidelocks",
+      "amber eyes",
+      "bat-shaped hair ornament"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "liliruca arde",
+      "莉潔蕾",
+      "リリルカ",
+      "liliruca"
+    ],
+    "char": "liliruca arde",
+    "series": "dungeon ni deai wo motomeru no wa machigatteiru darou ka",
+    "seriesCN": "在地下城尋求邂逅是否搞錯了什麼",
+    "appearance": [
+      "chestnut brown hair",
+      "short hair",
+      "neck-length hair",
+      "blunt bangs",
+      "curled sidelocks",
+      "chestnut brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "amanogawa kanata",
+      "天音かなた",
+      "天音彼方"
+    ],
+    "char": "amanogawa kanata",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "silver hair",
+      "short asymmetrical bob cut",
+      "dark blue inner hair",
+      "pink-streaked hair",
+      "long asymmetrical bangs",
+      "hair over right eye",
+      "dark blue eyes",
+      "pink-gradient eyes",
+      "four-pointed star halo",
+      "small white feathered wings"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "alice",
+      "愛麗絲"
+    ],
+    "char": "alice",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "grey hair",
+      "long hair",
+      "twintails",
+      "bangs",
+      "sidelocks",
+      "pink eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "妮恩",
+      "neon"
+    ],
+    "char": "neon",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "white hair",
+      "long hair",
+      "bangs",
+      "sidelocks",
+      "green eyes",
+      "glasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "蒂娜",
+      "ティナ",
+      "tina"
+    ],
+    "char": "tina",
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "appearance": [
+      "blonde hair",
+      "neck-length hair",
+      "side-swept bangs",
+      "face-framing sidelocks",
+      "blue eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "神谷奈緒"
+    ],
+    "char": "kamiya nao",
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "appearance": [
+      "light brown hair",
+      "long hair",
+      "wavy hair",
+      "blunt bangs",
+      "thick eyebrows",
+      "long sidelocks",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "asuka langley soryu",
+      "明日香",
+      "asuka",
+      "souryuu asuka langley",
+      "惣流明日香"
+    ],
+    "char": "asuka langley soryu",
+    "series": "neon genesis evangelion",
+    "seriesCN": "新世纪福音战士",
+    "appearance": [
+      "auburn orange hair",
+      "very long hair",
+      "twintails",
+      "blunt bangs",
+      "long sidelocks",
+      "blue eyes",
+      "red interface hair clips"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "cirucci sanderwicci",
+      "チルッチ・サンダーウィッチ",
+      "Cirucci",
+      "西魯奇·桑德維奇",
+      "西魯奇"
+    ],
+    "char": "cirucci sanderwicci",
+    "series": "bleach",
+    "seriesCN": "死神",
+    "appearance": [
+      "purple hair",
+      "short hair",
+      "wavy hair",
+      "purple eyes",
+      "black fingernails",
+      "light purple lipstick",
+      "teardrop marks on cheeks",
+      "spiked mask hairpin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "姫野",
+      "himeno"
+    ],
+    "char": "himeno",
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "appearance": [
+      "black hair",
+      "neck-length hair",
+      "short hair",
+      "messy hair",
+      "turquoise eyes",
+      "black eyepatch",
+      "eyepatch over right eye"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "ganaha hibiki",
+      "我那霸響",
+      "響"
+    ],
+    "char": "ganaha hibiki",
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "appearance": [
+      "black hair",
+      "very long hair",
+      "high ponytail",
+      "long side-swept bangs",
+      "blue eyes",
+      "tan skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "minato aqua",
+      "aqua",
+      "湊阿庫婭",
+      "阿庫婭",
+      "湊阿库娅"
+    ],
+    "char": "minato aqua",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "purple-pink hair",
+      "very long hair",
+      "twin drill ponytails",
+      "light blue streaked bangs",
+      "light blue inner hair",
+      "light blue ahoge",
+      "blunt bangs",
+      "violet eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "chi-chi",
+      "琪琪"
+    ],
+    "char": "chi-chi",
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "appearance": [
+      "black hair",
+      "long straight hair",
+      "high hair bun",
+      "short blunt bangs",
+      "long face-framing sidelocks",
+      "black eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "amane misa",
+      "彌海砂",
+      "海砂",
+      "misa"
+    ],
+    "char": "amane misa",
+    "series": "death note",
+    "seriesCN": "死亡筆記本",
+    "appearance": [
+      "golden blonde hair",
+      "long straight hair",
+      "partial twintails",
+      "straight bangs",
+      "light brown eyes",
+      "long cheek-framing sidelocks"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "hook",
+      "虎克"
+    ],
+    "char": "hook",
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "appearance": [
+      "blonde hair",
+      "long twin ponytails",
+      "yellow eyes",
+      "short side-swept bangs",
+      "curled sidelocks"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "anis",
+      "阿妮斯"
+    ],
+    "char": "anis",
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "appearance": [
+      "brown hair",
+      "short hair",
+      "bangs",
+      "ahoge",
+      "yellow eyes",
+      "brown eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "哈科斯·貝爾茲",
+      "貝爾茲",
+      "hakos baelz",
+      "ハコス・ベールズ"
+    ],
+    "char": "hakos baelz",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "bright red hair",
+      "voluminous twintails",
+      "white streak in left bangs",
+      "pink mouse ears",
+      "long thin mouse tail",
+      "yellow eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "麗日御茶子",
+      "麗日お茶子",
+      "うららかおちゃこ",
+      "uravity"
+    ],
+    "char": "uraraka ochaco",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "auburn hair",
+      "above-shoulder bob cut",
+      "short bangs above eyebrows",
+      "long sidelocks",
+      "auburn eyes",
+      "permanent pink blush marks on cheeks",
+      "small pink pads on fingertips"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "蛙吹梅雨",
+      "あすいつゆ",
+      "froppy"
+    ],
+    "char": "asui tsuyu",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "dark sea green hair",
+      "hip-length hair",
+      "hair ends tied into a large hair bow",
+      "armpit-length sidelocks",
+      "short bangs between eyes",
+      "large black oval eyes",
+      "wide frog-like mouth",
+      "long extendable tongue"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "八百萬百",
+      "八百万百",
+      "やおよろずもも",
+      "creati"
+    ],
+    "char": "yaoyorozu momo",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "black hair",
+      "long hair",
+      "high spiky ponytail",
+      "loose curled ponytail ends",
+      "long right-side fringe",
+      "onyx eyes",
+      "short eyebrows"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "蘆戶三奈",
+      "芦戸三奈",
+      "あしどみな",
+      "pinky"
+    ],
+    "char": "ashido mina",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "short fluffy pink hair",
+      "messy hair",
+      "two pale yellow horns curving outward",
+      "square-shaped eyes",
+      "yellow irises",
+      "black sclerae",
+      "long eyelashes",
+      "light pink skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "耳郎響香",
+      "じろうきょうか",
+      "earphone jack"
+    ],
+    "char": "jirou kyouka",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "dark purple hair",
+      "chin-length asymmetrical hair",
+      "asymmetrical bangs",
+      "wavy soundwave-shaped hair highlights",
+      "long face-framing sidelocks",
+      "black triangular eyes",
+      "long lower eyelashes",
+      "flexible earphone-jack earlobes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "發目明",
+      "発目明",
+      "はつめめい"
+    ],
+    "char": "hatsume mei",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "salmon pink hair",
+      "shoulder-length thick dreadlocks",
+      "right-swept bangs",
+      "yellow-green eyes",
+      "crosshair-shaped pupils",
+      "long upper eyelashes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "渡我被身子",
+      "トガヒミコ"
+    ],
+    "char": "toga himiko",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "pale ash blonde hair",
+      "messy double buns",
+      "stray hair strands",
+      "straight blunt bangs",
+      "chin-length sidelocks",
+      "yellow slit-pupil eyes",
+      "dark lower eye bags",
+      "long pointed fangs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "拳藤一佳",
+      "けんどういつか"
+    ],
+    "char": "kendou itsuka",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "orange hair",
+      "long hair",
+      "high left-side ponytail",
+      "three distinct front bang clumps",
+      "large stray hair tufts on top",
+      "teal eyes",
+      "white pupils"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "小大唯",
+      "こだいゆい"
+    ],
+    "char": "kodai yui",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "black hair",
+      "shoulder-length bob cut",
+      "right-swept bangs",
+      "shorter fringe strands above eyes",
+      "narrow cerulean eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "小森希乃子",
+      "こもりきのこ"
+    ],
+    "char": "komori kinoko",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "honey brown hair",
+      "shoulder-length hair",
+      "mushroom bob",
+      "hair over eyes",
+      "brown eyes",
+      "cross-shaped pupils"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "鹽崎茨",
+      "しおざきいばら"
+    ],
+    "char": "shiozaki ibara",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "green hair",
+      "vine hair",
+      "long hair",
+      "thorns",
+      "forehead vine cross",
+      "dark green eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "取蔭切奈",
+      "とかげせつな"
+    ],
+    "char": "tokage setsuna",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "dark moss green hair",
+      "hair past shoulders",
+      "wavy and thinned hair ends",
+      "single short central bang",
+      "dusky green upturned eyes",
+      "long lower eyelashes",
+      "long sharp pointed teeth"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "角取波妮",
+      "つのとりポニー"
+    ],
+    "char": "tsunotori pony",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "thick wavy blonde hair",
+      "mid-back hair",
+      "short bangs",
+      "prussian blue eyes",
+      "two tall pale tan lyre-shaped horns",
+      "short horse muzzle",
+      "brown hooves",
+      "short horse tail"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "柳玲子",
+      "やなぎれいこ"
+    ],
+    "char": "yanagi reiko",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "pale silver hair",
+      "chin-length messy pixie bob",
+      "straight hair",
+      "side-swept bangs covering left side of face",
+      "dark prussian blue eyes",
+      "long pointed lower eyelashes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "現見凱米",
+      "うつしみけみぃ"
+    ],
+    "char": "utsushimi camie",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "light brown hair",
+      "straight shoulder-length hair",
+      "dark brown eyes",
+      "full glossy lips",
+      "side-parted bangs"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "轟冬美",
+      "とどろきふゆみ"
+    ],
+    "char": "todoroki fuyumi",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "white hair",
+      "crimson streaked hair",
+      "streaked hair",
+      "shoulder-length hair",
+      "bangs",
+      "sidelocks",
+      "turquoise eyes",
+      "red glasses"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "爆豪光己",
+      "ばくごうみつき"
+    ],
+    "char": "bakugou mitsuki",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "ash blonde hair",
+      "spiky hair",
+      "short hair",
+      "bangs",
+      "red eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "波動寧次",
+      "nejire"
+    ],
+    "char": "hadou nejire",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "periwinkle blue hair",
+      "knee-length hair",
+      "two waist-level spiral hair sections",
+      "inward-curled hair ends",
+      "side-swept bangs",
+      "bangs covering left eye",
+      "short curled sidelocks",
+      "royal blue eyes",
+      "white pupils"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "米爾科",
+      "mirko",
+      "usagiyama rumi"
+    ],
+    "char": "mirko",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "white hair",
+      "straight thigh-length hair",
+      "right-parted bangs",
+      "waist-length sidelocks",
+      "red eyes",
+      "long white rabbit ears",
+      "short round white rabbit tail",
+      "dark brown skin"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "午夜",
+      "midnight"
+    ],
+    "char": "kayama nemuri",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "dark purple hair",
+      "long thick spiky hair",
+      "layered waist-length hair",
+      "three-part chin-length bangs",
+      "sky blue eyes",
+      "long eyelashes",
+      "mole below left eye"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "拿鋼女士",
+      "lady nagant"
+    ],
+    "char": "lady nagant",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "deep indigo hair",
+      "pink hair streaks",
+      "chin-length hair",
+      "crooked center-parted bangs",
+      "shoulder-length sidelock strands",
+      "light purple gradient irises",
+      "white pupils",
+      "thick eyebrows"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "姆特女士",
+      "mount lady"
+    ],
+    "char": "takeyama yu",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "voluminous creamy blonde hair",
+      "waist-length hair",
+      "right-parted bangs",
+      "two tightly curled sidelocks",
+      "magenta eyes",
+      "white pupils",
+      "long eyelashes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "龍宮",
+      "ryukyu"
+    ],
+    "char": "tatsuma ryuko",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "blonde hair",
+      "chin-length hair",
+      "swept bangs",
+      "hair over one eye",
+      "yellow eyes",
+      "slit pupils",
+      "sharp teeth"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "拉布拉瓦",
+      "la brava"
+    ],
+    "char": "aiba manami",
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "appearance": [
+      "raspberry pink hair",
+      "long high twintails",
+      "thick pigtails tapering to thin upcurled tips",
+      "one right-swept central bang",
+      "oval pink eyes",
+      "double concentric iris rings",
+      "dark circles under eyes"
+    ],
+    "score": 99
+  },
+  {
+    "cn": [
+      "南丁格爾",
+      "弗洛倫斯·南丁格爾",
+      "Florence Nightingale",
+      "ナイチンゲール",
+      "nightingale"
+    ],
+    "char": "florence nightingale",
+    "series": "fate grand order",
+    "seriesCN": "Fate/Grand Order",
+    "appearance": [
+      "pink hair",
+      "long hair",
+      "braided ponytail",
+      "folded ponytail",
+      "red eyes"
+    ],
+    "score": 90
+  },
+  {
+    "cn": [
+      "奧羅·克洛尼",
+      "奥罗·克洛尼",
+      "オーロ・クロニー",
+      "Ouro Kronii"
+    ],
+    "char": "ouro kronii",
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "appearance": [
+      "dark blue hair",
+      "medium hair",
+      "blue inner hair",
+      "hair intakes",
+      "hair flaps",
+      "blue eyes",
+      "chain headband",
+      "small white veil",
+      "clock-shaped mechanical halo"
+    ]
+  }
+]

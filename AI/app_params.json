@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "savedAt": "2026-11-06T17:29:13.209Z",
+  "fontScale": 135,
+  "fold": {
+    "sec:sec-expr": false,
+    "sec:sec-hand": false,
+    "sec:sec-scene": false,
+    "sec:sec-count": false,
+    "sec:sec-opt": false,
+    "sec:sec-roc": false,
+    "sec:sec-cos": false,
+    "sec:sec-lora": false,
+    "sec:sec-cloth": false,
+    "sec:sec-trans": false,
+    "sec:sec-zh": false,
+    "sec:sec-desc": true,
+    "sec:sec-bank": true,
+    "sec:sec-rand": false,
+    "sec:sec-cosdet": true,
+    "sec:sec-cam": false,
+    "sec:sec-view": false,
+    "sec:sec-combo": false,
+    "sec:sec-act": false
+  },
+  "uiTune": {
+    "font": 135,
+    "fold": {
+      "sec:sec-expr": false,
+      "sec:sec-hand": false,
+      "sec:sec-scene": false,
+      "sec:sec-count": false,
+      "sec:sec-opt": false,
+      "sec:sec-roc": false,
+      "sec:sec-cos": false,
+      "sec:sec-lora": false,
+      "sec:sec-cloth": false,
+      "sec:sec-trans": false,
+      "sec:sec-zh": false,
+      "sec:sec-desc": true,
+      "sec:sec-bank": true,
+      "sec:sec-rand": false,
+      "sec:sec-cosdet": true,
+      "sec:sec-cam": false,
+      "sec:sec-view": false,
+      "sec:sec-combo": false,
+      "sec:sec-act": false
+    }
+  }
+}

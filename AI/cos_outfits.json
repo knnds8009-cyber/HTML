@@ -1,0 +1,6442 @@
+{
+  "a2": {
+    "series": "nier automata",
+    "seriesCN": "尼爾：自動人形",
+    "cn": [
+      "a2",
+      "yorha a2",
+      "A2"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（YoRHa Type A No.2）",
+        "tags": [
+          "official_costume",
+          "black velvet-like waist cloth",
+          "torn black waist wrap",
+          "asymmetrical ragged cloth hem"
+        ]
+      }
+    ]
+  },
+  "acheron": {
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "cn": [
+      "黃泉",
+      "acheron"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方預設（黃泉／星穹鐵道）",
+        "tags": [
+          "black crop top",
+          "white asymmetrical open jacket",
+          "single right furisode sleeve",
+          "purple flame motif on sleeve",
+          "four long gradient coat tails",
+          "silver right shoulder armor",
+          "black high-waisted short shorts",
+          "black belt with silver spine-shaped buckle",
+          "purple hip strap",
+          "asymmetrical black stiletto boots",
+          "thigh-high left boot",
+          "knee-high right boot",
+          "black fingerless gauntlet",
+          "metallic finger guards"
+        ]
+      }
+    ]
+  },
+  "aegir": {
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "cn": [
+      "aegir",
+      "埃吉尔",
+      "埃吉爾",
+      "Ägir",
+      "エーギル"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作預設（Iron Blood O級）",
+        "tags": [
+          "black high-neck halter top",
+          "black waist-cinching lace-up corset",
+          "black short skirt",
+          "asymmetrical black translucent stockings",
+          "black thigh straps",
+          "black gloves with arm armor",
+          "long black cape with crimson lining",
+          "red neck ribbon",
+          "black heeled boots"
+        ]
+      }
+    ]
+  },
+  "aerith gainsborough": {
+    "series": "final fantasy",
+    "seriesCN": "最终幻想",
+    "cn": [
+      "爱丽丝·盖恩斯巴勒",
+      "Aerith Gainsborough",
+      "エアリス・ゲインズブール"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·FF7 預設花販洋裝",
+        "tags": [
+          "shin-length pink button-front dress",
+          "red cropped bolero jacket",
+          "red jacket with zipper front",
+          "brown boots",
+          "three metallic wrist bangles",
+          "flower pendant necklace"
+        ]
+      }
+    ]
+  },
+  "aikiyo fuuka": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "愛清風香",
+      "風香",
+      "aikiyo fuuka",
+      "fuuka"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（格黑娜供餐部制服）",
+        "tags": [
+          "fuuka_(blue_archive)",
+          "official_costume",
+          "navy blue pleated one-piece dress",
+          "red and yellow stripes on dress",
+          "orange necktie",
+          "white waist apron",
+          "pink apron belt",
+          "orange cooking headscarf",
+          "red socks",
+          "white sneakers with navy trim"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方正月（櫻花振袖）",
+        "tags": [
+          "fuuka_(new_year)_(blue_archive)",
+          "official_alternate_costume",
+          "white-to-pink gradient furisode",
+          "pink cherry blossom print on kimono",
+          "wide kimono sleeves",
+          "white fur collar",
+          "dark pink obi",
+          "pink obi bow",
+          "green obi cord",
+          "white pom-pom tassels"
+        ]
+      }
+    ]
+  },
+  "aine": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "相音",
+      "あいね",
+      "aine"
+    ],
+    "sets": []
+  },
+  "aki": {
+    "series": "street fighter",
+    "seriesCN": "",
+    "cn": [
+      "aki",
+      "アキ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·Street Fighter 6 A.K.I. 官方戰鬥服",
+        "tags": [
+          "open-back black snakeskin cheongsam",
+          "red piping on qipao",
+          "fitted black snakeskin pants",
+          "long metallic claw gauntlets",
+          "segmented metal finger extensions",
+          "coiled chains on forearms"
+        ]
+      }
+    ]
+  },
+  "ako": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "天雨亞子",
+      "亞子",
+      "ako",
+      "amau ako"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（格黑娜風紀委員）",
+        "tags": [
+          "ako_(blue_archive)",
+          "official_costume",
+          "navy blue gold-buttoned coat",
+          "open-sided coat",
+          "white sleeveless collared shirt",
+          "black fitted miniskirt",
+          "black gartered thighhighs",
+          "short black fingerless gloves",
+          "black heavy platform ankle boots",
+          "gold ring boot details",
+          "black leather choker",
+          "gold cowbell on choker"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方禮服（Dress）",
+        "tags": [
+          "ako_(dress)_(blue_archive)",
+          "official_alternate_costume",
+          "navy blue backless evening dress",
+          "deep front neckline",
+          "side cutouts on bodice",
+          "dress side slit",
+          "thin black chain around waist",
+          "thin black chain across underbodice",
+          "black strappy heels"
+        ]
+      }
+    ]
+  },
+  "albedo": {
+    "series": "overlord",
+    "seriesCN": "OVERLORD",
+    "cn": [
+      "雅兒貝德",
+      "アルベド",
+      "albedo"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·OVERLORD 守護者總管預設白禮服",
+        "tags": [
+          "long flowing white off-shoulder dress",
+          "white elbow-length silk gloves",
+          "gold spiderweb chest necklace",
+          "gold geometric neckline ornament",
+          "layered white dress skirt"
+        ]
+      }
+    ]
+  },
+  "alice": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "愛麗絲",
+      "alice"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Unlimited）",
+        "tags": [
+          "pink bodysuit",
+          "skintight",
+          "animal ear headphones",
+          "pink shrug",
+          "two-tone gloves",
+          "white sneakers"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·Alice: Wonderland Bunny（粉紅兔女郎連身服）",
+        "tags": [
+          "glossy pink strapless bunny leotard",
+          "structured pink sweetheart neckline cups",
+          "pink and white tall bunny-ear headband",
+          "white detachable shirt collar with pink bowtie",
+          "white buttoned wrist cuffs",
+          "sheer white pantyhose",
+          "small white faux rabbit-tail accessory",
+          "pink and white athletic sneakers"
+        ]
+      }
+    ]
+  },
+  "amami haruka": {
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "cn": [
+      "amami haruka",
+      "天海春香",
+      "春香"
+    ],
+    "sets": []
+  },
+  "amane misa": {
+    "series": "death note",
+    "seriesCN": "死亡筆記本",
+    "cn": [
+      "amane misa",
+      "彌海砂",
+      "海砂",
+      "misa"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·Death Note 初登場黑色哥德洛麗塔服",
+        "tags": [
+          "black leather corset with straps",
+          "black mini skirt",
+          "separate black lace sleeves",
+          "black choker",
+          "silver cross necklace",
+          "black patterned lace thighhigh stockings",
+          "black lace-up combat boots"
+        ]
+      }
+    ]
+  },
+  "amau ako": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "天雨亞子",
+      "亞子",
+      "amau ako",
+      "ako"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（格黑娜風紀委員）",
+        "tags": [
+          "ako_(blue_archive)",
+          "official_costume",
+          "navy blue gold-buttoned coat",
+          "open-sided coat",
+          "white sleeveless collared shirt",
+          "black fitted miniskirt",
+          "black gartered thighhighs",
+          "short black fingerless gloves",
+          "black heavy platform ankle boots",
+          "gold ring boot details",
+          "black leather choker",
+          "gold cowbell on choker"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方禮服（Dress）",
+        "tags": [
+          "ako_(dress)_(blue_archive)",
+          "official_alternate_costume",
+          "navy blue backless evening dress",
+          "deep front neckline",
+          "side cutouts on bodice",
+          "dress side slit",
+          "thin black chain around waist",
+          "thin black chain across underbodice",
+          "black strappy heels"
+        ]
+      }
+    ]
+  },
+  "ame-chan": {
+    "series": "needy streamer overload",
+    "seriesCN": "需要過度的超絕可愛女孩子",
+    "cn": [
+      "ame-chan",
+      "妹妹",
+      "needy girl"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·NEEDY STREAMER OVERLOAD 阿雨常服",
+        "tags": [
+          "red short-sleeved shirt",
+          "puffy white sleeves with wing-like fabric shapes",
+          "black ribbon at collar",
+          "black pinafore dress",
+          "gold decorative buttons on pinafore",
+          "gold trim on black dress",
+          "simple black knee-high socks",
+          "black shoes"
+        ]
+      }
+    ]
+  },
+  "anastasia": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "cn": [
+      "anastasia",
+      "安娜斯塔西婭",
+      "アナスタシア"
+    ],
+    "sets": []
+  },
+  "android 21": {
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "cn": [
+      "android 21",
+      "人造人21號"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·Dragon Ball FighterZ 人形研究員服",
+        "tags": [
+          "white lab coat",
+          "rolled-up coat sleeves",
+          "red ribbon army shoulder insignia",
+          "sleeveless high-neck mini dress",
+          "red and blue check-pattern dress",
+          "opaque black tights",
+          "black detached arm sleeves",
+          "mismatched red and blue ankle boots",
+          "gold boot toe caps"
+        ]
+      }
+    ]
+  },
+  "anis": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "阿妮斯",
+      "anis"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Counters）",
+        "tags": [
+          "black beret",
+          "orange-yellow-and-black short jacket",
+          "gray cropped shirt",
+          "black short shorts",
+          "black fingerless gloves",
+          "black thighhigh stockings",
+          "thigh straps",
+          "black high heels"
+        ]
+      }
+    ]
+  },
+  "aoi kanzaki": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "aoi kanzaki",
+      "神崎葵"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·蝶屋葵制服與白色護理裙",
+        "tags": [
+          "blue-tinted demon slayer high-collar button-up jacket",
+          "silver front buttons",
+          "long-sleeve white collared undershirt",
+          "white uniform belt",
+          "blue tattsuke-hakama pants",
+          "white sleeveless nurse overdress",
+          "blue waist sash",
+          "white tabi socks",
+          "zori sandals with blue straps"
+        ]
+      }
+    ]
+  },
+  "minato aqua": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "minato aqua",
+      "aqua",
+      "湊阿庫婭",
+      "阿庫婭"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·藍色海軍女僕裝",
+        "tags": [
+          "white ruffled maid headdress with blue anchor motif",
+          "dark blue sailor-style maid dress",
+          "white sailor collar",
+          "puffed navy short sleeves",
+          "white ruffled double-layer skirt hem",
+          "large white anchor symbol on apron skirt",
+          "multiple white bow accents on skirt",
+          "navy neck bow",
+          "white ruffled wrist cuffs",
+          "white frilled ankle cuffs",
+          "navy Mary Jane shoes"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月和風女僕",
+        "tags": [
+          "frilled blue kimono over maid outfit",
+          "frilled white waist apron",
+          "anchor print on apron",
+          "white tabi bobby socks",
+          "blue okobo sandals"
+        ]
+      }
+    ]
+  },
+  "aragaki ayase": {
+    "series": "ore no imouto ga konna ni kawaii wake ga nai",
+    "seriesCN": "我的妹妹不可能這麼可愛",
+    "cn": [
+      "aragaki ayase",
+      "新垣綾瀬",
+      "綾瀬"
+    ],
+    "sets": []
+  },
+  "arona": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "阿洛娜",
+      "アロナ",
+      "arona"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·阿羅娜官方水手制服",
+        "tags": [
+          "long-sleeved sailor-style dress",
+          "white sailor collar",
+          "white tied chest ribbon",
+          "round luminous badge attached to chest ribbon",
+          "white skirt with triangle cross plus circle symbols",
+          "neck choker",
+          "white sneakers with bow-shaped shoelaces",
+          "white headband"
+        ]
+      }
+    ]
+  },
+  "artoria pendragon": {
+    "series": "fate stay night",
+    "seriesCN": "Fate",
+    "cn": [
+      "artoria pendragon",
+      "阿爾托莉雅",
+      "Saber",
+      "阿爾托利亞"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·Fate/stay night Saber 藍白戰鬥禮服與金屬鎧",
+        "tags": [
+          "layered blue purple and white long dress",
+          "wide flared multilayered skirt",
+          "silver armored breastplate",
+          "heavy silver waist and side armor plates",
+          "silver armored forearm guards",
+          "silver shin and knee armor"
+        ]
+      }
+    ]
+  },
+  "asa mitaka": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "三鷹朝",
+      "朝",
+      "三鹰朝",
+      "asa mitaka"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·第四東高標準制服",
+        "tags": [
+          "white long-sleeved button-up blouse",
+          "dark pinafore-style school dress",
+          "below-knee pleated skirt",
+          "bow tie at shirt collar",
+          "wide waist belt on pinafore",
+          "black knee-high socks",
+          "sneakers"
+        ]
+      }
+    ]
+  },
+  "ashe": {
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "cn": [
+      "ashe",
+      "艾希"
+    ],
+    "sets": []
+  },
+  "asuka langley soryu": {
+    "series": "neon genesis evangelion",
+    "seriesCN": "新世纪福音战士",
+    "cn": [
+      "asuka langley soryu",
+      "明日香",
+      "asuka"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·NGE EVA-02 紅色駕駛服",
+        "tags": [
+          "skin-tight red EVA-02 plugsuit",
+          "black panels down forearms",
+          "lime-green chest emblem",
+          "two circular mechanisms on sides of abdomen",
+          "rounded armored shoulder mechanisms",
+          "red twin-piece interface headset"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·第三新東京市立第一中學女生制服",
+        "tags": [
+          "white sailor-collared short-sleeve blouse",
+          "pale blue suspender pinafore dress",
+          "knee-length blue pleated skirt",
+          "red neck ribbon",
+          "black school shoes"
+        ]
+      }
+    ]
+  },
+  "asuma toki": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "飛鳥馬時",
+      "時",
+      "asuma toki",
+      "toki"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（C&C 戰術女僕 Mode 1）",
+        "tags": [
+          "toki_(blue_archive)",
+          "official_costume",
+          "white maid headdress",
+          "black long-sleeve maid dress with white trim",
+          "white maid apron",
+          "detachable black long skirt",
+          "black short overskirt",
+          "blue neck ribbon",
+          "large blue back bow",
+          "black fingerless elbow gloves",
+          "white glove cuffs",
+          "black tactical chest webbing",
+          "blue harness buckles",
+          "white heeled thigh boots",
+          "blue circle accents on boots"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方兔女郎（Bunny Girl）",
+        "tags": [
+          "toki_(bunny)_(blue_archive)",
+          "official_alternate_costume",
+          "navy blue velvet strapless bunny leotard",
+          "navy blue fabric rabbit-ear headband",
+          "white detached collar",
+          "light blue neck bow",
+          "white thighhigh stockings",
+          "navy blue high heels"
+        ]
+      }
+    ]
+  },
+  "break perona": {
+    "series": "one piece",
+    "seriesCN": "海賊王",
+    "cn": [
+      "佩羅娜",
+      "perona",
+      "break perona"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·恐怖三桅帆船（初登場）",
+        "tags": [
+          "red miniature crown with black cross",
+          "white cropped long-sleeve blouse",
+          "three black hearts on chest",
+          "red short capelet",
+          "pink ribbon bow at cape neck",
+          "red miniskirt",
+          "red and gold belt",
+          "heart-shaped belt buckle",
+          "black and white horizontal striped tights",
+          "red buckled calf boots"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·兩年後（米霍克城堡）",
+        "tags": [
+          "long black strapless dress",
+          "lavender-purple frilled neckline and trim",
+          "large black top hat",
+          "white floral decoration on top hat",
+          "red high-heeled boots",
+          "wristwatch on left wrist"
+        ]
+      }
+    ]
+  },
+  "bronya zaychik": {
+    "series": "honkai impact",
+    "seriesCN": "崩壞3rd",
+    "cn": [
+      "bronya zaychik",
+      "布洛妮婭",
+      "bronya"
+    ],
+    "sets": []
+  },
+  "bulma": {
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "cn": [
+      "布瑪",
+      "ブルマ",
+      "bulma"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·七龍珠最初登場粉洋裝",
+        "tags": [
+          "short pink dress",
+          "BULMA lettering across dress front",
+          "purple socks",
+          "blue sneakers",
+          "red ribbon tied to ponytail"
+        ]
+      }
+    ]
+  },
+  "chaska": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "恰斯卡",
+      "chaska"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Tlalocan's Night Phantom",
+        "tags": [
+          "brown cowboy hat with gold bird-beak accents",
+          "blue and red hat feathers",
+          "orange and white feather tassels under brim",
+          "black sleeveless fitted crop top",
+          "gold-edged central torso cutouts",
+          "long blue and red back cloak panels",
+          "asymmetric black gloves",
+          "long fitted detached left sleeve",
+          "gold bracelet on left wrist",
+          "red scarf with feather-tasseled cape",
+          "brown waist belt",
+          "anemo vision on left belt",
+          "long decorative belt ornaments",
+          "asymmetric black leggings",
+          "black heeled boots"
+        ]
+      }
+    ]
+  },
+  "cheshire": {
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "cn": [
+      "柴郡",
+      "チェシャー",
+      "cheshire"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作預設女僕裝",
+        "tags": [
+          "dark navy and black frilled maid dress",
+          "white frilled apron",
+          "white lace neckline",
+          "large white frilled maid headdress with cat-ear shape",
+          "black and white layered puffed detached sleeves",
+          "long dark bows hanging from sleeves",
+          "black ribbon choker with metal charm",
+          "white thighhighs with garter straps",
+          "white wrist cuffs",
+          "dark heeled shoes"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "誓約·White Seaside Melody（海濱白色旋律）",
+        "tags": [
+          "long layered white lace wedding gown",
+          "full tulle white bridal skirt with a trailing hem",
+          "white bridal veil",
+          "white lace cat-ear shaped bridal headdress",
+          "pale blue gem choker",
+          "blue and white bows on wedding dress",
+          "long white bridal gloves",
+          "white thighhigh stockings",
+          "white bridal high heels"
+        ]
+      }
+    ]
+  },
+  "chi-chi": {
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "cn": [
+      "chi-chi",
+      "琪琪"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·第23回天下第一武道會（琪琪）",
+        "tags": [
+          "blue Chinese cheongsam top",
+          "red trousers",
+          "red sash belt",
+          "red armbands",
+          "red shoes",
+          "white socks"
+        ]
+      }
+    ]
+  },
+  "chisato nishikigi": {
+    "series": "lycoris recoil",
+    "seriesCN": "莉可丽丝",
+    "cn": [
+      "chisato nishikigi",
+      "锦木千束"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·莉可麗絲一等 Lycoris 紅制服",
+        "tags": [
+          "red first-rank lycoris pleated uniform dress",
+          "grey panels on red uniform dress",
+          "black calf-high socks",
+          "brown loafers"
+        ]
+      }
+    ]
+  },
+  "choco": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "choco",
+      "癒月巧可"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "open white lab coat with red inner lining",
+          "pink sleeveless center-frilled shirt",
+          "black lace-trimmed pencil miniskirt",
+          "black lace-trimmed thighhighs",
+          "garter straps",
+          "black strappy high heels"
+        ]
+      }
+    ]
+  },
+  "chris": {
+    "series": "kono subarashii sekai ni shukufuku wo!",
+    "seriesCN": "為美好的世界獻上祝福",
+    "cn": [
+      "chris",
+      "克里斯",
+      "クリス"
+    ],
+    "sets": []
+  },
+  "christie": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "克莉絲蒂",
+      "克莉丝蒂",
+      "クリスティ",
+      "christie"
+    ],
+    "sets": [
+      {
+        "id": "swimsuit",
+        "label": "第2套·DOA5: Azurite",
+        "tags": [
+          "Azurite swimsuit",
+          "red halterneck pretzel-cut swimsuit",
+          "red crisscross swimsuit front",
+          "fishnet insert near lower abdomen",
+          "gemstone at halterneck strap junction",
+          "heeled sandals"
+        ]
+      }
+    ]
+  },
+  "cirucci sanderwicci": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "cirucci sanderwicci",
+      "チルッチ・サンダーウィッチ",
+      "Cirucci"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·破面105 號奇魯奇哥德羅麗塔裝",
+        "tags": [
+          "frilly gothic-lolita minidress",
+          "puffy detached shoulder sleeves",
+          "knee-high black boots",
+          "fingerless evening gloves",
+          "white leg warmers",
+          "thigh garters supporting leg warmers"
+        ]
+      }
+    ]
+  },
+  "citlali g": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "citlali g",
+      "茜特菈莉"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Dawnseer",
+        "tags": [
+          "black and wine-purple sleeveless leotard",
+          "semi-backless leotard",
+          "vertical stripe textures",
+          "small diamond chest cutouts",
+          "indigo tie-shaped chest fabric",
+          "dark blue and pink waist-draped enredo",
+          "cross-shaped diamond patterns on wrap skirt",
+          "left-side slit in hip wrap",
+          "indigo and pink waist ribbon",
+          "cryo vision on hip ribbon",
+          "triangular golden cyan pink neckpiece",
+          "asymmetric black fingerless gloves",
+          "long detached left arm sleeve",
+          "gold bands on gloves",
+          "multiple golden wrist bangles",
+          "black heeled gladiator sandals",
+          "black-gold ornamental circular headdress",
+          "purple-to-pink hanging head feathers"
+        ]
+      }
+    ]
+  },
+  "cocoa": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "可可",
+      "cocoa"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Maid For You）",
+        "tags": [
+          "cocoa_(nikke)",
+          "official_costume",
+          "black frilled long-sleeve maid dress",
+          "black juliet sleeves",
+          "white frilled apron",
+          "printed writing on white apron",
+          "black bowtie",
+          "white detached maid collar",
+          "frilled maid headdress",
+          "layered white skirt ruffles",
+          "white opaque tights",
+          "black mary janes",
+          "black shoulder satchel",
+          "black frilled parasol"
+        ]
+      }
+    ]
+  },
+  "cyan sung-sun": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "cyan sung-sun",
+      "シアン・スンスン",
+      "Sung-Sun"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作長袖破面洋裝（Harribel分隊／56號）",
+        "tags": [
+          "long white dress",
+          "oversized long sleeves",
+          "sleeve slits",
+          "two thin crossed belts",
+          "furry black necklace"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·十七個月後新版白裙（千年血戰篇）",
+        "tags": [
+          "long white fitted dress",
+          "high thigh-length slit on white dress",
+          "black fur trim along dress hem",
+          "long draped white cloth falling over right shoulder",
+          "black furry neckpiece",
+          "high-heeled shoes",
+          "two thin crisscross waist belts"
+        ]
+      }
+    ]
+  },
+  "dori": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "多莉",
+      "dori"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 I Love Mora",
+        "tags": [
+          "large purple ornate hat",
+          "gold flower-like ornament on hat",
+          "white and purple hat ribbon",
+          "black cropped top",
+          "large blue gemstone on chest",
+          "white detached sleeves",
+          "baggy purple trousers",
+          "white overall straps",
+          "gold trim and jewel ornaments",
+          "long purple hat tassel",
+          "electro vision on hat tassel",
+          "black sandals",
+          "multiple golden finger rings"
+        ]
+      }
+    ]
+  },
+  "elaina": {
+    "series": "majo no tabitabi",
+    "seriesCN": "魔女之旅",
+    "cn": [
+      "elaina",
+      "艾蓮娜",
+      "イレイナ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·魔女之旅 灰之魔女常服",
+        "tags": [
+          "wide-brimmed black witch hat",
+          "frilled white collared shirt",
+          "yellow neck ribbon",
+          "black pleated frilled skirt",
+          "open black hooded robe",
+          "star-shaped chest brooch",
+          "black boots"
+        ]
+      }
+    ]
+  },
+  "elma": {
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "cn": [
+      "艾爾瑪",
+      "エルマ",
+      "elma"
+    ],
+    "sets": []
+  },
+  "emilou apacci": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "emilou apacci",
+      "エミルー・アパッチ",
+      "Apacci"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作破面制服（Harribel分隊／54號）",
+        "tags": [
+          "arrancar uniform",
+          "v-neck",
+          "shoulder-length sleeves",
+          "black cuffs",
+          "wrist collars",
+          "gloves"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·十七個月後阿帕契護甲型服裝",
+        "tags": [
+          "black fitted under-armor top",
+          "protective chest armor",
+          "black elbow-length gloves",
+          "armor plates across backs of hands",
+          "segmented protective forearm armor"
+        ]
+      }
+    ]
+  },
+  "eris boreas greyrat": {
+    "series": "mushoku tensei",
+    "seriesCN": "無職轉生",
+    "cn": [
+      "eris boreas greyrat",
+      "艾莉絲",
+      "eris greyrat"
+    ],
+    "sets": []
+  },
+  "escoffier": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "escoffier",
+      "爱可菲"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Sorbet Honey Pie",
+        "tags": [
+          "small white ruffled chef hat",
+          "dark teal hat ribbon",
+          "gold heart ornament on hat",
+          "white apron-style dress",
+          "gold buttons on bodice",
+          "side cutouts on dress",
+          "white and gold ruffled edging",
+          "white wrist cuffs with maroon frills",
+          "maroon high collar",
+          "teal and gold collar ornaments",
+          "layered maroon dark-grey purple white skirt",
+          "large bow on layered skirt",
+          "purple frilled skirt panels",
+          "black back skirt panels with silver designs",
+          "white patterned thigh-high stockings",
+          "heart and bow details on stockings",
+          "black gold-trimmed heeled shoes",
+          "teal soles on shoes",
+          "maroon and gold fork-shaped mechanical pack on back"
+        ]
+      }
+    ]
+  },
+  "fami": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "法米",
+      "饑餓的惡魔",
+      "fami"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作第四東高／惡魔獵人社制服",
+        "tags": [
+          "white long-sleeved school blouse",
+          "dark fourth east high school pinafore dress",
+          "below-knee pleated skirt",
+          "black devil hunter club peaked cap",
+          "four long green asymmetrical earrings",
+          "wide school waist belt"
+        ]
+      }
+    ]
+  },
+  "franceska mila rose": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "franceska mila rose",
+      "フランチェスカ・ミラ・ローズ",
+      "Mila Rose"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作亞馬遜風破面裝（Harribel分隊／55號）",
+        "tags": [
+          "breast armor",
+          "upper arm armor",
+          "gauntlets",
+          "white skirt"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·十七個月後米菈羅茲白披風護甲型服裝",
+        "tags": [
+          "armored high-collar top",
+          "visible white bra under opened chest armor",
+          "white cape",
+          "purple gem clasp securing cape at neck",
+          "white strip skirt",
+          "red belt",
+          "purple front belt clasp",
+          "gold arm brackets",
+          "gold leg brackets"
+        ]
+      }
+    ]
+  },
+  "futami ami": {
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "cn": [
+      "futami ami",
+      "雙海亞美",
+      "亞美"
+    ],
+    "sets": []
+  },
+  "futami mami": {
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "cn": [
+      "futami mami",
+      "雙海真美",
+      "真美"
+    ],
+    "sets": []
+  },
+  "ganaha hibiki": {
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "cn": [
+      "ganaha hibiki",
+      "我那霸響",
+      "響"
+    ],
+    "sets": []
+  },
+  "gawr gura": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "gawr gura",
+      "噶嗚古拉",
+      "古拉",
+      "gura",
+      "がうる・ぐら"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·初期鯊魚連帽衣",
+        "tags": [
+          "blue oversized shark-themed hoodie",
+          "large shark head hood with white teeth",
+          "red and white shark mouth print on front",
+          "very long wide sleeves extending past wrists",
+          "white triangular cloth hem beneath hoodie",
+          "white sneakers"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方 hololive 4th fes. Bright 舞台服",
+        "tags": [
+          "white short-sleeved stage jacket with blue and black accents",
+          "black and pale blue cropped idol bodice",
+          "double-breasted white front panel",
+          "black pleated plaid miniskirt with pale blue and white ruffled layers",
+          "wide white waist bow",
+          "asymmetric blue and white long back drapes",
+          "white and blue thighhigh stockings",
+          "mismatched white and blue ankle boots"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "sleeveless short blue kimono skirt",
+          "white fur scarf",
+          "wide blue detached sleeves reaching over hands",
+          "blue obi",
+          "blue thigh strap",
+          "white tabi socks",
+          "blue zouri sandals",
+          "ribbon decorating tail accessory"
+        ]
+      }
+    ]
+  },
+  "hachimiya meguru": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "hachimiya meguru",
+      "八宮巡",
+      "巡"
+    ],
+    "sets": []
+  },
+  "haineko": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "haineko",
+      "灰猫"
+    ],
+    "sets": []
+  },
+  "hanekawa ayane": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "奧空綾音",
+      "綾音",
+      "hanekawa ayane",
+      "ayane"
+    ],
+    "sets": [
+      {
+        "id": "swimsuit",
+        "label": "第2套·綾音官方泳裝（Ayane Swimsuit）",
+        "tags": [
+          "blue bikini top with white stripes",
+          "gray denim shorts",
+          "open white beach hoodie",
+          "white butterfly-shaped hairpin with red stud",
+          "red-framed glasses"
+        ]
+      }
+    ]
+  },
+  "hayasaka ai": {
+    "series": "kaguya-sama wa kokurasetai",
+    "seriesCN": "輝夜姬想讓人告白",
+    "cn": [
+      "hayasaka ai",
+      "早坂愛",
+      "早坂",
+      "hayasaka"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·早坂愛秀知院改造校服",
+        "tags": [
+          "white collared button-up shirt",
+          "black school vest over white shirt",
+          "black school skirt",
+          "dark black knee-high socks",
+          "sweater tied around waist",
+          "long-sleeved cardigan knotted at waist"
+        ]
+      }
+    ]
+  },
+  "helena": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "海蓮娜",
+      "海莲娜",
+      "エレナ",
+      "helena"
+    ],
+    "sets": [
+      {
+        "id": "swimsuit",
+        "label": "第2套·DOA5 Player’s Swimwear: Rusty Nail",
+        "tags": [
+          "Rusty Nail swimsuit",
+          "metallic gold slingshot one-piece swimsuit",
+          "ruffled neckline",
+          "high-cut maillot"
+        ]
+      },
+      {
+        "id": "main",
+        "label": "第1套·DOA6 Costume 1（黑色旗袍）",
+        "tags": [
+          "black qipao dress"
+        ]
+      }
+    ]
+  },
+  "helm": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "海姆",
+      "helm"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Aegis 海軍）",
+        "tags": [
+          "white military jacket",
+          "naval uniform",
+          "shoulder boards",
+          "white gloves",
+          "peaked cap",
+          "badge",
+          "armband",
+          "white shorts",
+          "high heels"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·Helm: Aquamarine／海藍寶石",
+        "tags": [
+          "blue halter string bikini",
+          "side-tie blue bikini bottoms",
+          "white transparent wet naval jacket",
+          "white long sleeves of wet uniform",
+          "white naval gloves",
+          "gold-and-blue naval collar emblem"
+        ]
+      }
+    ]
+  },
+  "higashiyama kobeni": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "東山小紅",
+      "小紅",
+      "higashiyama kobeni"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作公安制服",
+        "tags": [
+          "white button-up shirt",
+          "black necktie",
+          "black fitted suit jacket",
+          "tailored black suit trousers",
+          "black leather dress shoes",
+          "two red hair clips"
+        ]
+      }
+    ]
+  },
+  "hikifune kirio": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "hikifune kirio",
+      "曳舟桐生",
+      "桐生",
+      "Kirio Hikifune"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·零番隊曳舟桐生隊長死霸裝",
+        "tags": [
+          "black shinigami kosode",
+          "white shitagi underlayer",
+          "black hakama trousers",
+          "white obi waist belt",
+          "white long-sleeved captain haori",
+          "royal guard insignia on back of haori",
+          "silver spoon-shaped hairpin"
+        ]
+      }
+    ]
+  },
+  "himeko": {
+    "series": "honkai impact",
+    "seriesCN": "崩壞3rd",
+    "cn": [
+      "無量塔姬子",
+      "姬子hi3",
+      "himeko hi3",
+      "himeko"
+    ],
+    "sets": []
+  },
+  "himeno": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "姬野",
+      "姫野",
+      "himeno"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·Chainsaw Man 公安惡魔獵人西裝",
+        "tags": [
+          "white collared button-up shirt",
+          "black fitted suit jacket",
+          "black straight-leg trousers",
+          "black necktie",
+          "black eyepatch on right side"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·授權模型Bunny Ver.（非劇情服）",
+        "tags": [
+          "glossy cobalt blue strapless bunny leotard",
+          "blue and white bunny ears headband",
+          "white detachable collar",
+          "black narrow necktie",
+          "white buttoned wrist cuffs",
+          "black fishnet tights",
+          "matching blue high-heeled pumps"
+        ]
+      }
+    ]
+  },
+  "hirasawa ui": {
+    "series": "k-on!",
+    "seriesCN": "輕音部",
+    "cn": [
+      "hirasawa ui",
+      "平澤憂",
+      "憂"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·櫻丘高校冬季制服",
+        "tags": [
+          "navy blue school blazer",
+          "white buttoned collared shirt",
+          "colored school ribbon tie",
+          "light steel-blue pleated school skirt",
+          "dark socks",
+          "maroon loafers"
+        ]
+      }
+    ]
+  },
+  "hojo karen": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "cn": [],
+    "sets": []
+  },
+  "honda mio": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "cn": [
+      "honda mio",
+      "本田未央",
+      "未央"
+    ],
+    "sets": []
+  },
+  "hook": {
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "cn": [
+      "hook",
+      "虎克"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·星穹鐵道 虎克地下城探險裝",
+        "tags": [
+          "large ushanka hat",
+          "thick adventurer coat"
+        ]
+      }
+    ]
+  },
+  "takanashi hoshino": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "小鳥遊星野",
+      "星野",
+      "takanashi hoshino",
+      "hoshino"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·阿拜多斯星野標準制服",
+        "tags": [
+          "loose white button-up school shirt",
+          "two undone top shirt buttons",
+          "loosely knotted cyan necktie",
+          "Abydos student ID clipped at chest",
+          "black buckled shoulder harness",
+          "black waist belt",
+          "dark gray checked pleated skirt",
+          "black fingerless tactical gloves",
+          "asymmetrical white socks",
+          "navy high-top sneakers",
+          "white laces and white sneaker soles"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·星野官方泳裝（Swimsuit）",
+        "tags": [
+          "white frilled two-piece swimsuit",
+          "frilled white bikini top",
+          "matching white bikini bottom",
+          "lightweight beach jacket over swimsuit",
+          "beach sandals",
+          "white-framed blue sunglasses"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·星野臨戰（Armed）",
+        "tags": [
+          "oversized white dress shirt",
+          "rolled-up sleeves",
+          "loose cyan necktie",
+          "gray pleated school skirt",
+          "black military bulletproof vest",
+          "center-chest pistol holster attached to vest",
+          "buckled tactical torso brace",
+          "black fingerless tactical gloves"
+        ]
+      },
+      {
+        "id": "terror",
+        "label": "第4套·恐懼型態",
+        "tags": [
+          "long-sleeved black high-neck shirt",
+          "black uniform coat with long asymmetric tails",
+          "black high-low pleated skirt",
+          "black opaque pantyhose",
+          "black ankle boots"
+        ]
+      }
+    ]
+  },
+  "hu tao": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "hu tao",
+      "hutao",
+      "胡桃"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 Plum Blossom Bouquet",
+        "tags": [
+          "black porkpie hat",
+          "wooden talisman on hat",
+          "red plum blossom branch on hat",
+          "indigo knot tassel on hat",
+          "red mandarin-collar shirt",
+          "dark brown long coat",
+          "black coat collar",
+          "dark brown rolled sleeve cuffs",
+          "black shorts with gold accents",
+          "rectangular coat tails",
+          "two gold coat brooches",
+          "pyro vision attached to back of coat",
+          "white mid-calf socks",
+          "red sock straps with plum blossoms",
+          "low-heeled black dress shoes",
+          "red wrist bracelet",
+          "multiple rings"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方 Cherries Snow-Laden",
+        "tags": [
+          "white beret",
+          "round red-lens sunglasses",
+          "white halterneck hanfu dress",
+          "frog fastenings along front slit",
+          "red pleated underskirt",
+          "plum flower embroidery on underskirt",
+          "red-and-white detached bishop sleeves",
+          "red overcoat with gold trim",
+          "dark brown shoulder shawl",
+          "mandarin collar",
+          "tasseled cherry blossom clasp",
+          "sheer thighhighs",
+          "white-and-red roll-top boots",
+          "golden rings"
+        ]
+      }
+    ]
+  },
+  "hysilens": {
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "cn": [
+      "hysilens",
+      "海瑟音"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方預設（海瑟音／星穹鐵道）",
+        "tags": [
+          "white and blue short pleated dress",
+          "asymmetrical torn black and plum outer skirt",
+          "ankle-length rear overskirt",
+          "white and pink shell ornament at right hip",
+          "blue fin-shaped bow at left hip",
+          "pink coral ornaments",
+          "sheer black floral bolero sleeves",
+          "asymmetrically torn long sleeves",
+          "black collar with pearl-and-shell necklace",
+          "mismatched half-gloves",
+          "sheer dark-brown thighhigh stockings",
+          "torn right thigh stocking",
+          "purple and black calf-high boots",
+          "bone-like silver heels"
+        ]
+      }
+    ]
+  },
+  "ibuki douji": {
+    "series": "fate grand order",
+    "seriesCN": "Fate/Grand Order",
+    "cn": [
+      "ibuki douji",
+      "ibuki",
+      "茨木童子"
+    ],
+    "sets": []
+  },
+  "ibuki tsubasa": {
+    "series": "idolmaster million live",
+    "seriesCN": "偶像大師百萬直播",
+    "cn": [
+      "ibuki tsubasa",
+      "伊吹翼",
+      "翼"
+    ],
+    "sets": []
+  },
+  "ichikawa hinana": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "ichikawa hinana",
+      "市川雛菜",
+      "雛菜"
+    ],
+    "sets": []
+  },
+  "ichinose asuna": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "一之瀨明日奈",
+      "明日奈",
+      "ichinose asuna",
+      "asuna"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 C&C 女僕",
+        "tags": [
+          "French maid headdress",
+          "black short maid dress with low-cut neckline",
+          "short puffed maid sleeves",
+          "light blue ribbon trims on dress and skirt",
+          "white frilled waist apron",
+          "white elbow-length gloves",
+          "black choker",
+          "white thighhigh stockings",
+          "black high heels",
+          "Millennium insignia on sleeve"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方兔女郎（Ichinose Asuna Bunny Girl）",
+        "tags": [
+          "blue strapless bunny leotard",
+          "white rabbit-ear headband",
+          "white detached collar",
+          "blue neck bowtie",
+          "skin-tight black pantyhose",
+          "white gloves with dark edging",
+          "white high heels"
+        ]
+      }
+    ]
+  },
+  "ninomae ina'nis": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "ninomae ina'nis",
+      "ina",
+      "一伊那爾栖",
+      "伊那",
+      "イナ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原始服裝（黑色短筒裙＋不對稱祭司配件）",
+        "tags": [
+          "short black strapless tube dress",
+          "navel cutout",
+          "gold five-diamond headpiece",
+          "black fur-trimmed detached collar",
+          "single black detached sleeve",
+          "asymmetric black half gloves",
+          "black waist cape",
+          "single thighhigh tabi sock",
+          "traditional okobo sandals"
+        ]
+      }
+    ]
+  },
+  "inosuke hashibira": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "inosuke hashibira",
+      "嘴平伊之助"
+    ],
+    "sets": []
+  },
+  "natsume iroha": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "棗伊呂波",
+      "伊呂波",
+      "natsume iroha",
+      "iroha"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·伊呂波萬魔殿軍裝",
+        "tags": [
+          "black military officer cap",
+          "gold insignia on cap front",
+          "black military coat",
+          "red band beneath shoulder",
+          "fully red coat lining",
+          "slightly unbuttoned dark dress shirt",
+          "loose red necktie",
+          "black straight miniskirt",
+          "dark-purple ankle boots",
+          "black boot laces"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·2026官方泳裝（粉紅荷葉邊連身泳裝）",
+        "tags": [
+          "\\(swimsuit\\) \\(blue archive\\)",
+          "pink frilled one-piece swimsuit",
+          "white neck ribbon",
+          "wide-brimmed straw sun hat",
+          "flower decoration on hat",
+          "frilled thigh strap",
+          "beaded bracelet",
+          "sandals"
+        ]
+      }
+    ]
+  },
+  "izumi mei": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "izumi mei",
+      "和泉愛依",
+      "愛依"
+    ],
+    "sets": []
+  },
+  "izumi sagiri": {
+    "series": "eromanga sensei",
+    "seriesCN": "情色漫畫老師",
+    "cn": [
+      "izumi sagiri",
+      "紗霧",
+      "サグiri"
+    ],
+    "sets": []
+  },
+  "jewelry bonney": {
+    "series": "one piece",
+    "seriesCN": "海賊王",
+    "cn": [
+      "珠寶·波妮",
+      "jewelry bonney",
+      "ジュエリー・ボニー"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·超新星／香波地群島",
+        "tags": [
+          "white low-cut tank top",
+          "orange and black striped buckle-fastened shorts",
+          "thin long suspenders attached to shorts",
+          "green forage cap with pale green edging",
+          "hot pink and dark red stockings",
+          "yellow sun emblems on stockings",
+          "black calf-height high-heeled lace-up boots",
+          "brown fur-trim jacket worn on occasion"
+        ]
+      }
+    ]
+  },
+  "juri": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "牛牧朱莉",
+      "朱莉",
+      "ushimaki juri",
+      "juri"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作供餐部",
+        "tags": [
+          "white bandana",
+          "violet uniform",
+          "white pleated skirt",
+          "red necktie",
+          "white apron",
+          "stockings",
+          "black uwabaki"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方打工 Part Timer（紫灰色法式女僕裝）",
+        "tags": [
+          "heather purple short French-style maid dress",
+          "white ruffles along skirt hem and shoulders",
+          "white frilled waist apron",
+          "detached white wrist cuffs",
+          "small red ribbon tied at the collar",
+          "sheer black pantyhose",
+          "black high heels"
+        ]
+      }
+    ]
+  },
+  "kachina": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "卡齊娜",
+      "kachina"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Tawny Peaks, Spired Rock",
+        "tags": [
+          "multicolored visor cap",
+          "orange triangular emblem on visor",
+          "green neck bandana with dark brown patterns",
+          "dark brown cropped top",
+          "white zigzag-edged top overlay",
+          "light green trim on white top",
+          "puffy dark brown shorts",
+          "orange jacket tied at waist",
+          "beige reinforced padded gloves",
+          "orange gem badges on gloves",
+          "dark brown rugged paw-shaped boots",
+          "light green and white boot trim",
+          "wing-shaped ornaments at ankles"
+        ]
+      }
+    ]
+  },
+  "kaga": {
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "cn": [
+      "kaga",
+      "加賀",
+      "かが"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作預設（Sakura Empire CV）",
+        "tags": [
+          "white wide-sleeved shrine-maiden style kimono",
+          "blue pleated hakama short skirt",
+          "black sleeveless inner top",
+          "black waist belt below bust",
+          "blue and white layered kimono bodice",
+          "white knee-high socks",
+          "red rudder-style footwear",
+          "grey kimono collar",
+          "black wrist cuffs"
+        ]
+      }
+    ]
+  },
+  "kamiya nao": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "cn": [],
+    "sets": []
+  },
+  "kanao tsuyuri": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "kanao tsuyuri",
+      "栗花落香奈乎"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·鬼殺隊紫制服與白色短披風",
+        "tags": [
+          "violet-tinted demon slayer jacket",
+          "violet pleated knee-length uniform skirt",
+          "short white shoulder cape",
+          "dark pink triple bow fastening cape at one side",
+          "white knee-high lace-up boots",
+          "brown boot toes and heels",
+          "pink and green butterfly-shaped hairpin"
+        ]
+      }
+    ]
+  },
+  "kanzaki ranko": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "cn": [
+      "kanzaki ranko",
+      "神崎蘭子",
+      "蘭子"
+    ],
+    "sets": []
+  },
+  "kasuga mirai": {
+    "series": "idolmaster million live",
+    "seriesCN": "偶像大師百萬直播",
+    "cn": [
+      "kasuga mirai",
+      "春日未來",
+      "未來"
+    ],
+    "sets": []
+  },
+  "kazano hiori": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "kazano hiori",
+      "風野燈織",
+      "燈織"
+    ],
+    "sets": []
+  },
+  "takanashi kiara": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "takanashi kiara",
+      "kiara",
+      "小鳥遊琪亞拉",
+      "キアラ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "orange beret",
+          "miniature white chef hat worn with beret",
+          "orange double-breasted vest",
+          "white sleeveless inner shirt",
+          "ribbed detached sleeves",
+          "orange miniskirt",
+          "black micro bike shorts beneath skirt",
+          "white thighhighs",
+          "black sneakers"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "\\(new year\\) \\(hololive\\)",
+          "black choker",
+          "white floral print furisode",
+          "aqua obi",
+          "pink wing capelet"
+        ]
+      }
+    ]
+  },
+  "kikuchi makoto": {
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "cn": [
+      "kikuchi makoto",
+      "菊地真",
+      "真"
+    ],
+    "sets": []
+  },
+  "kirara": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "kirara",
+      "綺良良"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Whirling Bloom",
+        "tags": [
+          "brown cat-ear-shaped hat ornament",
+          "gold flower decorations on hat",
+          "dark cropped two-piece top",
+          "large yellow chest bell",
+          "two yellow tassels on chest",
+          "light blue patterned tunic",
+          "white fur trim on upper arms",
+          "long detached sleeves",
+          "long dark fingerless gloves",
+          "black fabric waist belt",
+          "multicolored ribbon bows around waist",
+          "small flower-patterned blue cape",
+          "pleated blue skirt with gold trim",
+          "black leg warmers",
+          "dendro vision on waist belt"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·官方 Phantom in Boots",
+        "tags": [
+          "black teal and gold top hat with ornamental cat ears",
+          "white collared button-up shirt",
+          "ruffled detached sleeves",
+          "brown left upper arm band",
+          "teal right detached sleeve",
+          "brown-to-navy open vest",
+          "gold trim on vest",
+          "teal chest clasp and belt buckles",
+          "long ornate front panels",
+          "green bow tie with paw brooch",
+          "black shorts with teal frills",
+          "four gold diamond ornaments on shorts",
+          "teal and brown hip bow",
+          "brown fingerless gloves with diamond cutouts",
+          "brown cross-shaped right-thigh garter",
+          "thigh-high brown lace-up boots",
+          "teal ribbons on boots",
+          "flower and cat ornaments on boots"
+        ]
+      }
+    ]
+  },
+  "kobayashi": {
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "cn": [
+      "小林",
+      "kobayashi"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·小林家的龍女僕 小林辦公服",
+        "tags": [
+          "white button-down dress shirt",
+          "straight dark slacks",
+          "dark necktie"
+        ]
+      }
+    ]
+  },
+  "kokoro": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "心",
+      "こころ",
+      "kokoro"
+    ],
+    "sets": [
+      {
+        "id": "swimsuit",
+        "label": "第2套·DOA5 Player’s Swimwear: Strawberry",
+        "tags": [
+          "Strawberry swimsuit",
+          "white sleeveless knotted t-shirt",
+          "purple collar on shirt",
+          "blue and white wave-patterned bikini shorts"
+        ]
+      },
+      {
+        "id": "main",
+        "label": "第1套·DOA6 Costume 1（紫色無袖套裝）",
+        "tags": [
+          "purple sleeveless top",
+          "off-white long trousers"
+        ]
+      }
+    ]
+  },
+  "kotetsu isane": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "kotetsu isane",
+      "虎徹勇音",
+      "勇音",
+      "Isane"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·四番隊副隊長標準死霸裝",
+        "tags": [
+          "black kosode robe",
+          "white shitagi underlayer",
+          "black hakama trousers",
+          "white hakama-himo sash",
+          "white tabi socks",
+          "straw waraji sandals",
+          "fourth division lieutenant badge on left upper sleeve",
+          "thin dangling red earrings"
+        ]
+      }
+    ]
+  },
+  "kuromi serika": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "黑見芹香",
+      "芹香",
+      "kuromi serika",
+      "serika"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·芹香阿拜多斯制服",
+        "tags": [
+          "buttoned dark navy school blazer",
+          "white piping along blazer lapels and pockets",
+          "white collared school shirt",
+          "cyan necktie",
+          "Abydos ID badge clipped to blazer chest pocket",
+          "navy Abydos-logo right-arm armband",
+          "dark gray white-checked pleated skirt",
+          "short black safety shorts under skirt",
+          "black fingerless tactical gloves",
+          "black right-knee compression sleeve",
+          "black ankle socks",
+          "black and white high-top sneakers",
+          "cyan sneaker shoelaces"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·芹香官方泳裝（Swimsuit）",
+        "tags": [
+          "black frilled two-piece swimsuit",
+          "black ruffled bikini top",
+          "matching black ruffled bikini bottom",
+          "black beach sandals",
+          "small ribbon decoration on top of each sandal"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·芹香正月巫女（New Year）",
+        "tags": [
+          "white long-sleeved miko kimono top",
+          "red hakama trousers",
+          "blossom-patterned white sleeves",
+          "traditional sandals"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第4套·芹香柴關拉麵打工服",
+        "tags": [
+          "black short-sleeved work shirt",
+          "blue bowtie",
+          "employee ID badge clipped to shirt",
+          "blue necktie-style bow"
+        ]
+      }
+    ]
+  },
+  "kyougoku satsuki": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "京極紗月",
+      "紗月",
+      "kyougoku satsuki",
+      "satsuki"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·皐月萬魔殿軍裝",
+        "tags": [
+          "black short fitted dress",
+          "two thigh-level openings in dress",
+          "short red necktie",
+          "black military coat with gold accents",
+          "red thigh-high socks",
+          "black knee-high boots"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·2026官方泳裝（紅色綁帶比基尼）",
+        "tags": [
+          "\\(swimsuit\\) \\(blue archive\\)",
+          "red bikini",
+          "criss-cross halter bikini top",
+          "red side-tie bikini bottom",
+          "white flower hair ornament",
+          "sandals"
+        ]
+      }
+    ]
+  },
+  "lan yan": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "lan yan",
+      "藍硯"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Argent Chimes",
+        "tags": [
+          "light green pleated dress",
+          "red and black zigzag hem motifs",
+          "white ridged tassel-trimmed dress",
+          "dark teal detachable sleeves",
+          "white decorative sleeve ridges",
+          "multicolored prism beads",
+          "long shoulder cape",
+          "anemo vision at center back cape",
+          "gold and white cape tassels",
+          "silver wide wrist bangles",
+          "silver pointed pendant earrings",
+          "green upper thigh band",
+          "silver thigh ornament",
+          "black closed-toe sandals",
+          "red sandal straps",
+          "silver shoe ornaments",
+          "silver forehead headband",
+          "jade-plumed silverwing hairpin"
+        ]
+      }
+    ]
+  },
+  "leifang": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "麗鳳",
+      "丽凤",
+      "レイファン",
+      "leifang"
+    ],
+    "sets": [
+      {
+        "id": "swimsuit",
+        "label": "第2套·DOA5 Player’s Swimwear: Starling",
+        "tags": [
+          "Starling swimsuit",
+          "faded black halterneck bikini",
+          "EAGLE lettering on left bikini cup",
+          "white frills along bikini neckline",
+          "matching string bikini bottom"
+        ]
+      },
+      {
+        "id": "main",
+        "label": "第1套·DOA6 Costume 1（黃白功夫服）",
+        "tags": [
+          "yellow and white cropped martial-arts top",
+          "yellow martial-arts trousers"
+        ]
+      }
+    ]
+  },
+  "liliruca arde": {
+    "series": "dungeon ni deai wo motomeru no wa machigatteiru darou ka",
+    "seriesCN": "在地下城尋求邂逅是否搞錯了什麼",
+    "cn": [
+      "liliruca arde",
+      "莉潔蕾",
+      "リリルカ",
+      "liliruca"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·DanMachi 莉莉露卡冒險支援服",
+        "tags": [
+          "red and white hooded crop top",
+          "torn shirt hem",
+          "unbuttoned red skirt",
+          "long protective gloves",
+          "torn black tights",
+          "light brown ankle boots"
+        ]
+      }
+    ]
+  },
+  "little mermaid": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "小美人魚",
+      "little mermaid",
+      "siren"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Old Tales／Siren）",
+        "tags": [
+          "blue and black sleeveless skintight bodysuit",
+          "high-neck halterneck suit",
+          "open back",
+          "hexagonal pattern on bodysuit",
+          "neon aqua suit accents",
+          "sheer cleavage panel",
+          "fingerless elbow-length gloves"
+        ]
+      }
+    ]
+  },
+  "makima": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "瑪奇瑪",
+      "マキマ",
+      "makima"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作公安制服＋黑色風衣",
+        "tags": [
+          "white long-sleeved dress shirt",
+          "black necktie",
+          "tailored black slacks",
+          "long black trench coat",
+          "brown leather shoes"
+        ]
+      }
+    ]
+  },
+  "makinami mari illustrious": {
+    "series": "neon genesis evangelion",
+    "seriesCN": "新世紀福音戰士",
+    "cn": [
+      "makinami mari illustrious",
+      "真希波",
+      "真理",
+      "mari"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·EVA 2.0 Unit-05 舊型綠色駕駛服",
+        "tags": [
+          "green-and-white prototype plugsuit",
+          "dark-green shoulder panels",
+          "yellow chest and hip accents",
+          "white grid-patterned leg panels",
+          "three green tubes at each wrist",
+          "pilot head-mounted display helmet"
+        ]
+      }
+    ]
+  },
+  "malenia": {
+    "series": "elden ring",
+    "seriesCN": "艾爾登法環",
+    "cn": [
+      "瑪蓮妮亞",
+      "malenia"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·艾爾登法環 瑪蓮妮亞無垢金盔甲",
+        "tags": [
+          "winged golden metal helmet",
+          "unalloyed-gold breastplate armor",
+          "unalloyed-gold gauntlet",
+          "gold metal greaves",
+          "long red cloak attached at shoulders"
+        ]
+      }
+    ]
+  },
+  "marian": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "瑪麗安",
+      "marian",
+      "マリアン"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Silver Gun）",
+        "tags": [
+          "marian_(nikke)",
+          "official_costume",
+          "white sleeveless collared shirt",
+          "blue necktie",
+          "blue military garrison cap",
+          "blue high-waisted short skirt",
+          "slit skirt hem",
+          "blue detached sleeves",
+          "white capelet with blue lining",
+          "black gloves",
+          "black pantyhose",
+          "black ankle boots",
+          "brown utility belt",
+          "black utility pouches",
+          "black thigh holster",
+          "gold sleeve cuff trim"
+        ]
+      }
+    ]
+  },
+  "marie_rose": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "瑪莉·蘿絲",
+      "玛莉·萝丝",
+      "マリー・ローズ",
+      "marie rose",
+      "marie_rose"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·DOA6 Costume 1（黑白哥德洋裝）",
+        "tags": [
+          "black-and-white gothic-lolita dress",
+          "white frills and lace trim",
+          "red ribbon tied at back",
+          "matching detached sleeves",
+          "black thigh strap belts",
+          "black platform boots",
+          "dark gloves"
+        ]
+      }
+    ]
+  },
+  "marine": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "宝钟玛琳",
+      "marine"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "black pirate bicorne",
+          "black off-shoulder coat",
+          "red cropped sleeveless jacket with gold trim and buttons",
+          "pirate-ship lapel pin",
+          "see-through leotard under jacket",
+          "black frilled choker",
+          "red ascot with brooch",
+          "red and white pleated miniskirt",
+          "brown leather belt",
+          "white gloves",
+          "black or brown lace-trimmed thighhighs",
+          "brown leather fold-over heeled ankle boots"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·官方 Summer 第4造型（紅色泳裝＋連帽外套）",
+        "tags": [
+          "red string bikini halterneck top",
+          "red string bikini bottom",
+          "partially unzipped black hooded jacket",
+          "white short dolphin shorts",
+          "o-ring thigh strap",
+          "ankle-strap gladiator sandals",
+          "black baseball cap",
+          "heart-shaped sunglasses"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "\\(new year\\) \\(hololive\\)",
+          "detached collar",
+          "white strapless kimono",
+          "fur-trimmed off-shoulder layer",
+          "pelvic curtain",
+          "black tabi",
+          "black geta"
+        ]
+      },
+      {
+        "id": "ahoy",
+        "label": "第4套·Ahoy!! You're All Pirates（官方修女頭巾）",
+        "tags": [
+          "dark nun-style headdress",
+          "short black layered frilled dress",
+          "black detached sleeves",
+          "black gloves",
+          "white thighhighs",
+          "black shoes"
+        ]
+      }
+    ]
+  },
+  "mary": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "瑪麗",
+      "mary",
+      "nikke mary"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Seraphim 護士）",
+        "tags": [
+          "blue sweater dress",
+          "white jacket",
+          "armband",
+          "headband",
+          "white shoes"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·Mary: Bay Goddess／海灣女神",
+        "tags": [
+          "white deep-V halter bikini",
+          "long white sheer gauze beach cover-up dress",
+          "large blue floral ornaments on waist",
+          "blue decorative waist chains",
+          "wide-brimmed white sun hat",
+          "blue flower on hatband",
+          "blue gemstone pendant at neck"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·Medical Rabbit（Doctor Bunny Pass）",
+        "tags": [
+          "blue rabbit-ear headband",
+          "blue and white sheer-panel bunny leotard",
+          "white detachable collar with blue bowtie",
+          "white elbow-length gloves",
+          "white thighhigh stockings",
+          "blue high heels",
+          "rabbit-tail costume accessory"
+        ]
+      }
+    ]
+  },
+  "masaki kurosaki": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "masaki kurosaki",
+      "黒崎真咲",
+      "真咲",
+      "Masaki"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·回憶篇高中制服",
+        "tags": [
+          "brown long-sleeved school uniform",
+          "white sailor-style collar",
+          "red-bordered uniform skirt",
+          "red ribbon tied at collar",
+          "brown school shoes",
+          "white knee-high stockings"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·原作少女時代校服",
+        "tags": [
+          "brown school uniform",
+          "red-hemmed skirt",
+          "white collar",
+          "red pins",
+          "red ribbon",
+          "brown shoes",
+          "white knee-length stockings"
+        ]
+      }
+    ]
+  },
+  "mashiro yuki": {
+    "series": "ensemble stars",
+    "seriesCN": "合奏明星",
+    "cn": [
+      "mashiro yuki",
+      "真白羽鳥"
+    ],
+    "sets": []
+  },
+  "mayuzumi fuyuko": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "mayuzumi fuyuko",
+      "黛冬優子",
+      "冬優子"
+    ],
+    "sets": []
+  },
+  "mel": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "mel",
+      "夜空梅露"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "strapless cross-laced frilled chemise with underbust empire waist",
+          "front slit on chemise",
+          "short sheer yellow detached sleeves with bat print",
+          "black pleated miniskirt",
+          "sheer black overskirt",
+          "red belt with gold edging",
+          "gold-trimmed black thighhighs",
+          "black choker",
+          "black wrist bracelet",
+          "black fold-over ankle boots with bows"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "red-to-purple gradient kimono top",
+          "star-print pattern on kimono",
+          "long purple hakama skirt",
+          "white tabi socks",
+          "geta sandals"
+        ]
+      }
+    ]
+  },
+  "mila": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "米拉",
+      "ミラ",
+      "mila"
+    ],
+    "sets": [
+      {
+        "id": "swimsuit",
+        "label": "第2套·DOA5 Player’s Swimwear: Leprechaun",
+        "tags": [
+          "Leprechaun swimsuit",
+          "red and white checkered bikini",
+          "side-tie bikini bottoms",
+          "black-trimmed bikini edges"
+        ]
+      },
+      {
+        "id": "main",
+        "label": "第1套·DOA6 Costume 1（MMA 摔角練習服）",
+        "tags": [
+          "red sports bra",
+          "black MMA training shorts"
+        ]
+      }
+    ]
+  },
+  "miss fortune": {
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "cn": [
+      "miss fortune",
+      "好運姐"
+    ],
+    "sets": []
+  },
+  "mitsuri kanroji": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "mitsuri kanroji",
+      "甘露寺蜜璃"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（戀柱制服與白羽織）",
+        "tags": [
+          "kanroji_mitsuri",
+          "official_costume",
+          "dark violet open-front uniform jacket",
+          "gold uniform buttons",
+          "short dark pleated skirt",
+          "plain white haori",
+          "white waist belt",
+          "lime green striped thighhigh socks",
+          "teal sock cuffs",
+          "white zori sandals",
+          "pink sandal straps"
+        ]
+      }
+    ]
+  },
+  "miura azusa": {
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "cn": [
+      "miura azusa",
+      "三浦梓",
+      "梓"
+    ],
+    "sets": []
+  },
+  "miwa kasumi": {
+    "series": "jujutsu kaisen",
+    "seriesCN": "咒術迴戰",
+    "cn": [
+      "miwa kasumi",
+      "三輪霞",
+      "miwa"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·咒術迴戰 京都校三輪霞制服",
+        "tags": [
+          "black long-sleeved button-front uniform jacket",
+          "light-colored button-down collared shirt",
+          "black necktie",
+          "straight black uniform trousers",
+          "black belt",
+          "black socks",
+          "black dress shoes"
+        ]
+      }
+    ]
+  },
+  "mogami shizuka": {
+    "series": "idolmaster million live",
+    "seriesCN": "偶像大師百萬直播",
+    "cn": [
+      "mogami shizuka",
+      "最上靜香",
+      "靜香"
+    ],
+    "sets": []
+  },
+  "momiji": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "紅葉",
+      "红叶",
+      "もみじ",
+      "momiji"
+    ],
+    "sets": [
+      {
+        "id": "swimsuit",
+        "label": "第2套·DOAX3 起始泳裝：Dawn",
+        "tags": [
+          "Dawn swimsuit",
+          "crimson string bikini",
+          "frilled bikini bottoms",
+          "bikini side-tie strings"
+        ]
+      }
+    ]
+  },
+  "morikubo nono": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "cn": [],
+    "sets": []
+  },
+  "morino rinze": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "morino rinze",
+      "杜野凛子",
+      "凛子"
+    ],
+    "sets": []
+  },
+  "mualani": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "mualani",
+      "瑪拉妮"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Flying Fish, Heat Waves, and Moon Scallop",
+        "tags": [
+          "light blue and white patterned halter wrap top",
+          "copper fish ornament at chest",
+          "dark blue shorts",
+          "short white and light blue overskirt",
+          "small light blue right-waist ribbon",
+          "large blue back ribbon",
+          "hydro vision attached to back ribbon",
+          "blue head bandana with golden patterns",
+          "dark blue fingerless gloves",
+          "white over-glove ornaments",
+          "blue calf-high stirrups with fish patterns",
+          "platform sandals with seal-flipper ornaments"
+        ]
+      }
+    ]
+  },
+  "mualani g": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "mualani g",
+      "玛拉妮"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 Mualani",
+        "tags": [
+          "light blue and white patterned halter wrap top",
+          "copper fish ornament at chest",
+          "dark blue shorts",
+          "short white and light blue overskirt",
+          "light blue ribbon on right waist",
+          "large blue back ribbon",
+          "hydro vision on back ribbon",
+          "blue bandana with golden motifs",
+          "dark blue fingerless gloves",
+          "white ornaments over gloves",
+          "blue patterned calf-high stirrups",
+          "platform sandals with seal-fin ornaments"
+        ]
+      }
+    ]
+  },
+  "murasaki shion": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "murasaki shion",
+      "紫咲詩音",
+      "詩音",
+      "紫咲シオン",
+      "shion"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "tilted black witch hat",
+          "grey vertical-pinstriped cropped long-sleeved shirt",
+          "black and purple capelet",
+          "pink bowtie",
+          "black gloves",
+          "black low-leg miniskirt",
+          "grey pinstriped thighhighs",
+          "chain thighlet",
+          "black star-decorated loafers"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "fur scarf with pentagram pin",
+          "short purple patterned kimono with frilled sleeves",
+          "pink obi over wider black inner obi",
+          "black pantyhose",
+          "single thighlet",
+          "black fur-trimmed boots"
+        ]
+      }
+    ]
+  },
+  "murokasa akane": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "室笠茜",
+      "茜",
+      "murokasa akane",
+      "akane"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·茜 C&C 女僕制服",
+        "tags": [
+          "French maid headdress",
+          "long-sleeved French maid dress",
+          "long maid skirt",
+          "white maid apron",
+          "blue necktie",
+          "white gloves",
+          "long white stockings",
+          "black maid shoes",
+          "beige plaid shawl draped over arms",
+          "black-framed glasses"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·茜白色兔女郎（Bunny Girl）",
+        "tags": [
+          "white strapless velvet bunny leotard",
+          "white detached collar with small blue ribbon",
+          "long elegant white gloves",
+          "white bunny-ear headband",
+          "oversized unbuttoned light-brown plaid jacket",
+          "jacket sleeves reaching elbows",
+          "white high-heeled shoes",
+          "black-framed glasses"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第3套·茜千年學園校服（Schoolgirl）",
+        "tags": [
+          "white button-up school shirt",
+          "light-blue bowtie at collar",
+          "tan long-sleeved cardigan",
+          "black above-knee school skirt",
+          "white shin-length socks",
+          "black school loafers"
+        ]
+      }
+    ]
+  },
+  "musashi": {
+    "series": "azur lane",
+    "seriesCN": "碧藍航線",
+    "cn": [
+      "武蔵",
+      "musashi",
+      "武藏"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作黑和服（Yamato級）",
+        "tags": [
+          "black off-shoulder kimono-style top",
+          "short black pleated skirt",
+          "long purple and indigo patterned hanging kimono sleeves",
+          "large blue and purple front obi bow",
+          "gold ornamental cords on kimono",
+          "oversized brown prayer-bead strands hanging from sleeves",
+          "large metallic magatama ornaments",
+          "gold and purple necklace",
+          "purple geometric trim along kimono hem"
+        ]
+      }
+    ]
+  },
+  "muzan kibutsuji": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "muzan kibutsuji",
+      "鬼舞辻無慘"
+    ],
+    "sets": []
+  },
+  "nakiri ayame": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "nakiri ayame",
+      "ayame",
+      "百鬼綾目",
+      "綾目"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "short black kimono with gold trim",
+          "long wide frilled kimono sleeves draped off arms",
+          "red sleeveless inner kimono",
+          "red-and-white braided back knot",
+          "white thighhigh tabi socks",
+          "red okobo platform sandals",
+          "oni mask head accessory"
+        ]
+      }
+    ]
+  },
+  "nami": {
+    "series": "one piece",
+    "seriesCN": "海賊王",
+    "cn": [
+      "娜美",
+      "nami"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（草帽前期）",
+        "tags": [
+          "blue and white striped shirt",
+          "short sleeves",
+          "orange miniskirt",
+          "brown high-heeled boots"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·One Piece 兩年後香波地至魚人島",
+        "tags": [
+          "green-and-white striped halterneck bikini top",
+          "tight low-rise blue jeans",
+          "black belt with symbol buckle",
+          "orange high-heeled sandals",
+          "pearlescent drop earrings"
+        ]
+      }
+    ]
+  },
+  "nanakusa nichika": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "nanakusa nichika",
+      "七草日花",
+      "日花"
+    ],
+    "sets": []
+  },
+  "nezuko kamado": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "nezuko kamado",
+      "竈門禰豆子"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（粉色麻葉紋和服）",
+        "tags": [
+          "kamado_nezuko",
+          "official_costume",
+          "light pink asanoha-patterned kimono",
+          "short kimono sleeves",
+          "pale pink inner juban",
+          "red and white checkered obi",
+          "orange obijime cord",
+          "green obiage sash",
+          "long dark brown haori",
+          "white tabi socks",
+          "black kyahan leg wraps",
+          "pink-strap zori sandals",
+          "bamboo muzzle with red cloth strap"
+        ]
+      }
+    ]
+  },
+  "nico": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "妮可",
+      "ニコ",
+      "nico"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（DOA6 Costume 1）",
+        "tags": [
+          "official_costume",
+          "white long-tailed overcoat",
+          "blue-trimmed white fitted vest",
+          "blue high-neck undershirt",
+          "blue short shorts",
+          "white asymmetrical long sleeves",
+          "blue fingerless gloves",
+          "white thighhigh socks",
+          "white blue-trim thigh boots",
+          "blue utility pouch on waist",
+          "chest id badge",
+          "blue piping on coat",
+          "silver buttons on vest"
+        ]
+      }
+    ]
+  },
+  "nitta minami": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "偶像大師灰姑娘女孩",
+    "cn": [
+      "nitta minami",
+      "新田美波",
+      "美波"
+    ],
+    "sets": []
+  },
+  "noise": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "noise",
+      "ノイズ",
+      "噪音"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Prima Donna）",
+        "tags": [
+          "black high-waisted shorts",
+          "blue-violet dress worn over shorts",
+          "long asymmetric half-skirt",
+          "black bowtie",
+          "black fingerless gloves",
+          "waist belt with buckle",
+          "thigh pouch",
+          "black high heels"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·Cherry Blossom Stage（戰鬥通行證）",
+        "tags": [
+          "\\(cherry blossom stage\\) \\(nikke\\)",
+          "white collared dress",
+          "pleated dress",
+          "see-through sleeves",
+          "brooch",
+          "clothing cutout"
+        ]
+      }
+    ]
+  },
+  "omaru polka": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "omaru polka",
+      "polka",
+      "尾丸波爾卡",
+      "波爾卡"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "tilted jester cap",
+          "sleeveless halter top with playing-card suit buttons",
+          "navel cutout on halter top",
+          "detached wing collar",
+          "red traditional bowtie",
+          "puffed vertically striped blue-and-white layered miniskirt",
+          "large back bow",
+          "asymmetric blue-and-pink striped cross-laced thighhighs",
+          "mismatched red pointed shoes",
+          "single black and red cross-laced elbow glove",
+          "arm strap and wrist cuff on opposite arm"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "red kimono outer layer",
+          "black leotard beneath kimono",
+          "red detached sleeves",
+          "pink frilled polka-dot shorts",
+          "fishnet thighhighs",
+          "black shoes"
+        ]
+      }
+    ]
+  },
+  "onikata kayoko": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "鬼方佳代子",
+      "佳代子",
+      "onikata kayoko",
+      "kayoko"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·佳代子便利屋68日常服",
+        "tags": [
+          "black oversized hooded sweatshirt",
+          "Born.To.Kill lettering on hoodie",
+          "red stripes down hoodie sleeves",
+          "brown undershirt",
+          "red-and-black pleated plaid skirt",
+          "black sneakers with red trim",
+          "black shoulder satchel with white zigzag seams",
+          "small attached bag-strap holster"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·佳代子官方晚禮服（Dress）",
+        "tags": [
+          "short black slip dress",
+          "side slit at right thigh",
+          "beige oversized cardigan draped over shoulders",
+          "black T-strap high-heeled pumps",
+          "black hair bow ornament"
+        ]
+      },
+      {
+        "id": "ny",
+        "label": "第4套·佳代子新年振袖（New Year）",
+        "tags": [
+          "black long-sleeved furisode kimono",
+          "subtle lighter kimono fabric pattern",
+          "gray gradient near knee-level",
+          "purple hems on furisode",
+          "purple-and-dark-yellow obi",
+          "small yellow pouch at waist"
+        ]
+      }
+    ]
+  },
+  "ozora subaru": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "ozora subaru",
+      "大空昴",
+      "subaru",
+      "すばる"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "two-tone red and white baseball cap worn backwards",
+          "oversized short-sleeved white-and-yellow vertically striped t-shirt",
+          "t-shirt hem tied at one hip",
+          "white shorts",
+          "white wrist sweatband",
+          "mismatched red and white thighhigh socks",
+          "white sneakers"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "uroko-scale patterned kimono",
+          "blue lace-trimmed capelet",
+          "high-waisted blue hakama skirt",
+          "brown lace-up boots"
+        ]
+      }
+    ]
+  },
+  "usada pekora": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "usada pekora",
+      "pekora",
+      "兔田佩克拉",
+      "佩克拉"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原始服裝（白毛邊裙裝＋黑色兔女郎內搭）",
+        "tags": [
+          "white fur-trimmed coat dress",
+          "strapless black bunny leotard underneath",
+          "underbust cutout on black inner leotard",
+          "white fur scarf accessory",
+          "short puffy white detached sleeves",
+          "black fur-trimmed gloves",
+          "black pantyhose",
+          "frilled thigh strap",
+          "fur ankle garters",
+          "white Mary Jane shoes with blue soles"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "short red lace-trimmed skirt kimono",
+          "rolled-up kimono sleeves",
+          "kimono-sleeve tasuki tie",
+          "yellow obi",
+          "large yellow obi bow on back",
+          "white rabbit-shaped tabi socks",
+          "black okobo"
+        ]
+      }
+    ]
+  },
+  "power": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "帕瓦",
+      "パワー",
+      "power"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作公安制服（藍色外套半脫造型）",
+        "tags": [
+          "white button-up dress shirt",
+          "black necktie",
+          "black straight-leg slacks",
+          "blue suit jacket worn half off shoulders",
+          "sneakers"
+        ]
+      }
+    ]
+  },
+  "pulcinella": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "pulcinella",
+      "普契涅拉"
+    ],
+    "sets": []
+  },
+  "quanxi": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "泉溪",
+      "權西",
+      "童曦",
+      "姬泉",
+      "quanxi"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作國際刺客篇",
+        "tags": [
+          "black sleeveless tank top",
+          "high-waisted dark trousers",
+          "broad dark waist belt",
+          "dark leather eyepatch over right eye",
+          "back-mounted triple sword sheaths"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·原作公安惡魔獵人制服",
+        "tags": [
+          "white public safety dress shirt",
+          "black necktie",
+          "tailored black suit trousers",
+          "black suit jacket",
+          "black lace eyepatch over right eye",
+          "matching black lace choker"
+        ]
+      }
+    ]
+  },
+  "quency": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "昆西",
+      "quency"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Real Kindness）",
+        "tags": [
+          "strapless bikini-style top with central O-ring",
+          "cropped shrug jacket",
+          "short striped prisoner-style shorts",
+          "two thigh straps",
+          "mechanical handcuffs worn as wrist restraints",
+          "ankle shackles",
+          "bare feet"
+        ]
+      }
+    ]
+  },
+  "quetzalcoatl": {
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "cn": [
+      "露科亞",
+      "lucoa",
+      "quetzalcoatl"
+    ],
+    "sets": []
+  },
+  "rapi": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "拉毗",
+      "rapi"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Counters）",
+        "tags": [
+          "rapi_(nikke)",
+          "official_costume",
+          "black beret",
+          "black cropped military jacket",
+          "red-lined jacket collar",
+          "red shoulder stripes",
+          "black collared leotard",
+          "red necktie",
+          "black leather choker",
+          "red-and-black two-tone gloves",
+          "black thighhigh stockings",
+          "black high heels",
+          "black tactical belt",
+          "waist ammunition pouches",
+          "red star on stocking"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·Classic Vacation（官方泳裝）",
+        "tags": [
+          "rapi_(classic_vacation)_(nikke)",
+          "official_alternate_costume",
+          "swimsuit",
+          "black highleg one-piece swimsuit",
+          "white side panels on swimsuit",
+          "red-trimmed swimsuit seams",
+          "high neckline with red piping",
+          "black sunglasses on head",
+          "red strap sandals"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·White Promise（CBT 限定軍裝）",
+        "tags": [
+          "official_alternate_costume",
+          "white military beret with blue trim",
+          "star emblem on beret",
+          "white high-collar jacket with blue trim",
+          "blue and white striped necktie",
+          "white short military skirt",
+          "white thighhigh stockings with star insignia",
+          "black-blue gloves",
+          "black utility belt",
+          "thigh ammunition pouches",
+          "blue tactical straps"
+        ]
+      }
+    ]
+  },
+  "red hood": {
+    "series": "nikke",
+    "seriesCN": "勝利女神：妮姬",
+    "cn": [
+      "紅帽",
+      "red hood",
+      "redhood"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Goddess）",
+        "tags": [
+          "red scarf",
+          "red jacket",
+          "open jacket",
+          "black bra",
+          "harness",
+          "black fingerless gloves",
+          "black high heels",
+          "holster"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·Nonsense Red（官方人氣投票換皮）",
+        "tags": [
+          "scarlet strappy evening dress",
+          "red fitted bodice with crossover dark straps",
+          "plunging neckline",
+          "long red skirt with high thigh slit",
+          "black short jacket draped over shoulders",
+          "black thigh strap",
+          "black gloves",
+          "dark high heels"
+        ]
+      }
+    ]
+  },
+  "rei ayanami": {
+    "series": "neon genesis evangelion",
+    "seriesCN": "新世纪福音战士",
+    "cn": [
+      "rei ayanami",
+      "绫波丽",
+      "rei"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·NGE EVA-00 白色駕駛服",
+        "tags": [
+          "white EVA-00 pilot plugsuit",
+          "dark-blue and orange panels",
+          "green and red accent details",
+          "metallic center chest orb",
+          "circular mechanisms on both shoulders",
+          "full-length white suit sleeves"
+        ]
+      }
+    ]
+  },
+  "riko saikawa": {
+    "series": "miss kobayashi's dragon maid",
+    "seriesCN": "小林家的龍女僕",
+    "cn": [
+      "才川理子",
+      "saikawa",
+      "riko saikawa"
+    ],
+    "sets": []
+  },
+  "riven": {
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "cn": [
+      "riven",
+      "銳雯"
+    ],
+    "sets": []
+  },
+  "roboco": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "萝卜子",
+      "roboco"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "short-sleeved camouflage jacket",
+          "partially unzipped jacket front",
+          "black chest harness",
+          "chest-mounted utility sheath"
+        ]
+      }
+    ]
+  },
+  "roboco-san": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "roboco-san",
+      "ロボ子さん"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "short-sleeved camouflage jacket",
+          "partially unzipped jacket front",
+          "black chest harness",
+          "chest-mounted utility sheath"
+        ]
+      }
+    ]
+  },
+  "saijo juri": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "saijo juri",
+      "西城樹里",
+      "樹里"
+    ],
+    "sets": []
+  },
+  "sakuma mayu": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "cn": [],
+    "sets": []
+  },
+  "sakuragi mano": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "sakuragi mano",
+      "櫻木真乃",
+      "真乃"
+    ],
+    "sets": []
+  },
+  "sana": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "tsukumo sana",
+      "sana",
+      "九十九佐命",
+      "佐命"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "white skintight halter shirt",
+          "white elbow-length gloves",
+          "blue backless underbust leotard",
+          "pleated sheer white miniskirt",
+          "blue star-print overskirt",
+          "large blue back bow",
+          "delicate ankle bracelet",
+          "bare feet"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "pink haori with spider-lily print",
+          "white inner kimono",
+          "blue hakama skirt with star print",
+          "brown lace-up ankle boots"
+        ]
+      }
+    ]
+  },
+  "sanshokuin sumireko": {
+    "series": "ore no imouto ga konna ni kawaii wake ga nai",
+    "seriesCN": "我的妹妹不可能這麼可愛",
+    "cn": [
+      "sanshokuin sumireko",
+      "三色院堇子",
+      "堇子"
+    ],
+    "sets": []
+  },
+  "sarugaki hiyori": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "sarugaki hiyori",
+      "猿柿ひよ里",
+      "日世里",
+      "Hiyori"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·假面軍勢猿柿日世里紅色運動服",
+        "tags": [
+          "white crew-neck undershirt",
+          "red zip-up tracksuit jacket",
+          "red track pants",
+          "white stripes running from shoulders down sleeves",
+          "large white kanji emblem on jacket",
+          "yellow rubber flip-flops"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·原作死神副隊長（尸魂界）",
+        "tags": [
+          "shinigami shihakusho",
+          "lieutenant armband"
+        ]
+      }
+    ]
+  },
+  "senpai nagatoro": {
+    "series": "please don't bully me nagatoro",
+    "seriesCN": "不要欺負我長瀞同學",
+    "cn": [
+      "senpai nagatoro",
+      "前輩"
+    ],
+    "sets": []
+  },
+  "shihouin yoruichi": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "shihouin yoruichi",
+      "四楓院夜一",
+      "夜一",
+      "yoruichi",
+      "yoruichi shihoin",
+      "yoruichi shihouin"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作人間界便服",
+        "tags": [
+          "black backless sleeveless undershirt",
+          "orange over-shirt",
+          "two white shoulder straps",
+          "large beige sash",
+          "black stretch pants",
+          "lightweight brown shoes"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·原作百年前二番隊隊長＋隠密機動",
+        "tags": [
+          "sleeveless backless onmitsukido uniform",
+          "long black wrist guards",
+          "black neck ribbon",
+          "long-sleeve captain haori"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·原作千年血戰短橙裙",
+        "tags": [
+          "\\(thousand-year blood war\\) \\(bleach\\)",
+          "short orange dress",
+          "black leotard underneath",
+          "black arm warmers",
+          "black thigh-length boots"
+        ]
+      },
+      {
+        "id": "innersuit",
+        "label": "第4套·千年血戰篇隱藏戰鬥服",
+        "tags": [
+          "black form-fitting sleeveless bodysuit",
+          "black arm warmers",
+          "black thigh-high boots",
+          "orange short dress worn over the bodysuit before activation"
+        ]
+      }
+    ]
+  },
+  "shijou takane": {
+    "series": "idolmaster",
+    "seriesCN": "偶像大師",
+    "cn": [
+      "shijou takane",
+      "四条貴音",
+      "貴音"
+    ],
+    "sets": []
+  },
+  "shinobu kocho": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "shinobu kocho",
+      "胡蝶忍"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（蟲柱蝴蝶羽織）",
+        "tags": [
+          "kochou_shinobu",
+          "official_costume",
+          "dark purple high-collar uniform jacket",
+          "gold jacket buttons",
+          "white collared undershirt",
+          "dark purple hakama trousers",
+          "white waist sash",
+          "butterfly-wing patterned white haori",
+          "turquoise pink gradient haori hem",
+          "black dotted haori trim",
+          "white butterfly-patterned kyahan wraps",
+          "white ribbon leg ties",
+          "dark purple tabi socks",
+          "white zori sandals",
+          "purple sandal straps"
+        ]
+      }
+    ]
+  },
+  "shiomi syuko": {
+    "series": "idolmaster cinderella girls",
+    "seriesCN": "",
+    "cn": [],
+    "sets": []
+  },
+  "shion": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "紫咲诗音",
+      "shion"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "tilted black witch hat",
+          "grey vertical-pinstriped cropped long-sleeved shirt",
+          "black and purple capelet",
+          "pink bowtie",
+          "black gloves",
+          "black low-leg miniskirt",
+          "grey pinstriped thighhighs",
+          "chain thighlet",
+          "black star-decorated loafers"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "fur scarf with pentagram pin",
+          "short purple patterned kimono with frilled sleeves",
+          "pink obi over wider black inner obi",
+          "black pantyhose",
+          "single thighlet",
+          "black fur-trimmed boots"
+        ]
+      }
+    ]
+  },
+  "shirahoshi": {
+    "series": "one piece",
+    "seriesCN": "海賊王",
+    "cn": [
+      "白星",
+      "shirahoshi",
+      "しらほし"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·龍宮城人魚公主",
+        "tags": [
+          "yellow pearl-encrusted halter-neck top",
+          "pearl necklace and neck strap",
+          "shell-shaped earrings",
+          "decorative gold belly chain",
+          "long pale front loincloth panel"
+        ]
+      }
+    ]
+  },
+  "shirasu azusa": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "白洲梓",
+      "梓",
+      "shirasu azusa",
+      "azusa"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·梓補課部制服與外披",
+        "tags": [
+          "long black frilled dress",
+          "floral trim on black dress",
+          "white collared undershirt",
+          "long-sleeved white capelet over dress",
+          "yellow Trinity insignia on right capelet sleeve",
+          "yellow Arius insignia on left capelet sleeve",
+          "gold floral Arius brooch at collar",
+          "black cuffed socks",
+          "white pointed shoes"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·梓官方泳裝（Swimsuit）",
+        "tags": [
+          "pink bikini with navy-blue bows",
+          "matching pink bikini bottom",
+          "light transparent beach overskirt",
+          "light-blue shaded transparent skirt",
+          "white striped ruffles beneath overskirt",
+          "navy-bowed beach sandals",
+          "white-and-pale-pink striped arm sleeves",
+          "pink polka-dot ribbon hair ornament",
+          "purple hibiscus hair pin"
+        ]
+      }
+    ]
+  },
+  "sunaookami shiroko": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "砂狼白子",
+      "白子",
+      "sunaookami shiroko",
+      "shiroko"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·白子阿拜多斯制服",
+        "tags": [
+          "white button-up school shirt",
+          "cyan necktie with navy cross motif",
+          "cyan striped scarf",
+          "navy-blue blazer with white edges and silver buttons",
+          "Abydos badge attached to left blazer",
+          "dark plaid pleated skirt",
+          "single lime-green fingerless cycling glove on left hand",
+          "knee-high socks with triangle motifs",
+          "black running shoes with lime-green accents",
+          "cyan shoelaces"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·白子官方競泳裝（Swimsuit）",
+        "tags": [
+          "black athletic one-piece swimsuit",
+          "cyan side panels",
+          "cyan and black fitted swim bodysuit"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·白子單車運動服（Riding）",
+        "tags": [
+          "white cycling jersey",
+          "cyan-blue cycling jersey panels",
+          "black side panels",
+          "Abydos High School Cycling Team lettering on sides",
+          "white and cyan fitted cycling top"
+        ]
+      }
+    ]
+  },
+  "shiromi iori": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "銀鏡伊織",
+      "伊織",
+      "shiromi iori",
+      "iori"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作風紀委員",
+        "tags": [
+          "white collared long-sleeved shirt",
+          "black vest with fitted bodice",
+          "black necktie",
+          "red discipline committee armband on sleeve",
+          "short black pleated skirt",
+          "black knee-high socks",
+          "black lace-up calf boots"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·伊織官方泳裝（Swimsuit）",
+        "tags": [
+          "black cut-high one-piece swimsuit",
+          "white stripes on black swimsuit",
+          "black gloves"
+        ]
+      }
+    ]
+  },
+  "soifon": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "soifon",
+      "砕蜂",
+      "ソイフォン",
+      "sui-feng",
+      "soi fon",
+      "碎蜂"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·二番隊隊長與隱密機動總司令雙層制服",
+        "tags": [
+          "black shihakusho",
+          "black sleeveless backless onmitsukido top",
+          "long black arm bands",
+          "black hakama trousers",
+          "yellow obi waist sash",
+          "white sleeveless captain haori",
+          "white socks",
+          "traditional Chinese flat shoes"
+        ]
+      }
+    ]
+  },
+  "sorasaki hina": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "空崎日奈",
+      "日奈",
+      "sorasaki hina",
+      "hina"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·陽奈風紀委員長軍服",
+        "tags": [
+          "dark-purple military coat",
+          "black fluffy fur-trimmed coat hood",
+          "gold buttons and military embellishments",
+          "red disciplinary committee armband",
+          "red-and-gold badge at left hip",
+          "smaller black-and-yellow hip badge",
+          "short black dress skirt",
+          "wine-purple thigh-high stockings",
+          "dark purple military boots",
+          "gold latches on boots"
+        ]
+      },
+      {
+        "id": "swimsuit",
+        "label": "第2套·陽奈官方泳裝（Swimsuit）",
+        "tags": [
+          "dark-blue two-piece tankini swimsuit",
+          "dark-blue tank top swimsuit upper",
+          "matching dark-blue swim bottom",
+          "white name patch reading ひな on chest"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·陽奈官方禮服（Dress）",
+        "tags": [
+          "strapless dark-purple evening gown",
+          "ruffled purple neckline",
+          "fitted decorated bodice",
+          "small star-like sparkling dress decorations",
+          "layered tulle knee-length skirt"
+        ]
+      }
+    ]
+  },
+  "stelle": {
+    "series": "honkai star rail",
+    "seriesCN": "崩壞：星穹鐵道",
+    "cn": [
+      "stelle",
+      "星"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·星（女性開拓者官方預設）",
+        "tags": [
+          "white inner shirt",
+          "open black long trench jacket",
+          "rolled-up jacket sleeves",
+          "black fitted miniskirt",
+          "light-blue thigh garter on left thigh",
+          "black and gray jacket accents"
+        ]
+      }
+    ]
+  },
+  "sushang": {
+    "series": "honkai impact",
+    "seriesCN": "崩壞3rd",
+    "cn": [
+      "李素裳",
+      "素裳hi3",
+      "sushang hi3",
+      "sushang"
+    ],
+    "sets": []
+  },
+  "takina inoue": {
+    "series": "lycoris recoil",
+    "seriesCN": "莉可丽丝",
+    "cn": [
+      "takina inoue",
+      "井之上泷奈"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·莉可麗絲二等 Lycoris 藏藍制服",
+        "tags": [
+          "navy-blue second-rank lycoris uniform",
+          "navy-blue pleated uniform skirt",
+          "black kneehigh socks",
+          "brown loafers"
+        ]
+      }
+    ]
+  },
+  "tamayo": {
+    "series": "demon slayer",
+    "seriesCN": "鬼滅之刃",
+    "cn": [
+      "tamayo",
+      "珠世"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（鬼滅）",
+        "tags": [
+          "dark purple medium-length houmongi kimono",
+          "pale lavender wavy branch pattern on kimono",
+          "red floral pattern with green leaves",
+          "cream-colored obi sash tied in taiko musubi",
+          "white tabi socks",
+          "violet zori sandals"
+        ]
+      }
+    ]
+  },
+  "tamura manami": {
+    "series": "ore no imouto ga konna ni kawaii wake ga nai",
+    "seriesCN": "我的妹妹不可能這麼可愛",
+    "cn": [
+      "tamura manami",
+      "田村麻奈實",
+      "麻奈實"
+    ],
+    "sets": []
+  },
+  "tashigi": {
+    "series": "one piece",
+    "seriesCN": "海賊王",
+    "cn": [
+      "達斯琪",
+      "tashigi",
+      "たしぎ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·海軍本部（初期）",
+        "tags": [
+          "blue white-trimmed short marine jacket",
+          "short-sleeve shirt underneath",
+          "dark blue fitted jeans",
+          "black leather shoes",
+          "rectangular red-framed eyeglasses"
+        ]
+      }
+    ]
+  },
+  "tifa lockhart": {
+    "series": "final fantasy",
+    "seriesCN": "最终幻想",
+    "cn": [
+      "蒂法·洛克哈特",
+      "蒂法",
+      "Tifa Lockhart",
+      "ティファ・ロックハート"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·FF7 Remake 預設戰鬥服",
+        "tags": [
+          "white sleeveless fitted tank top",
+          "black sports bra under shirt",
+          "black pleated miniskirt",
+          "black safety shorts under skirt",
+          "black belt with suspenders",
+          "black fingerless fighting gloves",
+          "metal-plated knuckle guards",
+          "red and black left forearm bracer",
+          "black socks",
+          "red and black armored boots"
+        ]
+      }
+    ]
+  },
+  "tina": {
+    "series": "dead or alive",
+    "seriesCN": "生死格鬥",
+    "cn": [
+      "蒂娜",
+      "ティナ",
+      "tina"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·DOA6 Costume 1（蒂娜摔角外套）",
+        "tags": [
+          "black studded overcoat",
+          "red-and-black studded bikini top",
+          "black fitted wrestling pants",
+          "metal studs on coat"
+        ]
+      }
+    ]
+  },
+  "toki": {
+    "series": "blue archive",
+    "seriesCN": "蔚藍檔案",
+    "cn": [
+      "飛鳥馬時",
+      "時",
+      "toki",
+      "asuma toki"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 C&C 戰術女僕",
+        "tags": [
+          "white maid headdress with bun cover",
+          "blue bowtie",
+          "black maid shirt with Juliet sleeves",
+          "white frilled apron",
+          "black layered miniskirt over detachable long skirt",
+          "large blue bow at back",
+          "black chest harness",
+          "black fingerless elbow gloves",
+          "black belt with utility pouches",
+          "thigh-mounted holster",
+          "white high-heeled thigh boots"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第2套·官方兔女郎（Asuma Toki Bunny Girl）",
+        "tags": [
+          "navy blue velvet strapless bunny leotard",
+          "navy blue velvet rabbit ears",
+          "white detached collar",
+          "light blue neck ribbon",
+          "white thighhigh stockings",
+          "navy blue high heels"
+        ]
+      }
+    ]
+  },
+  "tsukioka kogane": {
+    "series": "idolmaster shiny colors",
+    "seriesCN": "偶像大師閃耀色彩",
+    "cn": [
+      "tsukioka kogane",
+      "月岡戀雪",
+      "戀雪"
+    ],
+    "sets": []
+  },
+  "vi": {
+    "series": "league of legends",
+    "seriesCN": "英雄聯盟",
+    "cn": [
+      "vi",
+      "菲艾"
+    ],
+    "sets": []
+  },
+  "videl": {
+    "series": "dragon ball",
+    "seriesCN": "七龍珠",
+    "cn": [
+      "videl",
+      "比迪麗"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·Dragon Ball 比迪麗初登場便服",
+        "tags": [
+          "long loose white T-shirt",
+          "black spandex compression shorts",
+          "black fingerless gloves",
+          "purple ankle socks",
+          "green athletic shoes"
+        ]
+      }
+    ]
+  },
+  "vinsmoke reiju": {
+    "series": "one piece",
+    "seriesCN": "海賊王",
+    "cn": [
+      "文斯莫克·蕾玖",
+      "vinsmoke reiju",
+      "reiju"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·One Piece 蕾玖 Germa 66 粉色戰鬥服",
+        "tags": [
+          "light-pink Germa raid suit dress",
+          "deep front opening on dress",
+          "gold circular target-shaped ornaments",
+          "dark-pink armored gauntlets",
+          "blue neck ascot",
+          "black number-66 headphones",
+          "purple-and-black moth-wing patterned cape"
+        ]
+      }
+    ]
+  },
+  "wiz": {
+    "series": "kono subarashii sekai ni shukufuku wo!",
+    "seriesCN": "為美好的世界獻上祝福",
+    "cn": [
+      "wiz",
+      "維茲",
+      "ウィズ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·KonoSuba 惠惠商店店主（維茲）",
+        "tags": [
+          "light-purple ankle-length dress",
+          "dark-purple hooded outer robe",
+          "dark-purple gambeson-style mantle",
+          "gold accents on hooded robe",
+          "gold cross-and-bat-wing brooch",
+          "dark-purple boots"
+        ]
+      }
+    ]
+  },
+  "yadomaru lisa": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "yadomaru lisa",
+      "yadoumaru lisa",
+      "矢胴丸リサ",
+      "莉莎",
+      "Lisa"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作人間界水手服（Visored）",
+        "tags": [
+          "sailor fuku",
+          "teal sailor collar",
+          "teal pleated miniskirt",
+          "pink neckerchief",
+          "red oval glasses"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·百年前八番隊副隊長改良死霸裝",
+        "tags": [
+          "black shinigami kosode",
+          "white under-kimono shirt",
+          "shortened black hakama worn as a skirt",
+          "white hakama-himo waist sash",
+          "white tabi socks",
+          "straw waraji sandals",
+          "red square spectacles",
+          "eighth division lieutenant armband"
+        ]
+      }
+    ]
+  },
+  "yoru": {
+    "series": "chainsaw man",
+    "seriesCN": "鏈鋸人",
+    "cn": [
+      "夜",
+      "戰爭惡魔",
+      "yoru"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作第四東高制服",
+        "tags": [
+          "white long-sleeved button-up blouse",
+          "dark pinafore-style school dress",
+          "below-knee pleated skirt",
+          "bow tie at shirt collar",
+          "wide waist belt",
+          "black knee-high socks",
+          "sneakers"
+        ]
+      }
+    ]
+  },
+  "yoshino dal": {
+    "series": "date a live",
+    "seriesCN": "約會大作戰",
+    "cn": [
+      "yoshino dal",
+      "四糸乃"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·約會大作戰 四糸乃神威靈裝 El 兔帽雨衣",
+        "tags": [
+          "oversized pale-green rabbit-themed hooded raincoat",
+          "long rabbit-shaped ears on coat hood",
+          "gold zigzag trimming on coat",
+          "white ruffled coat edges",
+          "detached upper arm sections",
+          "puffy rabbit-tail ornament with pink bow on coat hem",
+          "white dress underneath raincoat",
+          "pink neck ribbon",
+          "green rain boots",
+          "pink socks"
+        ]
+      }
+    ]
+  },
+  "yozora mel": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "yozora mel",
+      "夜空メル"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "strapless cross-laced frilled chemise with underbust empire waist",
+          "front slit on chemise",
+          "short sheer yellow detached sleeves with bat print",
+          "black pleated miniskirt",
+          "sheer black overskirt",
+          "red belt with gold edging",
+          "gold-trimmed black thighhighs",
+          "black choker",
+          "black wrist bracelet",
+          "black fold-over ankle boots with bows"
+        ]
+      },
+      {
+        "id": "set2",
+        "label": "第3套·官方正月",
+        "tags": [
+          "red-to-purple gradient kimono top",
+          "star-print pattern on kimono",
+          "long purple hakama skirt",
+          "white tabi socks",
+          "geta sandals"
+        ]
+      }
+    ]
+  },
+  "yuffie kisaragi": {
+    "series": "final fantasy",
+    "seriesCN": "最终幻想",
+    "cn": [
+      "尤菲·如月",
+      "Yuffie Kisaragi",
+      "ユフィ・キサラギ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·FF7 初代忍者服",
+        "tags": [
+          "green sleeveless high-neck cropped jumper",
+          "tan low-waist shorts",
+          "unzipped shorts fly",
+          "white cloth headband",
+          "large left shoulder guard",
+          "arm-length left protective gauntlet",
+          "cross-body gauntlet straps",
+          "mesh undersleeve on right arm",
+          "mesh stocking on left leg",
+          "orange fingerless gloves",
+          "white leg warmers",
+          "orange athletic shoes"
+        ]
+      }
+    ]
+  },
+  "yumemizuki mizuki": {
+    "series": "genshin impact",
+    "seriesCN": "原神",
+    "cn": [
+      "yumemizuki mizuki",
+      "夢見月瑞希",
+      "瑞希",
+      "mizuki"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·官方 Dawnbreath Dreambelle",
+        "tags": [
+          "lavender short yukata-inspired dress",
+          "wide flared sleeves",
+          "purple and pink swirling cloud patterns on sleeves",
+          "layered white frills on sleeve edges",
+          "white ruffled dress hem",
+          "purple and magenta obi ribbons",
+          "large rosette ornament at waist",
+          "hanging obi tassels",
+          "short layered skirt",
+          "pink and white ruffled skirt panels",
+          "purple and white okobo platform sandals",
+          "back bows on sandals",
+          "gold heel ornaments"
+        ]
+      }
+    ]
+  },
+  "yunyun": {
+    "series": "kono subarashii sekai ni shukufuku wo!",
+    "seriesCN": "為美好的世界獻上祝福",
+    "cn": [
+      "yunyun",
+      "芸芸",
+      "ゆんゆん"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·KonoSuba 紅魔族悠悠標準冒險服",
+        "tags": [
+          "black cloak and mantle",
+          "black hooded robe",
+          "low-cut undershirt",
+          "short pink miniskirt",
+          "dark-pink stockings",
+          "brown boots"
+        ]
+      }
+    ]
+  },
+  "yuzuki choco": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "yuzuki choco",
+      "癒月ちょこ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "open white lab coat with red inner lining",
+          "pink sleeveless center-frilled shirt",
+          "black lace-trimmed pencil miniskirt",
+          "black lace-trimmed thighhighs",
+          "garter straps",
+          "black strappy high heels"
+        ]
+      }
+    ]
+  },
+  "kuchiki rukia": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "朽木露琪亞",
+      "露琪亞",
+      "kuchiki rukia",
+      "ルキア"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作死霸裝",
+        "tags": [
+          "shinigami shihakusho",
+          "black kimono",
+          "white juban",
+          "black hakama",
+          "white sash",
+          "white tabi",
+          "waraji"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·朽木露琪亞十七個月後十三番隊副隊長死霸裝",
+        "tags": [
+          "black shihakusho kosode",
+          "white under-kimono shitagi",
+          "black hakama trousers",
+          "white hakama-himo sash",
+          "white tabi socks",
+          "straw waraji sandals",
+          "shortened upper-arm-length kosode sleeves",
+          "white fingerless tekko forearm guards reaching above elbows",
+          "thirteenth division lieutenant badge around left upper sleeve"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·Hakka no Togame（Bankai 型態）",
+        "tags": [
+          "white kimono",
+          "ankle-length kimono",
+          "wide sleeves",
+          "ornate collar",
+          "back ribbons",
+          "ice flower ornament",
+          "ice crown"
+        ]
+      },
+      {
+        "id": "captain",
+        "label": "第4套·十三番隊隊長羽織",
+        "tags": [
+          "shinigami shihakusho",
+          "white captain haori",
+          "black kimono",
+          "black hakama",
+          "white sash",
+          "white tabi"
+        ]
+      }
+    ]
+  },
+  "inoue orihime": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "井上織姬",
+      "織姬",
+      "inoue orihime",
+      "オリヒメ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作空座學園制服",
+        "tags": [
+          "karakura high school uniform",
+          "white shirt",
+          "grey jacket",
+          "grey skirt",
+          "red bow"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·虛圈／藍染宮殿",
+        "tags": [
+          "white strapless long dress",
+          "black-edged white bolero jacket",
+          "puffed shoulders on short jacket",
+          "long rear white mantle-like cloth panel",
+          "black trim at bolero hem"
+        ]
+      },
+      {
+        "id": "event",
+        "label": "第3套·千年血戰篇戰鬥服",
+        "tags": [
+          "white cropped sleeveless top",
+          "deep V-shaped open neckline",
+          "blue neckline trim",
+          "blue shoulder and sleeve details",
+          "matching blue collar",
+          "decorative blue gemstone brooch",
+          "long white skirt with blue and black details"
+        ]
+      }
+    ]
+  },
+  "nelliel tu odelschwanck": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "妮爾·圖·歐德修凡克",
+      "妮爾",
+      "nelliel tu odelschwanck",
+      "ネル"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作幼體綠斗篷",
+        "tags": [
+          "green hooded dress",
+          "hood",
+          "green cloak"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·千年血戰篇成年妮露白色緊身型戰鬥服",
+        "tags": [
+          "white skintight bodysuit",
+          "tan fur lining around hips",
+          "white gloves",
+          "hoof-shaped armored wrist gauntlets",
+          "tan fur trim at cuffs",
+          "green fur sleeves extending to elbows",
+          "red shoulder pauldrons",
+          "white thigh-high leggings",
+          "Arrancar heeled shoes with hoof-shaped heels"
+        ]
+      }
+    ]
+  },
+  "unohana retsu": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "卯之花烈",
+      "卯之花",
+      "unohana retsu",
+      "卯ノ花 烈"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·四番隊隊長卯之花烈標準羽織死霸裝",
+        "tags": [
+          "black shinigami kosode robe",
+          "white shitagi underlayer",
+          "black hakama trousers",
+          "broad white obi waist wrap instead of standard sash",
+          "white captain haori",
+          "white tabi socks",
+          "straw waraji sandals"
+        ]
+      }
+    ]
+  },
+  "matsumoto rangiku": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "松本亂菊",
+      "亂菊",
+      "matsumoto rangiku",
+      "松本乱菊"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·十番隊副隊長常服（無側開衩）",
+        "tags": [
+          "black loose-fitting kosode shihakusho",
+          "white shitagi underlayer",
+          "black hakama trousers",
+          "white hakama-himo waist sash",
+          "white tabi socks",
+          "straw waraji sandals",
+          "deep open-front kimono neckline",
+          "long pink scarf draped over shoulders",
+          "thin gold necklace",
+          "tenth division lieutenant insignia on waist sash"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·破面篇後右腿側開衩死霸裝",
+        "tags": [
+          "black loose-fitting kosode shihakusho",
+          "white shitagi underlayer",
+          "black hakama with slit running along right leg",
+          "asymmetrical right-leg side slit",
+          "white hakama-himo waist sash",
+          "white tabi socks",
+          "straw waraji sandals",
+          "deep open-front kimono neckline",
+          "long pink scarf draped over shoulders",
+          "thin gold necklace",
+          "tenth division lieutenant insignia on waist sash"
+        ]
+      }
+    ]
+  },
+  "kuchiki hisana": {
+    "series": "bleach",
+    "seriesCN": "死神",
+    "cn": [
+      "朽木緋真",
+      "緋真",
+      "kuchiki hisana",
+      "朽木 緋真"
+    ],
+    "sets": []
+  },
+  "tokino sora": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "時乃空",
+      "空",
+      "tokino sora",
+      "ときのそら"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "white sleeveless collared cropped shirt",
+          "blue cropped vest",
+          "red bowtie",
+          "white wrist cuffs",
+          "blue pleated miniskirt",
+          "white bunny-tail waist cape",
+          "blue thighhighs",
+          "blue thigh ribbon on left leg",
+          "blue winged heeled fold-over ankle boots"
+        ]
+      }
+    ]
+  },
+  "sakura miko": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "櫻巫女",
+      "巫女",
+      "sakura miko",
+      "さくらみこ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·新版櫻花巫女偶像裝（2022公開款）",
+        "tags": [
+          "sleeveless white and pink shrine-maiden blouse",
+          "detached long white and pink kimono sleeves",
+          "pink-red short frilled skirt with cherry-blossom print",
+          "large golden-yellow waist bow with pink blossom center",
+          "red shoulder cord and tassel ornaments",
+          "gold bell pendants",
+          "red-and-white layered waist ribbons",
+          "white thigh-high stockings with pink ribbons",
+          "golden bell anklets"
+        ]
+      }
+    ]
+  },
+  "hoshimachi suisei": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "星街彗星",
+      "彗星",
+      "hoshimachi suisei",
+      "星街すいせい"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 hololive default",
+        "tags": [
+          "grey plaid beret with crown ornament",
+          "blue star choker",
+          "star earrings",
+          "blue ascot",
+          "white collared shirt",
+          "double-breasted grey plaid jacket",
+          "three-quarter sleeves with white cuffs",
+          "pleated grey plaid miniskirt with black frilled edging",
+          "asymmetric blue pleated underskirt",
+          "black bike shorts",
+          "blue belt with blue waist bow",
+          "black partially fingerless gloves",
+          "beaded star bracelet",
+          "mismatched blue kneehigh and black thighhigh",
+          "black thigh strap",
+          "black heeled ankle boots"
+        ]
+      }
+    ]
+  },
+  "shirakami fubuki": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "白上吹雪",
+      "吹雪",
+      "shirakami fubuki",
+      "白上フブキ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "strapless hooded vest with front slit",
+          "blue neckerchief",
+          "wide white detached sleeves",
+          "black short shorts",
+          "single black thighhigh",
+          "thigh strap",
+          "black boots"
+        ]
+      }
+    ]
+  },
+  "ookami mio": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "大神澪",
+      "澪",
+      "ookami mio",
+      "大神ミオ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "cropped sleeveless black sailor blouse",
+          "white sailor collar",
+          "red neckerchief with red-white braided rope motif",
+          "red choker",
+          "pleated black miniskirt with cross-laced side slit",
+          "floral print near skirt slit",
+          "black detached sleeves with braided rope ties and small bells",
+          "white thighhigh tabi",
+          "zouri sandals"
+        ]
+      }
+    ]
+  },
+  "nekomata okayu": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "貓又小粥",
+      "小粥",
+      "nekomata okayu",
+      "猫又おかゆ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "black cropped hoodie with long oversize sleeves",
+          "long hoodie drawstrings",
+          "onigiri print on hoodie front",
+          "baggy white sweatpants",
+          "one sweatpant leg rolled up",
+          "yellow sneakers with cat print",
+          "black choker collar"
+        ]
+      }
+    ]
+  },
+  "inugami korone": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "戌神沁音",
+      "沁音",
+      "inugami korone",
+      "戌神ころね"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "red animal collar",
+          "sleeveless short white empire-waist dress",
+          "open yellow jacket worn off one shoulder",
+          "red and blue bows decorating jacket",
+          "red loose socks",
+          "casual sneakers",
+          "red wristbands"
+        ]
+      }
+    ]
+  },
+  "shirogane noel": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "白銀諾艾爾",
+      "諾艾爾",
+      "shirogane noel",
+      "白銀ノエル"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "short white-and-blue pleated armored dress",
+          "collared dress with puffed sleeves",
+          "asymmetric cleavage cutout on chest panel",
+          "short white tabard",
+          "white waist cape",
+          "brown leather belt with belt pouch",
+          "black thighhighs",
+          "single armored pauldron",
+          "chest guard secured with chest harness",
+          "chest armor straps",
+          "metal vambraces",
+          "black fingerless gloves",
+          "greaves",
+          "dark grey gold-accented tiara"
+        ]
+      }
+    ]
+  },
+  "shiranui flare": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "不知火芙蕾雅",
+      "芙蕾雅",
+      "shiranui flare",
+      "不知火フレア"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "blue detached collar",
+          "red bowtie",
+          "white criss-cross halterneck top",
+          "cleavage cutout in halterneck top",
+          "cutout above navel",
+          "cross-laced back straps",
+          "white pleated miniskirt",
+          "large white bow on skirt back",
+          "wide white detached sleeves",
+          "white half gloves",
+          "white thighhighs with garter straps",
+          "blue shoes"
+        ]
+      }
+    ]
+  },
+  "mori calliope": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "森美聲",
+      "美聲",
+      "mori calliope",
+      "森カリオペ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "black tiara with attached veil",
+          "long sleeveless black dress",
+          "high side slit on dress",
+          "torn black cape",
+          "spiked cape shoulders",
+          "single sheer detached sleeve",
+          "armlet on opposite arm",
+          "bracer on opposite forearm",
+          "single black thighhigh",
+          "anklets",
+          "gold pumps"
+        ]
+      }
+    ]
+  },
+  "watson amelia": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "華生阿米莉亞",
+      "阿米莉亞",
+      "watson amelia",
+      "ワトソン・アメリア"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "brown deerstalker detective hat",
+          "buttoned white collared shirt",
+          "short red necktie",
+          "brown capelet over brown coat",
+          "high-waist brown pleated plaid miniskirt",
+          "single thigh strap",
+          "thigh-mounted syringe holster",
+          "black thighhighs",
+          "brown loafers"
+        ]
+      }
+    ]
+  },
+  "hakos baelz": {
+    "series": "hololive",
+    "seriesCN": "Hololive",
+    "cn": [
+      "哈科斯·貝爾茲",
+      "貝爾茲",
+      "hakos baelz",
+      "ハコス・ベールズ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作 1st costume",
+        "tags": [
+          "black spiked collar",
+          "white cropped shirt printed with RAT",
+          "mismatched short-over-long sleeves",
+          "black tube top under cropped shirt",
+          "single black glove",
+          "thigh strap",
+          "multicolored miniskirt",
+          "asymmetric red loose sock and yellow kneehigh",
+          "black shoes",
+          "mousetrap-shaped ear accessory"
+        ]
+      }
+    ]
+  },
+  "uraraka ochaco": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "麗日御茶子",
+      "麗日お茶子",
+      "うららかおちゃこ",
+      "uravity"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Uravity",
+        "tags": [
+          "black full-body hero suit",
+          "pale pink torso panel",
+          "two pink stripes at waist",
+          "black rounded chest details",
+          "dark pink neck choker",
+          "pink detached sleeves",
+          "black sleeve cuffs",
+          "pale pink rounded wrist gauntlets",
+          "dark pink gauntlet handles",
+          "pale pink two-piece waist belt",
+          "dark pink round belt buckle",
+          "pale pink chunky knee-high boots",
+          "dark pink shock-absorbent boot soles",
+          "grey boot heels",
+          "spring-equipped boot heels",
+          "matching pale pink helmet",
+          "tinted transparent head visor"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "black tights"
+        ]
+      }
+    ]
+  },
+  "asui tsuyu": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "蛙吹梅雨",
+      "あすいつゆ",
+      "froppy"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Froppy",
+        "tags": [
+          "bright green turtleneck wetsuit",
+          "two black suit stripes",
+          "yellow outlined suit stripes",
+          "beige gloves",
+          "green-buckled wrist guards",
+          "beige shoulder straps",
+          "chest support belt",
+          "green-orbed waist belt",
+          "tight black thigh-high boots",
+          "yellow v-shaped thigh markings",
+          "green webbed frog flippers",
+          "beige goggle headband",
+          "dark green tinted goggles",
+          "thin dark green face mask"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      },
+      {
+        "id": "winter",
+        "label": "第3套·英雄服冬裝",
+        "tags": [
+          "bright green insulated turtleneck wetsuit",
+          "two black suit stripes beginning below chest",
+          "yellow outlined suit stripes",
+          "two rounded chest markings",
+          "beige gloves",
+          "green-buckled wrist guards",
+          "beige shoulder straps",
+          "chest support belt",
+          "green-orbed waist belt",
+          "tight black thigh-high boots",
+          "yellow v-shaped thigh markings",
+          "green webbed frog flippers",
+          "goggles with fitted visor",
+          "temperature-regulating neck ring",
+          "two yellow bubble-shaped shoulder warmers",
+          "dark green face mask"
+        ]
+      }
+    ]
+  },
+  "yaoyorozu momo": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "八百萬百",
+      "八百万百",
+      "やおよろずもも",
+      "creati"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Creati",
+        "tags": [
+          "high-collared crimson leotard",
+          "sleeveless leotard",
+          "deep central torso opening",
+          "white trim around armholes",
+          "white trim at waist",
+          "thin upper-chest strap",
+          "two beige utility belts around waist",
+          "rear utility book holster",
+          "composition reference book",
+          "red calf-high heeled boots",
+          "dip-front boot cuffs"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      },
+      {
+        "id": "winter",
+        "label": "第3套·英雄服冬裝",
+        "tags": [
+          "high-collared crimson leotard",
+          "sleeveless leotard",
+          "deep central torso opening",
+          "white trim around armholes",
+          "white trim at waist",
+          "thin upper-chest strap",
+          "two beige utility belts around waist",
+          "rear utility book holster",
+          "composition reference book",
+          "red calf-high heeled boots",
+          "dip-front boot cuffs",
+          "long crimson winter cape",
+          "high-collared cape",
+          "neck fastening ring",
+          "large red gemstone at throat"
+        ]
+      }
+    ]
+  },
+  "ashido mina": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "蘆戶三奈",
+      "芦戸三奈",
+      "あしどみな",
+      "pinky"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Pinky／Prism Sky",
+        "tags": [
+          "plain white eye mask",
+          "purple and turquoise camouflage-print bodysuit",
+          "cropped sleeveless tan waistcoat",
+          "open-front waistcoat",
+          "white faux fur collar",
+          "purple and beige acid-resistant boots",
+          "holed boot soles"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      },
+      {
+        "id": "winter",
+        "label": "第3套·英雄服冬裝",
+        "tags": [
+          "plain white eye mask",
+          "purple and turquoise camouflage-print bodysuit",
+          "longer tan winter waistcoat",
+          "elbow-length waistcoat sleeves",
+          "thick white faux fur collar",
+          "white faux fur jacket hem",
+          "two front clasps at collar",
+          "large hexagonal shoulder patch",
+          "purple letter p shoulder insignia",
+          "purple and beige acid-resistant boots",
+          "holed boot soles"
+        ]
+      }
+    ]
+  },
+  "jirou kyouka": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "耳郎響香",
+      "じろうきょうか",
+      "earphone jack"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Earphone Jack",
+        "tags": [
+          "black leather jacket",
+          "long salmon-colored shirt",
+          "torn neckline on shirt",
+          "ripped shirt hem",
+          "black trousers",
+          "black boots with built-in speakers",
+          "plain black choker",
+          "white fingerless gloves"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "hatsume mei": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "發目明",
+      "発目明",
+      "はつめめい"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·支援科／體育祭裝備",
+        "tags": [
+          "u.a. athletic gym uniform",
+          "dark blue school tracksuit",
+          "u.a. lettering on tracksuit",
+          "red-and-gold steampunk goggles",
+          "goggles worn on head",
+          "workshop utility belt",
+          "tool pouches",
+          "oversized speed-assist boots",
+          "speed-assist boot attachments"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "hadou nejire": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "波動寧次蕾",
+      "波動ねじれ",
+      "はどうねじれ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Nejire-chan",
+        "tags": [
+          "dark royal blue high-neck bodysuit",
+          "pale mint torso markings",
+          "turquoise-edged torso markings",
+          "mint and turquoise upper arm stripes",
+          "knee-high boots",
+          "turquoise ankle spiral guards",
+          "yellow wrist spiral guards",
+          "yellow gauntlets",
+          "turquoise wrist guards",
+          "black thigh straps",
+          "two small thigh satchels",
+          "buttoned thigh flaps"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "toga himiko": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "渡我被身子",
+      "トガヒミコ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·渡我被身子關西襟校服與反派攜帶裝備",
+        "tags": [
+          "dark-blue Kansai-collar sailor blouse",
+          "double white stripe sailor collar",
+          "red neckerchief loosely tied",
+          "oversized beige knit cardigan",
+          "long cardigan hem and cuffs",
+          "two front cardigan pockets",
+          "dark-blue pleated school skirt",
+          "black knee-high socks",
+          "dark-brown school loafers",
+          "black respirator-style mask",
+          "blue utility belt with green storage boxes",
+          "green thigh-mounted utility pouches"
+        ]
+      }
+    ]
+  },
+  "kayama nemuri": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "香山睡",
+      "かやまねむり",
+      "midnight"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·Midnight 成人期英雄服（白內搭黑皮革）",
+        "tags": [
+          "black leather corset-style breastless leotard",
+          "thin white skintight under-bodysuit",
+          "red jewel accents along center torso",
+          "light-purple thighhigh stockings",
+          "garter straps",
+          "burgundy gold-studded utility belt",
+          "pentagonal center belt buckle",
+          "black stiletto knee boots",
+          "small red domino mask",
+          "metal handcuffs around wrists"
+        ]
+      }
+    ]
+  },
+  "kendou itsuka": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "拳藤一佳",
+      "けんどういつか"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Battle Fist",
+        "tags": [
+          "teal knee-length qipao",
+          "short-sleeved qipao",
+          "yellow cheongsam trim",
+          "black double-breasted corset",
+          "black short pants under qipao",
+          "loose brown waist utility belt",
+          "two long rear utility canisters",
+          "thin black domino eye mask",
+          "navy blue high-heeled boots",
+          "white boot heels",
+          "wide white boot vamps"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      },
+      {
+        "id": "winter",
+        "label": "第3套·英雄服冬裝",
+        "tags": [
+          "teal knee-length qipao",
+          "long wrist-length qipao sleeves",
+          "yellow cheongsam trim",
+          "black double-breasted corset",
+          "black short pants under qipao",
+          "loose brown waist utility belt",
+          "two long rear utility canisters",
+          "thin black domino eye mask",
+          "navy blue high-heeled boots",
+          "white boot heels",
+          "wide white boot vamps"
+        ]
+      }
+    ]
+  },
+  "lady nagant": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "津津見海奈",
+      "拿鋼女士",
+      "lady nagant",
+      "kaina tsutsumi"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Lady Nagant",
+        "tags": [
+          "sleeveless dark high-neck jumpsuit",
+          "navy blue jumpsuit accents",
+          "rumpled dark leggings",
+          "two dark green underbust armor plates",
+          "matching green knee guards",
+          "wide green-grey utility belt",
+          "right-eye blue scouter"
+        ]
+      }
+    ]
+  },
+  "kodai yui": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "小大唯",
+      "こだいゆい"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服",
+        "tags": [
+          "red full-body hero suit",
+          "white high collar trim",
+          "white v-stripe across chest",
+          "white upper-arm trim",
+          "short white overskirt",
+          "red design at front of skirt",
+          "white forearm vambraces",
+          "yellow vambrace highlights",
+          "red baseball-cap-like helmet",
+          "white u-shaped lines on cap",
+          "two yellow cap studs",
+          "rear fin-shaped head fitting",
+          "grey oval collar gemstone",
+          "yellow-buckled waist belt",
+          "two small shoulder tool pouches"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "komori kinoko": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "小森希乃子",
+      "こもりきのこ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Shemage",
+        "tags": [
+          "high-neck long-sleeved mushroom dress",
+          "fur-trimmed sleeve cuffs",
+          "red and white fly-agaric print",
+          "mushroom-cap shaped hat",
+          "pale pink knee-high boots",
+          "tan thick boot soles",
+          "frilled boot shafts",
+          "red and white mushroom boot print",
+          "dark brown waist belt",
+          "large gold belt buckle",
+          "mushroom spore sprayer holders"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "tokage setsuna": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "取蔭切奈",
+      "とかげせつな"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·取蔭切奈一年B班初版英雄服",
+        "tags": [
+          "purple scaly domino mask",
+          "matching purple scale-pattern bodysuit",
+          "black knee-high boots",
+          "black fingerless gloves",
+          "purple scale-pattern knuckle guards",
+          "pale-orange three-piece wrist protectors",
+          "black utility belt",
+          "yellow jewel buckle at waist"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "tsunotori pony": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "角取波妮",
+      "つのとりポニー"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Rocketti",
+        "tags": [
+          "horse halter head harness",
+          "lead rope dangling behind head",
+          "orange fitted jockey shirt",
+          "pale markings on jockey shirt",
+          "matching orange riding pants",
+          "orange-tipped fingerless gloves",
+          "collarbone harness straps",
+          "bicep harness straps",
+          "waist harness straps",
+          "hoof-covering riding boots",
+          "boot stirrups"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "yanagi reiko": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "柳玲子",
+      "やなぎれいこ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服",
+        "tags": [
+          "light periwinkle kimono",
+          "loose kimono dress",
+          "oversized puffy hood",
+          "long flared kimono sleeves",
+          "navy blue upper-abdomen sash",
+          "double white stripes on sash",
+          "matching blue flat boots",
+          "dark boot soles",
+          "separate lower-face covering mask",
+          "neck-connected face covering"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·雄英校服",
+        "tags": [
+          "u.a. school uniform",
+          "u.a. girls uniform",
+          "grey dress jacket",
+          "teal stripes",
+          "gold buttons",
+          "white dress shirt",
+          "red necktie",
+          "teal pleated skirt",
+          "brown loafers",
+          "kneehighs"
+        ]
+      }
+    ]
+  },
+  "utsushimi camie": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "現見凱米",
+      "うつしみけみぃ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服",
+        "tags": [
+          "black skintight catsuit",
+          "subtle line-patterned bodysuit",
+          "central front zipper",
+          "partly unzipped front collar",
+          "loose black plated neck collar",
+          "white wrist cuffs",
+          "white knee-high high-heeled boots",
+          "grey lines on boot shafts",
+          "shiketsu military-style cap"
+        ]
+      },
+      {
+        "id": "school",
+        "label": "第2套·士傑高校服",
+        "tags": [
+          "shiketsu high uniform",
+          "white collared shirt",
+          "dark skirt",
+          "shiketsu hat"
+        ]
+      }
+    ]
+  },
+  "todoroki fuyumi": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "轟冬美",
+      "とどろきふゆみ"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·轟冬美日常辦公服",
+        "tags": [
+          "white dress shirt",
+          "grayish peach cardigan",
+          "cardigan sleeves rolled to just below elbows",
+          "navy-blue fitted jeans",
+          "brown leather dress shoes",
+          "red rectangular eyeglasses"
+        ]
+      }
+    ]
+  },
+  "tatsuma ryuko": {
+    "series": "boku no hero academia",
+    "seriesCN": "我的英雄學院",
+    "cn": [
+      "龍宮",
+      "ryukyu"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·英雄服 Ryukyu",
+        "tags": [
+          "dark crimson qipao",
+          "yellow-trimmed mandarin collar",
+          "center front chest fastenings",
+          "pale green scale-patterned shoulder trim",
+          "high side slits in skirt",
+          "yellow claw slash marks near hem",
+          "black knee-high boots",
+          "left thigh utility pouch strap",
+          "long detached white sleeves",
+          "high outer sleeve tabs",
+          "green scaled headband",
+          "four silver face-covering claw guards",
+          "gold spiked ear piercings"
+        ]
+      }
+    ]
+  },
+  "lucy heartfilia": {
+    "series": "fairy tail",
+    "seriesCN": "妖精的尾巴",
+    "cn": [
+      "露西·哈特菲利亞",
+      "lucy heartfilia",
+      "ルーシィ・ハートフィリア",
+      "露西"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·X784 初登場白襯衫與藍裙",
+        "tags": [
+          "white sleeveless collared zip-front shirt",
+          "dark blue trim across chest and collar",
+          "blue pleated miniskirt",
+          "brown leather waist belt",
+          "small belt pouch for gate keys",
+          "black wristband on right wrist",
+          "black knee-high boots"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·X791 七年後藍白露腹套裝",
+        "tags": [
+          "white sweetheart bandeau tube top",
+          "gold trim on tube top",
+          "large blue heart emblem on chest",
+          "cropped blue open vest",
+          "gold piping on vest",
+          "blue and white ruffled detached sleeves",
+          "gold ribbons tied at biceps",
+          "dark navy pleated miniskirt",
+          "thin white waist belt",
+          "brown key pouch on belt",
+          "black thighhigh stockings",
+          "brown calf-high boots"
+        ]
+      }
+    ]
+  },
+  "erza scarlet": {
+    "series": "fairy tail",
+    "seriesCN": "妖精的尾巴",
+    "cn": [
+      "艾爾莎·史卡雷特",
+      "erza scarlet",
+      "エルザ・スカーレット",
+      "艾爾莎"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（Heart Kreuz 鎧）",
+        "tags": [
+          "heart kreuz armor",
+          "metal breastplate",
+          "armored collar",
+          "shoulder guards",
+          "white blouse",
+          "blue skirt",
+          "black boots"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·天輪鎧 Heaven’s Wheel Armor",
+        "tags": [
+          "silver feather-shaped breastplate",
+          "large silver flower clasp on breastplate",
+          "wide feather-shaped armored tassets",
+          "long skirt under silver waist plates",
+          "thick oversized silver gauntlets",
+          "feather-shaped gauntlet edging",
+          "silver bicep bands",
+          "feather-shaped metal back ornaments",
+          "silver armored tiara",
+          "silver armored boots"
+        ]
+      },
+      {
+        "id": "alt2",
+        "label": "第3套·炎帝鎧 Flame Empress Armor",
+        "tags": [
+          "dark red armor breastplate",
+          "orange flame-shaped breastplate trim",
+          "bare-shouldered armor with no pauldrons",
+          "black dragon-like armor plates",
+          "orange flame-patterned waist belt",
+          "metal dragon-shaped back plates",
+          "orange armored gauntlets",
+          "small claw decorations on gauntlets",
+          "black dragon claw-shaped greaves",
+          "orange metal knee guards"
+        ]
+      }
+    ]
+  },
+  "juvia lockser": {
+    "series": "fairy tail",
+    "seriesCN": "妖精的尾巴",
+    "cn": [
+      "朱比亞·洛克瑟",
+      "juvia lockser",
+      "ジュビア・ロクサー",
+      "朱比亞"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·原作（幻影旅團時期外套）",
+        "tags": [
+          "sapphire blue coat",
+          "navy fur shawl",
+          "cream fur trim",
+          "cossack hat",
+          "white teru teru bozu"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·X791 大魔鬥演武深色毛領外套",
+        "tags": [
+          "dark knee-length fitted dress coat",
+          "four symmetrical light-colored front buttons",
+          "fur-trimmed sleeve cuffs",
+          "fur collar",
+          "dark fur-trimmed cossack hat",
+          "light butterfly-shaped hat clip",
+          "light brown waist belt",
+          "dark brown thigh-high boots"
+        ]
+      }
+    ]
+  },
+  "mirajane strauss": {
+    "series": "fairy tail",
+    "seriesCN": "妖精的尾巴",
+    "cn": [
+      "米拉珍·史特勞斯",
+      "mirajane strauss",
+      "ミラジェーン・ストラウス",
+      "米拉珍"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·公會女侍常服（酒紅色長洋裝）",
+        "tags": [
+          "ankle-length sleeveless maroon dress",
+          "long pleated maroon skirt",
+          "large pink bow on chest",
+          "pink trim around neckline",
+          "pink trim around waist",
+          "matching maroon high-heeled shoes",
+          "thin necklace with blue oval pendant",
+          "white flower bracelet on right wrist"
+        ]
+      }
+    ]
+  },
+  "cana alberona": {
+    "series": "fairy tail",
+    "seriesCN": "妖精的尾巴",
+    "cn": [
+      "卡娜·阿爾貝羅納",
+      "cana alberona",
+      "カナ・アルベローナ",
+      "卡娜"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·X784 淺藍迷彩短上衣與七分褲",
+        "tags": [
+          "light blue camouflage-pattern bikini top",
+          "calf-length capri pants",
+          "two dangling bands from each trouser leg",
+          "thin low-slung belt with repeating heart motifs",
+          "high-heeled sandals",
+          "engraved metal bicep bracelets",
+          "three circular metal bracelets on right wrist"
+        ]
+      },
+      {
+        "id": "alt",
+        "label": "第2套·X792",
+        "tags": [
+          "white and blue checkered bikini top",
+          "gold armbands",
+          "wrist bracelets",
+          "red floral sarong",
+          "yellow trim",
+          "capri pants",
+          "short-heeled sandals"
+        ]
+      }
+    ]
+  },
+  "yukino agria": {
+    "series": "fairy tail",
+    "seriesCN": "妖精的尾巴",
+    "cn": [
+      "雪乃·亞格利亞",
+      "yukino agria",
+      "ユキノ・アグリア",
+      "雪乃"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·大魔鬥演武劍齒之虎羽飾斗篷",
+        "tags": [
+          "long cape with star-shaped chest clasp",
+          "feather-like extensions across shoulders and chest",
+          "feather-trimmed cape around mid-back",
+          "segmented cape hem",
+          "ribbon-tied cape sections",
+          "blouse beneath cape",
+          "shorts beneath cape",
+          "black mid-thigh stockings"
+        ]
+      }
+    ]
+  },
+  "evergreen": {
+    "series": "fairy tail",
+    "seriesCN": "妖精的尾巴",
+    "cn": [
+      "艾芭格琳",
+      "evergreen",
+      "エバーグリーン"
+    ],
+    "sets": [
+      {
+        "id": "main",
+        "label": "第1套·初登場灰綠色翼片洋裝",
+        "tags": [
+          "grey dress",
+          "green dress in anime colorway",
+          "movable wing-shaped fabric panels attached to back of dress",
+          "navy stockings",
+          "white sandals"
+        ]
+      }
+    ]
+  },
+  "florence nightingale": {
+    "series": "fate grand order",
+    "seriesCN": "Fate/Grand Order",
+    "cn": [
+      "南丁格爾",
+      "弗洛倫斯·南丁格爾",
+      "Florence Nightingale",
+      "ナイチンゲール",
+      "nightingale"
+    ],
+    "sets": [
+      {
+        "id": "halloween2017",
+        "label": "第1套·2017萬聖節概念禮裝 No.680「Trick or Treatment」（非靈基服裝）",
+        "tags": [
+          "black nurse garrison cap",
+          "short-sleeved black cropped bolero jacket",
+          "black shrug worn off shoulders",
+          "green-trimmed pink and purple layered bikini top",
+          "green bikini accents",
+          "purple bikini accents",
+          "exposed midriff",
+          "pink belt with metal studs",
+          "purple waist belt",
+          "very short black miniskirt",
+          "pink and green side-tie bikini bottom",
+          "green elbow-length mesh gloves",
+          "green thighhigh stockings",
+          "garter straps",
+          "black knee-high heeled boots"
+        ]
+      }
+    ]
+  }
+}
